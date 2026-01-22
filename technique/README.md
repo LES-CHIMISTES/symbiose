@@ -64,7 +64,7 @@
 ![Plan de branchements](synoptique.png)
 
 ## Plan d'implémentation
-![Planification de l'espace - perspective 2D](2d_plan.webp)
+![Planification de l'espace - perspective 2D](2d_plan.png)
 ![Planification de l'espace - perspective 3D](3d_plan1.webp)
 ![Planification de l'espace - perspective 3D](3d_plan2.webp)
 ![Planification de l'espace - perspective 3D (vue table)](3d_plan3.webp)

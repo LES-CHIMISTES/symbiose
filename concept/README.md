@@ -138,8 +138,8 @@ Bartender: The Right Mix nous a grandement inspiré au niveau du concept de base
 
 ## Scénarimage
 
-![Quatre personnes approchent l'installation et découvrent les quatre stations autour de la table. Chaque personne choisit une station et commence à manipuler son ingrédient. ](scenarimage1.webp)
-![La potion transparente commence à se colorer et réagiré. Les participants expérimentent librement pendant la phase de préparation. La potion évolue selon leurs combinaisons. ](scenarimage2.webp)
+![Quatre personnes approchent l'installation et découvrent les quatre stations autour de la table. Chaque personne choisit une station et commence à manipuler son ingrédient. ](scenarimage1.png)
+![La potion transparente commence à se colorer et réagiré. Les participants expérimentent librement pendant la phase de préparation. La potion évolue selon leurs combinaisons. ](scenarimage2.png)
 ![Événements aléatoire : Évaporation et Flamme instable. Évaporation : Le liquide diminue rapidement. La personne à la station eau agite frénétiquement l'erlenmeyer pour compenser. Les autres surveillent leurs dosages ; Flamme instable : Le feu devient chaotique à l'écran. La personne au brûleur doit ajuster le bouton en rythme précis. Les autres ralentissent leurs dosages pour aider](scenarimage3.webp)
 ![Événements aléatoire :  Flamme faible et Gel. Flamme faible : Le feu diminue dangereusement. La personne au feu tourne le bouton au maximum. Les autres maintiennent leurs dosages stables pour ne pas surcharger ; Gel : Tous les ingrédients se figent dans la potion. Les quatre participants agitent et manipulent frénétiquement leurs stations ensemble pour dégeler](scenarimage4.webp)
 ![Les quatre événements sont passés. Les participants maintiennent l'équilibre final. La potion se stabilise, brillant d'une couleur révélatrice](scenarimage5.webp)
