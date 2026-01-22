@@ -1,26 +1,27 @@
 # Scénarisation de l'interactivité
  
-#### Phase 1 : Préparation (0-2 min)
+#### Phase 0 : État initial
 | Verbe action | Condition de déclenchement | Effet visuel | Effet sonore | Effet interactif |
 | ------- | ------- | ------- | ------- | ------- |
-| **Appuyer**              | Une personne appuie sur le bouton central | Un bécher vide apparaît au centre de la projection du laboratoire | Son de démarrage, ambiance de laboratoire s'active | Le système initialise la session et active les quatre stations  |
-| **Doser (Eau)** | L'erlenmeyer est agité (accéléromètre détecte le mouvement) | Une main virtuelle verse de l'eau dans le bécher, le niveau monte selon l'intensité de l'agitation | Son d'eau versée, proportionnel à l'intensité | Le système enregistre le niveau d'eau ajouté à la potion |
-| **Doser (Feu)** | Le knob du brûleur est tourné | Le feu sous le bécher s'intensifie selon l'angle du knob, les LEDs physiques s'allument en conséquence | Son de flamme crépitante, intensité variable | Le système calcule l'impact thermique sur la potion |
-| **Doser (Poudres)** | L'un des 3 knobs de poudre est tourné | Un flux continu de poudre colorée (bleue/verte/rose) tombe dans le bécher, intensité selon le knob | Son de poudre versée, tonalité différente par couleur | Le système enregistre le type et la quantité de poudre ajoutée |
-| **Brasser** | Le joystick est manipulé | La potion tourbillonne dans le bécher selon la direction et l'intensité du joystick | Son de brassage liquide | Le système mélange virtuellement les ingrédients |
-| **Expérimenter** | Les participants manipulent librement leurs stations | La potion change de couleur, de viscosité et d'apparence selon les combinaisons d'ingrédients | Harmonies sonores se superposent selon les dosages | Passage automatique à la Phase 2 après 2 minutes |
+| **Observer**              | Les participants arrivent devant l'installation | Un faisceau lumineux illumine la station Eau, liste de checkboxes sur la projection : "☐ 1. Verser de l'eau" | Ambiance de laboratoire calme, attente | Le système attend l'interaction avec la première station |
 
-#### Phase 2 : Alchimie avec Défis (2-8 min)
+#### Phase 1 : Tutoriel progressif (0-2 min)
+| Verbe action | Condition de déclenchement | Effet visuel | Effet sonore | Effet interactif |
+| ------- | ------- | ------- | ------- | ------- |
+| **Verser** | L'erlenmeyer de la station Eau est agité (accéléromètre détecte le mouvement) | Une main virtuelle verse de l'eau dans le bécher, le niveau monte. Checkbox "✓ Verser de l'eau" se coche. Nouveau faisceau illumine la station Feu. Nouvelle checkbox apparaît : "☐ Allumer le feu" | Son d'eau versée, note de validation | Le système débloque la station Feu et enregistre le niveau d'eau |
+| **Tourner (Feu)** | Le knob du brûleur est tourné | Le feu s'allume sous le bécher, s'intensifie selon l'angle. Checkbox "✓ Allumer le feu" se coche. Faisceau illumine la station Poudres. Nouvelle checkbox : "☐ Ajouter des poudres" | Son de flamme crépitante, note de validation | Le système débloque la station Poudres et calcule l'impact thermique |
+| **Tourner (Poudres)** | L'un des 3 knobs de poudre est tourné | Flux de poudre colorée tombe dans le bécher. Checkbox "✓ Ajouter des poudres" se coche. Faisceau illumine la station Tourbillon. Nouvelle checkbox : "☐ Brasser la potion" | Son de poudre versée, note de validation | Le système débloque la station Tourbillon et enregistre le type/quantité de poudre |
+| **Basculer** | Le joystick est manipulé | La potion tourbillonne dans le bécher. Checkbox "✓ Brasser la potion" se coche. Tous les faisceaux s'éteignent. Message : "Tutoriel terminé - Expérimentez librement !" | Son de brassage liquide, accord de succès | Les quatre stations sont maintenant actives simultanément |
+<!-- | **Expérimenter** | Les participants manipulent librement toutes leurs stations | La potion change de couleur, viscosité et apparence selon les combinaisons. Les checkboxes disparaissent | Harmonies sonores se superposent selon les dosages | Passage automatique à la Phase 2 après 2 minutes d'expérimentation libre | -->
+
+<!-- #### Phase 2 : Alchimie avec Défis (2-8 min)
  
 | Verbe action | Condition de déclenchement | Effet visuel | Effet sonore | Effet interactif |
 | ------- | ------- | ------- | ------- | ------- |
-| **Événement: Évaporation** | Déclenché aléatoirement après 1-2 min de calme | Le niveau du liquide dans le bécher diminue rapidement, vapeur s'élève | Son d'évaporation intense, sifflement | La personne à la station Eau doit agiter frénétiquement l'erlenmeyer pour compenser pendant 45 secondes |
-| **Événement: Flamme instable**  | Déclenché aléatoirement après 1-2 min de calme | Le feu devient chaotique et irrégulier, flammes dansent de manière erratique | Son de flammes instables, crépitements agressifs | La personne au Feu doit ajuster le knob en rythme précis pour stabiliser pendant 45 secondes |
-| **Événement: Flamme faible**  | Déclenché aléatoirement après 1-2 min de calme | Le feu diminue drastiquement, devient presque éteint, LEDs faiblissent | Son de flamme mourante, grave et inquiétant | La personne au Feu doit tourner le knob au maximum immédiatement pour maintenir pendant 25 secondes |
-| **Événement: Gel** | Déclenché aléatoirement après 1-2 min de calme | Tous les ingrédients se figent dans le bécher, cristaux de glace apparaissent, tout devient bleu glacé | Son de gel, ambiance hivernale intense | TOUS les participants doivent manipuler frénétiquement leurs stations simultanément pour dégeler pendant 45 secondes |
+| **Réagir** | Un événement aléatoire se déclenche toutes les 1-2 min (Évaporation/Flamme instable/Flamme faible/Gel) | Visuel spécifique selon l'événement : vapeur qui s'élève, flammes erratiques, feu mourant, ou cristaux de glace. Dure 45 secondes | Sons spécifiques : sifflement, crépitements, grondement grave, ou ambiance hivernale | Les participants doivent réagir selon l'événement : agiter frénétiquement (Évaporation), ajuster en rythme (Flamme instable), tourner au max (Flamme faible), ou tous manipuler ensemble (Gel) |
 | **Collaborer** | Les participants s'entraident pendant les événements | Les autres stations ralentissent ou accélèrent pour aider celui en difficulté | Encouragements sonores, harmonies se stabilisent | Le système favorise la survie de la potion si les participants coordonnent leurs actions |
 | **Ajuster** | Entre les événements (1 min de calme) | Les participants peuvent réajuster leurs dosages librement | Retour à l'ambiance calme du laboratoire | Le système permet la correction de l'équilibre avant le prochain événement |
-| **Échouer** | Déséquilibre critique (trop de liquide, trop de feu, etc.) | La potion explose violemment, éclairs, projection de liquide virtuel | Son d'explosion dramatique | Retour immédiat à la Phase 1, session réinitialisée |
+| **Exploser** | Déséquilibre critique (trop de liquide, trop de feu, etc.) | La potion explose violemment, projection de liquide virtuel | Son d'explosion dramatique | Retour immédiat à la Phase 0, session réinitialisée |
 
  
 #### Phase 3 : Résultat Final (après avoir survécu aux 4 événements)
@@ -38,6 +39,4 @@
 | Verbe action | Condition de déclenchement | Effet visuel | Effet sonore | Effet interactif |
 | ------- | ------- | ------- | ------- | ------- |
 | **Dissiper** | Après ~15 secondes d'affichage du résultat | L'effet visuel par la fenêtre s'estompe progressivement, la potion dans le bécher se dissipe | Les sons s'éteignent doucement, retour au silence | Le système prépare la réinitialisation |
-| **Réinitialiser** | La potion a complètement disparu | Le bécher disparaît, retour à la scène initiale du laboratoire vide avec le bouton central | Silence, attente d'une nouvelle session | Les stations se désactivent, prêtes pour un nouveau groupe de participants |
-
-
+| **Réinitialiser** | La potion a complètement disparu | Le bécher disparaît, retour à la scène initiale du laboratoire vide avec le bouton central | Silence, attente d'une nouvelle session | Les stations se désactivent, prêtes pour un nouveau groupe de participants | -->
