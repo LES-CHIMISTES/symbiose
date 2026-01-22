@@ -36,13 +36,13 @@ Coder les animations du décor dans unity selon les fins
 ### Semaine 6
 Faire le son synthétique agréable lors de la potion curative
 Faire le son synthétique lors de la potion magique
-Déboguer au besoins
+Déboguer au besoin
 ### Semaine 6.5
 Modéliser la main lowpoly qui tient la flasque
 ### Semaine 7
-Déboguer au besoins dans unity
+Déboguer au besoin dans unity
 ### Semaine 8
-Être présent lors de la présenation      
+Être présent lors de la présentation      
 Contrôle qualité
 ## Journal de bord
 
