@@ -20,66 +20,44 @@ Cette section, complétée lors de la première semaine, présente les tâches i
 
 ### Semaine 1
 
-<!-- 
-- Tâche
-- Tâche
--->
+Trouver les mesures de la boîte du brûleur.
 
 ### Semaine 2
 
-<!-- 
-- Tâche
-- Tâche
--->
+Identifier les types de matériaux nécessaires pour la boîte du brûleur.     
+Acheter les matériaux pour la fabrication.
+
 
 ### Semaine 3
 
-<!-- 
-- Tâche
-- Tâche
--->
+Construire le brûleur.
 
 ### Semaine 4
 
-<!-- 
-- Tâche
-- Tâche
--->
+Réaliser les enregistrements sonores.
 
 ### Semaine 5
+Créer le son synthétique de la révélation finale.
 
-<!-- 
-- Tâche
-- Tâche
--->
+
 
 ### Semaine 6
 
-<!-- 
-- Tâche
-- Tâche
--->
+Créer le son synthétique du chaos lors de la potion explosive.
 
 ### Semaine 6.5
 
-<!-- 
-- Tâche
-- Tâche
--->
+Créer le son synthétique lorsque le joueur perd.
 
 ### Semaine 7
 
-<!-- 
-- Tâche
-- Tâche
--->
+Faire la liste des objets à acheter pour le décor physique.
+
 
 ### Semaine 8
 
-<!-- 
-- Tâche
-- Tâche
--->
+Acheter les objets nécessaires au décor physique.
+
 
 
 ## Journal de bord
