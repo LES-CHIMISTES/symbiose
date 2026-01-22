@@ -19,69 +19,31 @@ Cette section, complétée lors de la première semaine, présente les tâches i
 -->
 
 ### Semaine 1
-
-<!-- 
-- Tâche
-- Tâche
--->
-
+Faire la scène 3D         
+Modéliser le labo (murs, sol)  
 ### Semaine 2
-
-<!-- 
-- Tâche
-- Tâche
--->
-
+Modéliser le bureau         
+Modéliser le bécher          
 ### Semaine 3
-
-<!-- 
-- Tâche
-- Tâche
--->
-
+Modéliser la flasque qui contient l'eau     
+Construction la scène 3D sur Unity (assemblage)
 ### Semaine 4
-
-<!-- 
-- Tâche
-- Tâche
--->
-
+Modéliser la fenêtre        
+Coder les capteurs (4 knobs)
 ### Semaine 5
-
-<!-- 
-- Tâche
-- Tâche
--->
-
+Modéliser le décor derrière la fenêtre (des arbres, plaine, des tours, soleil)      
+Coder les animations du décor dans unity selon les fins
 ### Semaine 6
-
-<!-- 
-- Tâche
-- Tâche
--->
-
+Faire le son synthétique agréable lors de la potion curative
+Faire le son synthétique lors de la potion magique
+Déboguer au besoins
 ### Semaine 6.5
-
-<!-- 
-- Tâche
-- Tâche
--->
-
+Modéliser la main lowpoly qui tient la flasque
 ### Semaine 7
-
-<!-- 
-- Tâche
-- Tâche
--->
-
+Déboguer au besoins dans unity
 ### Semaine 8
-
-<!-- 
-- Tâche
-- Tâche
--->
-
-
+Être présent lors de la présenation      
+Contrôle qualité
 ## Journal de bord
 
 Cette section, complétée **quotidiennement** pendant l’exécution du projet, documente le travail individuel réellement réalisé chaque jour.
