@@ -19,24 +19,17 @@ Cette section, complétée lors de la première semaine, présente les tâches i
 
 ### Semaine 1
 
-<!-- 
-- Tâche
-- Tâche
--->
+Mesurer l'espace et la grandeur de notre installation.
+Trouver les mesures de la table.
+Trouver quels types de matériaux est le plus optimale pour la construction de la table.
 
 ### Semaine 2
 
-<!-- 
-- Tâche
-- Tâche
--->
+Acheter les matériaux du brûleur
 
 ### Semaine 3
 
-<!-- 
-- Tâche
-- Tâche
--->
+L'enregistrements des sons (deuxième moitié de la liste)
 
 ### Semaine 4
 
@@ -47,17 +40,11 @@ Cette section, complétée lors de la première semaine, présente les tâches i
 
 ### Semaine 5
 
-<!-- 
-- Tâche
-- Tâche
--->
+Export des sons pour envoyer au mix
 
 ### Semaine 6
 
-<!-- 
-- Tâche
-- Tâche
--->
+Montage vidéo sonore du trailer
 
 ### Semaine 6.5
 
