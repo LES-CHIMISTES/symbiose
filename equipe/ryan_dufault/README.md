@@ -20,66 +20,45 @@ Cette section, complétée lors de la première semaine, présente les tâches i
 
 ### Semaine 1
 
-<!-- 
-- Tâche
-- Tâche
--->
+Faire la liste de choses à acheter pour les TTP     
+Modifier le budget et la liste d'équipement en conséquence     
 
 ### Semaine 2
 
-<!-- 
-- Tâche
-- Tâche
--->
+Réception de données des capteurs
+- réception de données d'accéléromètre
+- réception de données du joystick(/sliders x/y pour simuler joystick si pas de joystick prêt pour semaine 2)
 
 ### Semaine 3
 
-<!-- 
-- Tâche
-- Tâche
--->
+envoie de données sur Unity     
+réception de données des capteurs sur Unity     
+Développement C# (tel capteur enclenche tel animation si tel condition etc..)       
 
 ### Semaine 4
 
-<!-- 
-- Tâche
-- Tâche
--->
+Cablage en dessous table        
+Déboguage capteurs si lieu
 
 ### Semaine 5
 
-<!-- 
-- Tâche
-- Tâche
--->
+Tournage trailer        
 
 ### Semaine 6
 
-<!-- 
-- Tâche
-- Tâche
--->
+Montage vidéo trailer       
 
 ### Semaine 6.5
 
-<!-- 
-- Tâche
-- Tâche
--->
+mix des sons enregistrés    
 
 ### Semaine 7
 
-<!-- 
-- Tâche
-- Tâche
--->
+Update site complet 
 
 ### Semaine 8
 
-<!-- 
-- Tâche
-- Tâche
--->
+Contrôle qualité (autre partie)
 
 
 ## Journal de bord
