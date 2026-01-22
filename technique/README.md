@@ -60,14 +60,14 @@
 - Reaper / FL Studio (Composition et design sonore)
 - Synthétiseurs VST (Sons de laboratoire, événements)
 
-## Synoptique // À_FAIRE
-![Plan de branchements // À_FAIRE](_synoptique.svg)
+## Synoptique
+![Plan de branchements](synoptique.png)
 
-## Plan d'implémentation // À_FAIRE
-![Planification de l'espace - perspective 2D // À_FAIRE](_2d_plan.webp)
-![Planification de l'espace - perspective 3D // À_FAIRE](_3d_plan1.webp)
-![Planification de l'espace - perspective 3D (vue table) // À_FAIRE](_3d_plan2.webp)
-![Planification de l'espace - perspective 3D (vue projection) // À_FAIRE](_3d_plan3.webp)
+## Plan d'implémentation
+![Planification de l'espace - perspective 2D](2d_plan.webp)
+![Planification de l'espace - perspective 3D](3d_plan1.webp)
+![Planification de l'espace - perspective 3D](3d_plan2.webp)
+![Planification de l'espace - perspective 3D (vue table)](3d_plan3.webp)
 
 ## Budget estimé // À_PRÉCISER
 
