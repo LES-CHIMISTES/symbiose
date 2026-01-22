@@ -100,11 +100,13 @@ L'aspect social est représenté par la négociation constante entre les partici
 
 ---
 
-#### Ambiance sonore // À_PRÉCISER
+#### Ambiance sonore
 [Inspiration de son réactif lorsqu'un changement quelconque est fait à la potion](eau_bulles.mp3)
 [Inspiration de son réactif lorsque quelqu'un verse de l'eau à la station Eau](eau_verse.mp3)
 [Inspiration de son lorsqu'on ouvre le brûleur](feu_allume.mp3)
 [Inspiration de son de feu constant, crépitements, lorsque le brûleur est allumé](feu_constant.mp3)
+[Inspiration de son d'explosion quand la potion est devenu instable](son_explosion.mp3)
+[Inspiration de son enchanté quand la potion devient une potion curative](son_curative.mp3)
 
 
 <!--
