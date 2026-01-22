@@ -25,7 +25,7 @@ Trouver les mesures de la boîte du brûleur.
 ### Semaine 2
 
 Identifier les types de matériaux nécessaires pour la boîte du brûleur.     
-Acheter les matériaux pour la fabrication.
+Acheter les matériaux pour la table.
 
 
 ### Semaine 3
@@ -35,6 +35,13 @@ Construire le brûleur.
 ### Semaine 4
 
 Réaliser les enregistrements sonores.
+- sons de natures papillons etc oiseaux qui chantent quand potion curative
+- sons kaboom pour potion explosion
+- sons d'air toxique du genre woawoduwaoshhh pour faire de l'air qui s'infiltre dans la pièce pour potion tox.
+- son d'évaporation (?) pour événement évaporation
+- son de flamme instable (?) pour événement flamme instable
+- son de flamme mourante pour événement flamme faible
+- son de gel, "frosting" pour événement gel
 
 ### Semaine 5
 Créer le son synthétique de la révélation finale.
