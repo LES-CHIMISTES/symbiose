@@ -19,50 +19,50 @@ Cette section, complétée lors de la première semaine, présente les tâches i
 
 ### Semaine 1
 
-Mesurer l’espace et les dimensions de notre installation.
-Trouver les mesures de la table.
-Déterminer quels types de matériaux sont les plus adaptés à la construction de la table.
+- Mesurer l’espace et les dimensions de notre installation.
+- Trouver les mesures de la table.
+- Déterminer quels types de matériaux sont les plus adaptés à la construction de la table.
 
 ### Semaine 2
 
-Construire la table.
+- Construire la table.
 
 ### Semaine 3
 
-Acheter les matériaux du brûleur.
+- Acheter les matériaux du brûleur.
 
 ### Semaine 4
 
-Faire l'enregistrements des sons suivants :
+- Faire l'enregistrements des sons suivants :
 
-- son d'eau versée
-- son de bulles pour la potion qui change dynamiquement
-- son de brûleur qui s'allume (wwaowoaush)
-- son de crépitements de brûleur
-- son de poudres qui se versent (genre sable qui tombe?)
-- son d'agitation pour station tourbillon (wowowosowoosowoosh)
-- ou son de mixer/blender pour station tourbillon
-- son de brassage liquide
+    - son d'eau versée
+    - son de bulles pour la potion qui change dynamiquement
+    - son de brûleur qui s'allume (wwaowoaush)
+    - son de crépitements de brûleur
+    - son de poudres qui se versent (genre sable qui tombe?)
+    - son d'agitation pour station tourbillon (wowowosowoosowoosh)
+    - ou son de mixer/blender pour station tourbillon
+    - son de brassage liquide
 
 ### Semaine 5
 
-Exporter les sons pour les envoyer au mixage.
+- Exporter les sons pour les envoyer au mixage.
 
 ### Semaine 6
 
-Faire le montage sonore et vidéo du trailer.
+- Faire le montage sonore et vidéo du trailer.
 
 ### Semaine 6.5
 
-Faire l'animations Unity des modèles 3D
+- Faire l'animations Unity des modèles 3D
 
 ### Semaine 7
 
-Assembler les objets dans l’espace physique.
+- Assembler les objets dans l’espace physique.
 
 ### Semaine 8
 
-Créer le guide d’utilisation.
+- Créer le guide d’utilisation.
 
 
 ## Journal de bord
