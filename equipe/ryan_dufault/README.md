@@ -20,45 +20,45 @@ Cette section, complétée lors de la première semaine, présente les tâches i
 
 ### Semaine 1
 
-Faire la liste de choses à acheter pour les TTP     
-Modifier le budget et la liste d'équipement en conséquence     
+- Faire la liste de choses à acheter pour les TTP     
+- Modifier le budget et la liste d'équipement en conséquence     
 
 ### Semaine 2
 
-Réception de données des capteurs
-- réception de données d'accéléromètre
-- réception de données du joystick(/sliders x/y pour simuler joystick si pas de joystick prêt pour semaine 2)
+- Réception de données des capteurs
+    - réception de données d'accéléromètre
+    - réception de données du joystick(/sliders x/y pour simuler joystick si pas de joystick prêt pour semaine 2)
 
 ### Semaine 3
 
-envoie de données sur Unity     
-réception de données des capteurs sur Unity     
-Développement C# (tel capteur enclenche tel animation si tel condition etc..)       
+- envoie de données sur Unity     
+- réception de données des capteurs sur Unity     
+- Développement C# (tel capteur enclenche tel animation si tel condition etc..)       
 
 ### Semaine 4
 
-Cablage en dessous table        
-Déboguage capteurs si lieu
+- Cablage en dessous table        
+- Déboguage capteurs si lieu
 
 ### Semaine 5
 
-Tournage trailer        
+- Tournage trailer        
 
 ### Semaine 6
 
-Montage vidéo trailer       
+- Montage vidéo trailer       
 
 ### Semaine 6.5
 
-mix des sons enregistrés    
+- mix des sons enregistrés    
 
 ### Semaine 7
 
-Update site complet 
+- Update site complet 
 
 ### Semaine 8
 
-Contrôle qualité (autre partie)
+- Contrôle qualité (autre partie)
 
 
 ## Journal de bord
