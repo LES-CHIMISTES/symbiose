@@ -133,7 +133,8 @@ Inspirations relatives à la scénarisation de la lumière et du son, qui seront
 Bartender: The Right Mix nous a grandement inspiré au niveau du concept de base. Notre projet reprend le concept de mélanger des éléments pour obtenir un résultat loufoque, inattendu. 
 
 
-[![[AUTRE PROJET]](inspiration2.webp)](URL_PROJET)
+[![Piano – As Image Media 1995 de Toshio Iwai](inspiration2.jpg)](https://artelectronicmedia.com/en/artwork/piano-as-an-image-media-2/)
+Installation interactive et immersive qui utilise un objet physique en temps réel. L'interaction sur un objet permet d'influencer ce qui se passe sur la toile. Chaque action permet de produire un son et génère une image ou une forme visuelle animée projetée. La ressemblance entre ce projet et le notre  est que l'interaction passe par un objet physique et une relation geste puis résultat visuelle.
 
 
 ## Scénarimage
