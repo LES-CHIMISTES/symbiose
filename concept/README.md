@@ -12,7 +12,7 @@
   allowfullscreen>
 </iframe>  
     
-Symbiose est une installation interactive où quatre apprentis chimistes collaborent pour concocter une potion révolutionnaire. Chaque station contrôle un procédé vital (eau, flamme, poudres, tourbillon) à la création d'une potion. La réussite de la potion ne repose que sur l'équilibre maintenu collectivement. Face à des événements aléatoires qui perturbent constamment cet équilibre, les participants doivent négocier, s'entraider et synchroniser leurs actions pour synthétiser ensemble de nouveaux composés aux propriétés uniques.
+Symbiose est un jeu coopératif de gestion de crise où 4 participants doivent stabiliser une potion instable en résolvant une série d'événements aléatoires. Chaque événement cible une station spécifique, et seul le participant à cette station peut résoudre la crise. Le but est de compléter les 4 événements le plus rapidement possible sans que la potion n'explose.
 
 <!-- Méthode 2, plug legit -->
 <!-- 
