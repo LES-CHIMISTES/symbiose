@@ -28,9 +28,9 @@ Symbiose est un jeu coopératif de gestion de crise où 4 participants doivent s
 
 ### Le parcours de l'interacteur
 
-L'interacteur découvre un laboratoire de chimie projeté et quatre stations physiques disposées autour d'une table. Un faisceau lumineux rayonne sur la première station, incitant à son intéraction, s'en suit un tutoriel par cases à cocher (1ère personne intéragit avec première personne, dévérouille 2ème station (faisceau lumineux), ainsi de suite). Chaque participant choisit une station et commence à doser son ingrédient : l'un verse de l'eau en agitant un erlenmeyer équipé d'un accéléromètre, un autre contrôle l'intensité du feu via un brûleur avec bouton rotatif et LEDs, un troisième sélectionne et dose des poudres colorées avec un agitateur magnétique, et le dernier brasse la potion à l'aide d'un joystick déguisé. La potion transparente commence à se transformer selon leurs dosages combinés.
-Puis, toutes les 1-2 minutes, un événement aléatoire se déclenche : évaporation du liquide, flamme instable, flamme faible, ou gel total. Chaque défi force les participants à réagir rapidement, à communiquer et à s'entraider. Si l'équilibre est rompu, la potion explose et l'expérience recommence.
-Après avoir survécu aux quatre événements et maintenu un équilibre stable, la potion se finalise. Une narration révèle le nom du nouveau composé créé et ses propriétés. Le résultat visuel se manifeste à travers la fenêtre du laboratoire.
+L'interacteur découvre un laboratoire de chimie projeté et quatre stations physiques disposées autour d'une table. Un faisceau lumineux rayonne sur la première station, incitant à son intéraction, s'en suit un tutoriel par cases à cocher (1ère personne intéragit avec première personne, dévérouille 2ème station (faisceau lumineux), ainsi de suite). Chaque participant choisit une station et commence à doser son ingrédient : l'un verse de l'eau en agitant un erlenmeyer équipé d'un accéléromètre, un autre contrôle l'intensité du feu via un brûleur avec bouton rotatif et LEDs, un troisième sélectionne et dose des poudres colorées avec un agitateur magnétique, et le dernier brasse la potion à l'aide d'un joystick déguisé. La potion transparente commence à se transformer grâce leurs dosages combinés.
+Puis, toutes les 1-2 minutes, un événement aléatoire se déclenche : évaporation du liquide, le gel, la crystalisation et le vortex.
+Après avoir survécu aux quatre événements, la potion se finalise. Une narration révèle le temps qui a été passé pour stabiliser la potion.
 
 <!-- 
 Comportement de l'interacteur
@@ -61,7 +61,7 @@ Un collectif désigne l'ensemble de personnes ou d'entités qui s'unissent de ma
  Ce groupe, souvent considéré comme une entité à vocation communautaire, fonctionne sous le pilotage de ses membres et repose sur une volonté partagée de développer des solidarités.
 -->
 
-L'expérience repose entièrement sur la participation collective de quatre personnes simultanément. Chaque participant contrôle un ingrédient/procédé essentiel à la potion, contribuant ainsi à l'équilibre global du système. Plus les quatre participants coordonnent leurs actions, plus la potion se stabilise et progresse vers sa finalisation. Plus la coordination est précise, plus la potion révèle ses propriétés uniques. Le collectif devient ici le moteur même de l'expérience : sans les trois autres, aucun participant ne peut réussir seul à créer la potion. L'œuvre met en valeur la force du « nous », une création née de la cohabitation et de la synchronisation des quatre personnes dans l'espace commun.
+L'expérience repose entièrement sur la participation collective de quatre personnes simultanément. Chaque participant contrôle un ingrédient/procédé essentiel à la potion, contribuant ainsi à l'équilibre global du système. Plus les quatre participants coordonnent leurs actions, plus la potion se stabilise et progresse vers sa finalisation. Le collectif devient ici le moteur même de l'expérience : sans les trois autres, aucun participant ne peut réussir seul à stabilisé la potion. L'œuvre met en valeur la force du « nous », une création née de la cohabitation et de la synchronisation des quatre personnes dans l'espace commun.
 
 ### L'aspect social
 
@@ -74,7 +74,7 @@ Le terme « social » désigne ce qui concerne la vie en société, c'est-à-dir
  L'adjectif peut aussi qualifier des animaux ou des plantes vivant en communauté selon des règles strictes, comme les insectes sociaux (fourmis, abeilles) ou certaines espèces végétales formant des colonies denses.
 -->
 
-L'aspect social est représenté par la négociation constante entre les participants. "Nous" créons un espace où chaque geste individuel prend sens à travers les autres. Ensemble, les participants équilibrent une potion commune, viable uniquement par la communication et le compromis. L'œuvre illustre comment nos actions isolées peuvent s'unir pour former une réussite collective plus grande que nous-mêmes. En s'entraidant face aux événements, chacun devient conscient de son rôle interdépendant dans un système plus vaste. La forme finale de la potion montre que nos dosages isolés deviennent une création commune grâce aux autres. L'œuvre souligne aussi le caractère social de la négociation : les participants doivent constamment communiquer ("J'ai besoin de plus de feu !" / "Non, ça va faire exploser la potion !"), se faire confiance, et accepter des compromis pour maintenir l'équilibre.
+L'aspect social est représenté par la coopération constante entre les participants. "Nous" créons un espace où chaque geste individuel prend sens à travers les autres. Ensemble, les participants équilibrent une potion commune, viable uniquement par la communication. L'œuvre illustre comment nos actions isolées peuvent s'unir pour former une réussite collective plus grande que nous-mêmes. En s'entraidant face aux événements, chacun devient conscient de son rôle interdépendant dans un système plus vaste. La forme finale de la potion montre que nos dosages isolés deviennent une création commune grâce aux autres.
  
 ## Inspirations
 
@@ -139,13 +139,11 @@ Installation interactive et immersive qui utilise un objet physique en temps ré
 
 ## Scénarimage
 
-![Quatre personnes approchent l'installation et découvrent les quatre stations autour de la table. Chaque personne choisit une station et commence à manipuler son ingrédient. ](scenarimage1.png)
-![La potion transparente commence à se colorer et réagiré. Les participants expérimentent librement pendant la phase de préparation. La potion évolue selon leurs combinaisons. ](scenarimage2.png)
-![Événements aléatoire : Évaporation et Flamme instable. Évaporation : Le liquide diminue rapidement. La personne à la station eau agite frénétiquement l'erlenmeyer pour compenser. Les autres surveillent leurs dosages ; Flamme instable : Le feu devient chaotique à l'écran. La personne au brûleur doit ajuster le bouton en rythme précis. Les autres ralentissent leurs dosages pour aider](scenarimage3.webp)
-![Événements aléatoire :  Flamme faible et Gel. Flamme faible : Le feu diminue dangereusement. La personne au feu tourne le bouton au maximum. Les autres maintiennent leurs dosages stables pour ne pas surcharger ; Gel : Tous les ingrédients se figent dans la potion. Les quatre participants agitent et manipulent frénétiquement leurs stations ensemble pour dégeler](scenarimage4.webp)
-![Les quatre événements sont passés. Les participants maintiennent l'équilibre final. La potion se stabilise, brillant d'une couleur révélatrice](scenarimage5.webp)
-![La narration finale apparaît. La fenêtre du laboratoire montre le résultat : explosions et ciel rouge (potion explosive), papillons et fleurs (potion curative), ou gaz vert et têtes de mort (potion toxique), ou objets flottants et monde inversé (potion magique)](scenarimage6.webp)
-![L'effet visuel se dissipe progressivement, la potion disparaît du bécher, le laboratoire revient à son état initial. Les participants se retirent, satisfaits de leur collaboration](scenarimage7.webp)
+![Quatre personnes approchent l'installation et découvrent les quatre stations autour de la table. Tutoriel progressif.](scenarimage1.webp)
+![Tutoriel progressif](scenarimage2.webp)
+![Événements aléatoire : Évaporation, Gel](scenarimage3.webp)
+![Événements aléatoire : Cristallisation, Vortex](scenarimage4.webp)
+![Les quatre événements sont passés. La fin se révèle avec le temps, meilleur temps, ensuite retour à état initial](scenarimage5.webp)
 
 <!-- Pour chaque étape/scène : une image avec du texte descriptif et une explication de la transition -->
 

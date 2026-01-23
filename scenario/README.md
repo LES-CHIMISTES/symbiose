@@ -50,20 +50,6 @@ Cette section présente le scénario de l'interactivité du projet Symbiose.
 |--------------|---------------------------|--------------|--------------|------------------|
 | **Basculer** | Le joystick est manipulé dans n'importe quelle direction | La potion tourbillonne dans le bécher, effet de rotation visible. "✓ 4. Brasser la potion" se coche. Tous les faisceaux lumineux s'éteignent. Message central apparaît : "Tutoriel terminé ! Les événements commencent dans 10 secondes..." avec compte à rebours | Son de brassage liquide + Accord de succès musical | Les 4 stations deviennent toutes actives simultanément. La checklist disparaît progressivement |
 
-**Déclencheur suivant** : → Passe à **Scène 5** automatiquement après 10 secondes
-
----
-
-## Scène 5 : Phase active - Préparation libre
-
-| Verbe action | Condition de déclenchement | Effet visuel | Effet sonore | Effet interactif |
-|--------------|---------------------------|--------------|--------------|------------------|
-| **Agiter** | L'erlenmeyer est agité à la station Eau | L'eau continue de se verser dans le bécher, niveau fluctue selon l'intensité | Son d'eau versée (volume proportionnel à l'intensité) | Le niveau d'eau dans la potion varie en temps réel |
-| **Tourner** | Le knob du brûleur est tourné à la station Feu | L'intensité du feu varie (flammes plus ou moins hautes). Les LEDs physiques s'ajustent | Flamme crépitante (intensité variable selon position du knob) | La température de la potion fluctue |
-| **Tourner** | Un des 3 knobs de poudre est tourné à la station Poudres | Flux de poudre colorée s'écoule dans le bécher. La couleur de la potion évolue selon les mélanges | Son de poudre versée + Variations tonales selon la poudre | La composition chimique de la potion change |
-| **Basculer** | Le joystick est manipulé à la station Tourbillon | La rotation de la potion s'intensifie ou ralentit selon la direction et force | Son de tourbillon (intensité variable) | Le brassage affecte la stabilité de la potion |
-| **Expérimenter** | Les 4 participants manipulent librement leurs stations simultanément | La potion réagit de manière complexe : couleurs se mélangent, bulles apparaissent, texture change | Mix sonore des 4 stations + Sons réactifs de la potion (bulles, réactions chimiques) | La potion évolue selon l'équilibre collectif maintenu. Première familiarisation avec la coordination |
-
 **Déclencheur suivant** : → Passe à **Scène 6** automatiquement après 10 secondes (déclenchement du premier événement aléatoire)
 
 ---
@@ -72,11 +58,11 @@ Cette section présente le scénario de l'interactivité du projet Symbiose.
 
 | Verbe action | Condition de déclenchement | Effet visuel | Effet sonore | Effet interactif |
 |--------------|---------------------------|--------------|--------------|------------------|
-| **Réagir** | 10 secondes après la scène 5 | Un événement aléatoire se déclenche parmi : **Évaporation** (station Eau), **Cristallisation** (station Poudres), **Gel** (station Feu), ou **Vortex** (station Tourbillon). Alerte visuelle : flash rouge, jauge de l'événement apparaît. Visuel spécifique à l'événement sur la potion et la fenêtre du laboratoire | Alerte sonore dramatique + Son spécifique à l'événement (ex: sifflement pour évaporation, craquements pour cristallisation) | Seule la station concernée peut résoudre l'événement. Les 3 autres stations restent actives mais n'influencent pas directement la résolution |
+| **Réagir** | 10 secondes après la scène 20 | Un événement aléatoire se déclenche parmi : **Évaporation** (station Eau), **Cristallisation** (station Poudres), **Gel** (station Feu), ou **Vortex** (station Tourbillon). Alerte visuelle : flash rouge, jauge de l'événement apparaît. Visuel spécifique à l'événement sur la potion et la fenêtre du laboratoire | Alerte sonore dramatique + Son spécifique à l'événement (ex: sifflement pour évaporation, craquements pour cristallisation) | Seule la station concernée peut résoudre l'événement. Les 3 autres stations restent actives mais n'influencent pas directement la résolution |
 | **Résoudre** | Le participant à la station concernée exécute l'action requise (voir détails ci-dessous) | La jauge de progression de l'événement se remplit graduellement. Le visuel de crise diminue proportionnellement | Feedback sonore positif progressif (notes ascendantes, sons apaisants) | Chaque action correcte fait progresser la résolution. Les autres participants peuvent surveiller et encourager |
-| **Maintenir** | Le participant continue l'action requise jusqu'à ce que la jauge soit pleine | La jauge atteint 100%. L'événement se résout complètement. Flash vert de succès. La potion revient à un état stable | Accord de victoire + Son de résolution | L'événement est résolu. Transition vers le prochain événement après 5 secondes |
+| **Maintenir** | Le participant continue l'action requise jusqu'à ce que la jauge soit pleine | La jauge atteint 100%. L'événement se résout complètement. Flash vert de succès. La potion revient à un état stable | Accord de victoire + Son de résolution | L'événement est résolu. Transition vers le prochain événement après 20 secondes |
 
-**Déclencheur suivant** : → Passe à **Scène 7** automatiquement 5 secondes après résolution de l'événement
+**Déclencheur suivant** : → Passe à **Scène 7** automatiquement 20 secondes après résolution de l'événement
 
 **Déclencheur échec** : → Passe à **Scène 11 (Échec)** si inactivité prolongée (30 secondes sans action) ou si stabilité globale atteint zéro
 
@@ -86,11 +72,11 @@ Cette section présente le scénario de l'interactivité du projet Symbiose.
 
 | Verbe action | Condition de déclenchement | Effet visuel | Effet sonore | Effet interactif |
 |--------------|---------------------------|--------------|--------------|------------------|
-| **Réagir** | 5 secondes après résolution de l'événement 1 | Deuxième événement aléatoire se déclenche (parmi les 3 événements restants non utilisés). Alerte visuelle et jauge apparaissent | Alerte sonore + Son spécifique au nouvel événement | Seule la nouvelle station concernée peut résoudre |
+| **Réagir** | 20 secondes après résolution de l'événement 1 | Deuxième événement aléatoire se déclenche (parmi les 3 événements restants non utilisés). Alerte visuelle et jauge apparaissent | Alerte sonore + Son spécifique au nouvel événement | Seule la nouvelle station concernée peut résoudre |
 | **Résoudre** | Action spécifique à l'événement (voir détails ci-dessous) | Jauge se remplit, visuel de crise diminue | Feedback positif progressif | Progression vers résolution |
 | **Maintenir** | Action continue jusqu'à jauge pleine | Flash vert de succès, événement résolu | Accord de victoire | Événement résolu |
 
-**Déclencheur suivant** : → Passe à **Scène 8** automatiquement 5 secondes après résolution
+**Déclencheur suivant** : → Passe à **Scène 8** automatiquement 20 secondes après résolution
 
 **Déclencheur échec** : → Passe à **Scène 11 (Échec)** si échec de résolution
 
@@ -100,11 +86,11 @@ Cette section présente le scénario de l'interactivité du projet Symbiose.
 
 | Verbe action | Condition de déclenchement | Effet visuel | Effet sonore | Effet interactif |
 |--------------|---------------------------|--------------|--------------|------------------|
-| **Réagir** | 5 secondes après résolution de l'événement 2 | Troisième événement aléatoire se déclenche (parmi les 2 événements restants). Alerte visuelle et jauge | Alerte sonore + Son spécifique | Seule la station concernée peut résoudre |
+| **Réagir** | 20 secondes après résolution de l'événement 2 | Troisième événement aléatoire se déclenche (parmi les 2 événements restants). Alerte visuelle et jauge | Alerte sonore + Son spécifique | Seule la station concernée peut résoudre |
 | **Résoudre** | Action spécifique à l'événement | Jauge se remplit, visuel diminue | Feedback positif | Progression |
 | **Maintenir** | Action continue jusqu'à résolution | Flash vert, événement résolu | Accord de victoire | Événement résolu |
 
-**Déclencheur suivant** : → Passe à **Scène 9** automatiquement 5 secondes après résolution
+**Déclencheur suivant** : → Passe à **Scène 9** automatiquement 20 secondes après résolution
 
 **Déclencheur échec** : → Passe à **Scène 11 (Échec)** si échec
 
@@ -114,7 +100,7 @@ Cette section présente le scénario de l'interactivité du projet Symbiose.
 
 | Verbe action | Condition de déclenchement | Effet visuel | Effet sonore | Effet interactif |
 |--------------|---------------------------|--------------|--------------|------------------|
-| **Réagir** | 5 secondes après résolution de l'événement 3 | Quatrième et dernier événement se déclenche. Alerte visuelle intense, jauge apparaît | Alerte finale dramatique + Son spécifique + Tension musicale accrue | Dernière station concernée doit résoudre |
+| **Réagir** | 20 secondes après résolution de l'événement 3 | Quatrième et dernier événement se déclenche. Alerte visuelle intense, jauge apparaît | Alerte finale dramatique + Son spécifique + Tension musicale accrue | Dernière station concernée doit résoudre |
 | **Résoudre** | Action spécifique au dernier événement | Jauge se remplit, tension visuelle maximale puis diminue | Feedback positif + Crescendo musical | Approche de la victoire |
 | **Maintenir** | Action continue jusqu'à résolution complète | Flash vert éclatant, tous les événements sont résolus. La potion brille intensément, effet de stabilisation spectaculaire | Crescendo musical victorieux culminant | Les 4 événements sont terminés |
 
@@ -128,9 +114,9 @@ Cette section présente le scénario de l'interactivité du projet Symbiose.
 
 | Verbe action | Condition de déclenchement | Effet visuel | Effet sonore | Effet interactif |
 |--------------|---------------------------|--------------|--------------|------------------|
-| **Contempler** | Les 4 événements ont été résolus avec succès | La potion se stabilise, brillant d'une lumière intense. Le timer s'arrête. Écran de victoire s'affiche : "POTION STABILISÉE !" + Temps réalisé (ex: 5:32) + Record absolu (ex: 4:12) + Message : "EXCELLENT TRAVAIL D'ÉQUIPE !" + "Pouvez-vous faire mieux ?" | Thème musical de victoire triomphant | Toutes les stations deviennent inactives. Le timer final est enregistré |
+| **Contempler** | Les 4 événements ont été résolus avec succès | La potion se stabilise, brillant d'une lumière intense. Le timer s'arrête. Écran de victoire s'affiche : "POTION STABILISÉE !" + Temps réalisé (ex: 20:32) + Record absolu (ex: 4:12) + Message : "EXCELLENT TRAVAIL D'ÉQUIPE !" + "Pouvez-vous faire mieux ?" | Thème musical de victoire triomphant | Toutes les stations deviennent inactives. Le timer final est enregistré |
 
-**Déclencheur suivant** : → Passe à **Scène 12 (Réinitialisation)** automatiquement après 15 secondes d'affichage
+**Déclencheur suivant** : → Passe à **Scène 12 (Réinitialisation)** automatiquement après 120 secondes d'affichage
 
 ---
 
@@ -148,7 +134,7 @@ Cette section présente le scénario de l'interactivité du projet Symbiose.
 
 | Verbe action | Condition de déclenchement | Effet visuel | Effet sonore | Effet interactif |
 |--------------|---------------------------|--------------|--------------|------------------|
-| **Attendre** | Après affichage de victoire (15 sec) ou d'échec (8 sec) | L'écran de résultat disparaît progressivement en fondu. La potion se dissipe du bécher. Le laboratoire revient à son état initial vide. Le bécher redevient transparent et vide | Sons s'éteignent doucement. Retour progressif à l'ambiance calme du laboratoire | Toutes les stations se désactivent. Le timer se réinitialise à zéro. Le système retourne à l'état d'attente |
+| **Attendre** | Après affichage de victoire (120 sec) ou d'échec (8 sec) | L'écran de résultat disparaît progressivement en fondu. La potion se dissipe du bécher. Le laboratoire revient à son état initial vide. Le bécher redevient transparent et vide | Sons s'éteignent doucement. Retour progressif à l'ambiance calme du laboratoire | Toutes les stations se désactivent. Le timer se réinitialise à zéro. Le système retourne à l'état d'attente |
 
 **Déclencheur suivant** : → Retourne à **Scène 0 (Découverte)** automatiquement, prêt pour de nouveaux participants
 
