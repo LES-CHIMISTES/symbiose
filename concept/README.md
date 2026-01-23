@@ -163,3 +163,142 @@ Comme pour le scénario narratif, le scénarimage doit montrer la progression de
 Retour visuel et sensoriel
 Le scénarimage doit inclure des annotations ou des visuels montrant les réponses visuelles, sonores ou tactiles à chaque interaction. Cela peut inclure des changements d'éclairage, des transitions vidéo, ou des effets sonores qui réagissent aux actions de l'utilisateur.
 -->
+
+## Mécaniques de jeu
+
+**Structure de partie :**
+```
+Tutoriel progressif → Événement 1 → Événement 2 → Événement 3 → Événement 4 → Fin
+                      (aléatoire)   (aléatoire)   (aléatoire)   (aléatoire)
+```
+
+**Timer global** : Démarre au début, s'arrête à la fin  
+**Objectif** : Temps le plus court possible
+
+### Phase de démarrage - Tutoriel progressif
+
+Le tutoriel débloque les stations une à la fois pour que les participants apprennent les contrôles avant le début des événements.
+
+#### État initial
+
+| Élément | Description |
+|---------|-------------|
+| **Écran d'accueil** | Projection du laboratoire avec bécher vide au centre |
+| **Faisceau lumineux** | Illumine uniquement la station Eau |
+| **Checklist affichée** | "☐ 1. Verser de l'eau" |
+| **État des stations** | Seule la station Eau est active |
+
+#### Séquence de déblocage
+
+| Étape | Station | Action requise | Feedback visuel | Feedback sonore | Résultat |
+|-------|---------|----------------|-----------------|-----------------|----------|
+| **1** | Eau | Agiter l'erlenmeyer | Main virtuelle verse l'eau, niveau monte<br>"✓ 1. Verser de l'eau" | Son d'eau + Note de validation | Station Feu se débloque |
+| **2** | Feu | Tourner le knob | Feu s'allume sous le bécher<br>"✓ 2. Allumer le feu" | Flamme crépitante + Note de validation | Station Poudres se débloque |
+| **3** | Poudres | Tourner un knob de poudre | Flux de poudre colorée tombe<br>"✓ 3. Ajouter des poudres" | Son de poudre + Note de validation | Station Tourbillon se débloque |
+| **4** | Tourbillon | Manipuler le joystick | Potion tourbillonne<br>"✓ 4. Brasser la potion" | Son de brassage + Accord de succès | Fin du tutoriel |
+
+#### Fin du tutoriel
+
+| Élément | Description |
+|---------|-------------|
+| **État des stations** | Les 4 stations sont maintenant actives simultanément |
+| **Faisceaux** | Tous s'éteignent |
+| **Checklist** | Disparaît |
+| **Timer** | Continue (a démarré dès la première action) |
+| **Transition** | Le premier événement aléatoire se déclenche après 10 secondes |
+
+
+### Les 4 événements
+
+Chaque événement se déclenche de manière aléatoire et cible une station spécifique. L'événement dure jusqu'à ce que le participant à cette station le résolve complètement.
+
+#### Événement 1 : Évaporation (Station Eau)
+
+| Aspect | Détail |
+|--------|--------|
+| **Déclencheur** | Événement aléatoire |
+| **Visuel potion** | Le liquide disparaît progressivement (transparence accrue) |
+| **Visuel laboratoire** | Flocons "frosting" dans le décor, brouillard dense |
+| **Visuel fenêtre** | Brouillard épais à l'extérieur |
+| **Action requise** | Agiter frénétiquement l'erlenmeyer pour reverser de l'eau |
+| **Feedback** | Jauge "Niveau d'eau" + Indicateur de rythme d'agitation |
+| **Résolution** | Maintenir un rythme vigoureux jusqu'à ce que la jauge soit pleine |
+
+#### Événement 2 : Cristallisation (Station Poudres)
+
+| Aspect | Détail |
+|--------|--------|
+| **Déclencheur** | Événement aléatoire |
+| **Visuel potion** | Les poudres se cristallisent, liquide devient dense et rigide, couches colorées visibles |
+| **Visuel fenêtre** | Couches de brouillard coloré (bleu/vert/rose) superposées dans le ciel |
+| **Action requise** | Doser les 3 poudres en alternance rythmée : Bleue → Verte → Rose (répéter) |
+| **Feedback** | Jauge "Mélange homogène" qui se remplit |
+| **Résolution** | Continuer le pattern jusqu'à ce que la jauge soit pleine |
+
+#### Événement 3 : Gel (Station Feu)
+
+| Aspect | Détail |
+|--------|--------|
+| **Déclencheur** | Événement aléatoire |
+| **Visuel potion** | Cristaux de glace sur les parois, potion solidifiée, couleur bleutée/blanchâtre, tourbillon s'arrête |
+| **Visuel laboratoire** | Flocons "frosting" apparaissent dans le décor |
+| **Visuel fenêtre** | Tempête de neige, givre sur la fenêtre, paysage gelé |
+| **Action requise** | Tourner le knob au MAXIMUM au début, ensuite suivre un pattern rythmique |
+| **Feedback** | Jauge "Température" + Indicateur d'intensité du feu (flammes hautes en dessous potion) |
+| **Résolution** | Maintenir jusqu'à ce que la potion redevienne liquide et la jauge soit pleine |
+
+#### Événement 4 : Vortex (Station Tourbillon)
+
+| Aspect | Détail |
+|--------|--------|
+| **Déclencheur** | Événement aléatoire |
+| **Visuel potion** | Rotation erratique, éclabousses virtuelles sur les bords du bécher |
+| **Visuel fenêtre** | Tornade/cyclone dans le ciel |
+| **Action requise** | Brasser dans le sens INVERSE, maintenir le joystick dans une zone de stabilité (cercle cible) |
+| **Feedback** | Cercle cible à l'écran + Jauge "Stabilisation du vortex" |
+| **Résolution** | Garder le curseur dans le cercle jusqu'à ce que la jauge soit pleine |
+
+#### Mécanique de difficulté
+
+| Principe | Explication |
+|----------|-------------|
+| **Durée variable** | Chaque événement dure selon la performance du participant (pas de durée fixe) |
+| **Performance = Temps** | Plus le participant est efficace, plus vite l'événement se résout |
+| **Ordre aléatoire** | Les 4 événements arrivent dans un ordre différent à chaque partie |
+| **Coopération indirecte** | Les autres participants surveillent et encouragent, mais ne peuvent pas intervenir directement |
+
+#### Condition d'échec
+
+| Situation | Conséquence |
+|-----------|-------------|
+| **Inaction prolongée** | Si un événement n'est pas résolu assez rapidement |
+| **Stabilité à zéro** | La potion se casse → Écran d'échec → Retour au début |
+| **Message d'échec** | "La potion est ruinée ! Réessayez." + Temps écoulé avant qu'elle se casse |
+
+#### Phase de fin
+
+| Élément | Description |
+|---------|-------------|
+| **Condition de succès** | Les 4 événements ont été résolus sans la potion qui se ruine |
+| **Timer** | S'arrête immédiatement |
+| **Écran de victoire** | Affichage du temps réalisé + Comparaison avec records |
+| **Message** | "POTION STABILISÉE !" |
+| **Informations affichées** | - Votre temps (ex: 5:32)<br>- Record absolu (ex: 4:12)<br>- Message motivant : "EXCELLENT TRAVAIL D'ÉQUIPE !"<br>- "Pouvez-vous faire mieux ?" |
+
+#### Système de records
+
+| Type de record | Description |
+|----------------|-------------|
+| **Temps actuel** | Le temps que vient de réaliser l'équipe |
+| **Record absolu** | Meilleur temps de tous les temps (persistant) |
+
+#### Tableau récapitulatif
+
+| Station | Événement | Action physique | Durée estimée |
+|---------|-----------|-----------------|---------------|
+| Eau | Évaporation | Agiter l'erlenmeyer frénétiquement | 30-60 sec |
+| Poudres | Cristallisation | Tourner 3 knobs en alternance rythmée | 45-90 sec |
+| Feu | Gel | Tourner 1 knob au max + pattern rythmique | 40-70 sec |
+| Tourbillon | Vortex | Stabiliser joystick dans zone cible | 50-100 sec |
+
+**Temps total estimé d'une partie :** 2:45 à 6:00 minutes (selon performance)

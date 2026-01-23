@@ -20,17 +20,17 @@ Cette section, complétée lors de la première semaine, présente les tâches i
 
 ### Semaine 1
 
-Trouver les mesures de la boîte du brûleur.
+- Trouver les mesures de la boîte du brûleur.
 
 ### Semaine 2
 
-Identifier les types de matériaux nécessaires pour la boîte du brûleur.     
-Acheter les matériaux pour la table.
+- Identifier les types de matériaux nécessaires pour la boîte du brûleur.     
+- Acheter les matériaux pour la table.
 
 
 ### Semaine 3
 
-Construire le brûleur.
+- Construire le brûleur.
 
 ### Semaine 4
 
@@ -44,26 +44,26 @@ Réaliser les enregistrements sonores.
 - son de gel, "frosting" pour événement gel
 
 ### Semaine 5
-Créer le son synthétique de la révélation finale.
+- Créer le son synthétique de la révélation finale.
 
 
 
 ### Semaine 6
 
-Créer le son synthétique du chaos lors de la potion explosive.
+- Créer le son synthétique du chaos lors de la potion explosive.
 
 ### Semaine 6.5
 
-Créer le son synthétique lorsque le joueur perd.
+- Créer le son synthétique lorsque le joueur perd.
 
 ### Semaine 7
 
-Faire la liste des objets à acheter pour le décor physique.
+- Faire la liste des objets à acheter pour le décor physique.
 
 
 ### Semaine 8
 
-Acheter les objets nécessaires au décor physique.
+- Acheter les objets nécessaires au décor physique.
 
 
 
