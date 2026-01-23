@@ -29,8 +29,8 @@ Symbiose est un jeu coopératif de gestion de crise où 4 participants doivent s
 ### Le parcours de l'interacteur
 
 L'interacteur découvre un laboratoire de chimie projeté et quatre stations physiques disposées autour d'une table. Un faisceau lumineux rayonne sur la première station, incitant à son intéraction, s'en suit un tutoriel par cases à cocher (1ère personne intéragit avec première personne, dévérouille 2ème station (faisceau lumineux), ainsi de suite). Chaque participant choisit une station et commence à doser son ingrédient : l'un verse de l'eau en agitant un erlenmeyer équipé d'un accéléromètre, un autre contrôle l'intensité du feu via un brûleur avec bouton rotatif et LEDs, un troisième sélectionne et dose des poudres colorées avec un agitateur magnétique, et le dernier brasse la potion à l'aide d'un joystick déguisé. La potion transparente commence à se transformer grâce leurs dosages combinés.
-Puis, toutes les 1-2 minutes, un événement aléatoire se déclenche : évaporation du liquide, le gel, la crystalisation et le vortex.
-Après avoir survécu aux quatre événements, la potion se finalise. Une narration révèle le temps qui a été passé pour stabiliser la potion.
+Puis, un événement aléatoire se déclenche : évaporation du liquide, le gel, la crystalisation et le vortex.
+Après avoir survécu aux quatre événements, la potion se finalise et révèle le temps qui a été passé pour stabiliser la potion.
 
 <!-- 
 Comportement de l'interacteur
@@ -48,7 +48,7 @@ description de l'espace réel et virtuel du projet et comment l'espace réel est
 
 ### La progression
 
-La progression dépend du collectif. Chaque station doit maintenir son équilibre pour que la potion survive, tandis qu'un déséquilibre la fait exploser. Le temps devient ainsi le reflet de la coordination humaine. La progression n'est pas imposée, mais essentielle pour la réussite de l'expérience. L'expérience évoque une perception à la fois subjective et collective du temps, où chaque dosage compte pour maintenir l'existence de la potion et où chaque événement aléatoire teste la capacité du groupe à réagir ensemble. Les quatre phases marquent clairement cette progression : la préparation libre permet l'apprentissage et l'expérimentation (0-2 minutes), la phase d'alchimie avec défis impose des réactions coordonnées face aux quatre événements aléatoires (2-8 minutes), le résultat final récompense la collaboration réussie par une révélation narrative.
+La progression dépend du collectif. Chaque station doit survivre aux défis imposés par les événements, tandis qu'un échec fait perdre tout le monde. Le temps devient ainsi le reflet de la coordination humaine. La progression n'est pas imposée, mais essentielle pour la réussite de l'expérience. L'expérience évoque une perception à la fois subjective et collective du temps, où chaque dosage compte pour maintenir l'existence de la potion et où chaque événement aléatoire teste la capacité du groupe à réagir.
 
 ### L'aspect collectif
 
@@ -61,7 +61,7 @@ Un collectif désigne l'ensemble de personnes ou d'entités qui s'unissent de ma
  Ce groupe, souvent considéré comme une entité à vocation communautaire, fonctionne sous le pilotage de ses membres et repose sur une volonté partagée de développer des solidarités.
 -->
 
-L'expérience repose entièrement sur la participation collective de quatre personnes simultanément. Chaque participant contrôle un ingrédient/procédé essentiel à la potion, contribuant ainsi à l'équilibre global du système. Plus les quatre participants coordonnent leurs actions, plus la potion se stabilise et progresse vers sa finalisation. Le collectif devient ici le moteur même de l'expérience : sans les trois autres, aucun participant ne peut réussir seul à stabilisé la potion. L'œuvre met en valeur la force du « nous », une création née de la cohabitation et de la synchronisation des quatre personnes dans l'espace commun.
+L'expérience repose entièrement sur la collaboration de quatre personnes assignées chacune à une station spécifique : Eau, Feu, Poudres et Tourbillon. Chaque participant contrôle un aspect essentiel de la création de la potion et doit réagir rapidement lorsque des événements aléatoires ciblent sa station. Le collectif devient le moteur de l'expérience : sans la performance de chacun, la potion se ruine et tous échouent ensemble. Cette interdépendance crée une dynamique où chaque personne comprend que sa contribution individuelle est indispensable au succès du groupe. L'objectif commun – stabiliser la potion dans le temps le plus court possible – unit les quatre participants dans un effort synchronisé. Le « nous » émerge naturellement de cette nécessité de coopération, où la réussite collective transcende les performances individuelles.
 
 ### L'aspect social
 
@@ -74,7 +74,7 @@ Le terme « social » désigne ce qui concerne la vie en société, c'est-à-dir
  L'adjectif peut aussi qualifier des animaux ou des plantes vivant en communauté selon des règles strictes, comme les insectes sociaux (fourmis, abeilles) ou certaines espèces végétales formant des colonies denses.
 -->
 
-L'aspect social est représenté par la coopération constante entre les participants. "Nous" créons un espace où chaque geste individuel prend sens à travers les autres. Ensemble, les participants équilibrent une potion commune, viable uniquement par la communication. L'œuvre illustre comment nos actions isolées peuvent s'unir pour former une réussite collective plus grande que nous-mêmes. En s'entraidant face aux événements, chacun devient conscient de son rôle interdépendant dans un système plus vaste. La forme finale de la potion montre que nos dosages isolés deviennent une création commune grâce aux autres.
+L'aspect social se manifeste par la communication et l'encouragement constants entre les participants. Bien que chacun contrôle sa propre station, les joueurs doivent surveiller l'état global de la potion et se soutenir mutuellement face aux événements qui surgissent aléatoirement. Quand l'eau s'évapore ou que la potion gèle, le groupe entier ressent l'urgence et encourage le participant concerné à agir rapidement. Cette dynamique crée un espace social où les gestes individuels prennent sens à travers le regard et les réactions des autres. L'œuvre illustre comment nos actions isolées s'inscrivent dans un système social plus vaste : un échec individuel devient un échec collectif, mais une réussite individuelle contribue à la victoire de tous. En célébrant ensemble leur temps record final, les participants vivent concrètement l'expérience d'une création commune qui n'aurait pu exister sans la contribution de chacun.
  
 ## Inspirations
 
