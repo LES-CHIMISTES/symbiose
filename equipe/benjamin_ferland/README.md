@@ -36,17 +36,18 @@ Cette section, complétée lors de la première semaine, présente les tâches i
 - Faire l'enregistrements des sons suivants :
 
     - son d'eau versée
-    - son de bulles pour la potion qui change dynamiquement
+    - son de bulles d'eau de la potion
     - son de brûleur qui s'allume (wwaowoaush)
-    - son de crépitements de brûleur
+    - son de feu constant/crépitements de brûleur
     - son de poudres qui se versent (genre sable qui tombe?)
     - son d'agitation pour station tourbillon (wowowosowoosowoosh)
     - ou son de mixer/blender pour station tourbillon
-    - son de brassage liquide
+    - son de brassage de liquide
 
 ### Semaine 5
 
 - Exporter les sons pour les envoyer au mixage.
+- Tournage trailer
 
 ### Semaine 6
 
