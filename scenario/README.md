@@ -38,7 +38,7 @@ Cette section présente le scénario de l'interactivité du projet Symbiose.
 
 | Verbe action | Condition de déclenchement | Effet visuel | Effet sonore | Effet interactif |
 |--------------|---------------------------|--------------|--------------|------------------|
-| **Tourner** | Un des 3 knobs de poudre est tourné (potentiomètre détecte) | Flux de poudre colorée (bleue, verte ou rose selon le knob) tombe dans le bécher. La potion commence à se colorer légèrement. "✓ 3. Ajouter des poudres" se coche. Faisceau lumineux se déplace vers la station Tourbillon. "☐ 4. Brasser la potion" apparaît | Son de poudre versée + Note de validation musicale | La station Tourbillon se débloque |
+| **Appuyer** | Un (ou plusieurs) des 3 boutons de poudre est appuyé en continu. | Flux de poudre colorée (bleue, verte ou rose selon le knob) tombe dans le bécher. La potion commence à se colorer légèrement. "✓ 3. Ajouter des poudres" se coche. Faisceau lumineux se déplace vers la station Tourbillon. "☐ 4. Brasser la potion" apparaît | Son de poudre versée + Note de validation musicale | La station Tourbillon se débloque |
 
 **Déclencheur suivant** : → Passe à **Scène 4** dès que le joystick est manipulé
 
@@ -157,7 +157,7 @@ Cette section présente le scénario de l'interactivité du projet Symbiose.
 | Verbe action | Condition de déclenchement | Effet visuel | Effet sonore | Effet interactif |
 |--------------|---------------------------|--------------|--------------|------------------|
 | **Tourner en alternance** | Événement Cristallisation déclenché | Les poudres se cristallisent dans la potion, liquide devient dense et rigide, couches colorées visibles et séparées. Couches de brouillard coloré (bleu/vert/rose) à la fenêtre. Jauge "Mélange homogène" + Pattern visuel (Bleu→Vert→Rose) s'affichent | Craquements de cristallisation + Son d'alerte | Les potentiomètres détectent la séquence |
-| **Suivre le pattern** | Les 3 knobs sont tournés dans l'ordre : Bleu → Vert → Rose, et répété | La jauge se remplit à chaque cycle correct. Les couches colorées commencent à se mélanger progressivement | Sons de poudres + Rythme musical qui s'accélère + Feedback positif à chaque cycle correct | Le système valide la séquence et suit la progression |
+| **Suivre le pattern** | Les 3 boutons sont appuyés dans l'ordre : Bleu → Vert → Rose, et répété | La jauge s'égalise à chaque cycle correct. Les couches colorées commencent à se mélanger progressivement | Sons de poudres + Rythme musical qui s'accélère + Feedback positif à chaque cycle correct | Le système valide la séquence et suit la progression |
 | **Compléter** | Jauge atteint 100% après plusieurs cycles | La potion redevient homogène et liquide. Flash vert | Accord de résolution harmonieux | Événement résolu |
 
 ---

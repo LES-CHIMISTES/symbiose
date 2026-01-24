@@ -106,7 +106,6 @@ L'aspect social se manifeste par la communication et l'encouragement constants e
 [Inspiration de son lorsqu'on ouvre le brûleur](feu_allume.mp3)
 [Inspiration de son de feu constant, crépitements, lorsque le brûleur est allumé](feu_constant.mp3)
 [Inspiration de son d'explosion quand la potion est devenu instable](son_explosion.mp3)
-[Inspiration de son enchanté quand la potion devient une potion curative](son_curative.mp3)
 
 
 <!--
@@ -127,10 +126,10 @@ Inspirations relatives à la scénarisation de la lumière et du son, qui seront
 -->
 
 
-### Inspirations interactives // À_TERMINER
+### Inspirations interactives
 
-[![Bartender: The Right Mix](inspiration1.webp)](https://www.crazygames.com/game/bartender-the-right-mix)
-Bartender: The Right Mix nous a grandement inspiré au niveau du concept de base. Notre projet reprend le concept de mélanger des éléments pour obtenir un résultat loufoque, inattendu. 
+[![Equilibrium de zsharpfire](inspiration1.webp)](https://zsharpfire.itch.io/equilibrium)
+Equilibrium est un jeu avec la notion d'équilibre semblabe à celle de nos stations qui sont défiées par des événements. Le but est de placer des formes sur une balance le plus longtemps possible sans qu'elle perde l'équilibre. La notion de temps est pareille que la nôtre, le but est de garder l'équilibre de la potion face aux défis et de battre son temps records.
 
 
 [![Piano – As Image Media 1995 de Toshio Iwai](inspiration2.jpg)](https://artelectronicmedia.com/en/artwork/piano-as-an-image-media-2/)
@@ -192,7 +191,7 @@ Le tutoriel débloque les stations une à la fois pour que les participants appr
 |-------|---------|----------------|-----------------|-----------------|----------|
 | **1** | Eau | Agiter l'erlenmeyer | Main virtuelle verse l'eau, niveau monte<br>"✓ 1. Verser de l'eau" | Son d'eau + Note de validation | Station Feu se débloque |
 | **2** | Feu | Tourner le knob | Feu s'allume sous le bécher<br>"✓ 2. Allumer le feu" | Flamme crépitante + Note de validation | Station Poudres se débloque |
-| **3** | Poudres | Tourner un knob de poudre | Flux de poudre colorée tombe<br>"✓ 3. Ajouter des poudres" | Son de poudre + Note de validation | Station Tourbillon se débloque |
+| **3** | Poudres | Appuyer un (ou plusieurs) bouton(s) de poudre | Flux de poudre colorée tombe<br>"✓ 3. Ajouter des poudres" | Son de poudre + Note de validation | Station Tourbillon se débloque |
 | **4** | Tourbillon | Manipuler le joystick | Potion tourbillonne<br>"✓ 4. Brasser la potion" | Son de brassage + Accord de succès | Fin du tutoriel |
 
 #### Fin du tutoriel
@@ -230,8 +229,8 @@ Chaque événement se déclenche de manière aléatoire et cible une station sp�
 | **Visuel potion** | Les poudres se cristallisent, liquide devient dense et rigide, couches colorées visibles |
 | **Visuel fenêtre** | Couches de brouillard coloré (bleu/vert/rose) superposées dans le ciel |
 | **Action requise** | Doser les 3 poudres en alternance rythmée : Bleue → Verte → Rose (répéter) |
-| **Feedback** | Jauge "Mélange homogène" qui se remplit |
-| **Résolution** | Continuer le pattern jusqu'à ce que la jauge soit pleine |
+| **Feedback** | Jauge "Mélange homogène" |
+| **Résolution** | Continuer le pattern jusqu'à ce que la jauge soit égalisée |
 
 #### Événement 3 : Gel (Station Feu)
 
@@ -295,7 +294,7 @@ Chaque événement se déclenche de manière aléatoire et cible une station sp�
 | Station | Événement | Action physique | Durée estimée |
 |---------|-----------|-----------------|---------------|
 | Eau | Évaporation | Agiter l'erlenmeyer frénétiquement | 30-60 sec |
-| Poudres | Cristallisation | Tourner 3 knobs en alternance rythmée | 45-90 sec |
+| Poudres | Cristallisation | Appuyer sur 3 boutons en alternance rythmée | 45-90 sec |
 | Feu | Gel | Tourner 1 knob au max + pattern rythmique | 40-70 sec |
 | Tourbillon | Vortex | Stabiliser joystick dans zone cible | 50-100 sec |
 

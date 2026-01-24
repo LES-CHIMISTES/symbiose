@@ -14,7 +14,7 @@
 - 4 lumières LED RGBAW DMX (une par station)
 - 4 fils XLR 3 conducteurs de 20'
 - 1 Interface DMX Via XLR
-- LEDs programmables pour le brûleur (station Feu) // À_PRÉCISER
+- LEDs programmables pour le brûleur
 
 #### Électricité
 - 4 extensions électriques
@@ -27,24 +27,28 @@
 - 1 ordinateur portable (avec cable alimentation)
 
 #### Matériaux de fabrication
-- Bois (pour structure de table et supports)
-- Peinture noire mate
+- 2 panneau de bois 4x8 (Contreplaqué ½")
+- Peinture blanche
 - Visserie et quincaillerie
 - Tissus bleu pour erlenmeyer
 - Matériaux pour boîtiers (stations Feu et Poudres) 
+- Forets diamant de 6mm (pour percer erlenmayer)
 
 #### Capteurs et contrôleurs
-- 1 accéléromètre (station Eau)
-- 4 potentiomètres rotatifs (knobs)
-- 1 joystick analogique (station Tourbillon)
 - 1 M5Stack Atom pour transmission de données
-- 1 bouton central lumineux
-- Câblage et connecteurs // À_PRÉCISER
+- 2x M5Stack Pbhub pour grouper les units
+- 3x M5Stack Key Unit
+- 1 M5Stack Angle Unit
+- 1 M5Stack IMU Unit (MPU6886)
+- 1 Joystick analogique X-Y
+- 1 Arduino Leonardo pour mapper joystick analogique
+- Extensions M5Stack Grove
+- Câbles dupont femelle-femelle (joystick analogique -> leonardo)
 
 #### Objets physiques
-- 1 erlenmeyer vide
-- 1 agitateur magnétique réel
-- Réceptacle fermé pour eau (agitateur)
+- 1 Erlenmeyer 500ml
+- 1 Knob de 30mm avec shaft de 6mm (pour fixer sur angle unit)
+- 3 Boutons style arcade 30mm (station poudres) (vert bleu blanc)
 
 ## Logiciels Requis
 #### Environnement de programmation
@@ -61,7 +65,8 @@
 - Synthétiseurs VST (Sons de laboratoire, événements)
 
 ## Synoptique
-![Plan de branchements](synoptique.png)
+![Plan de branchements](synoptique.svg)
+[**agrandir**](https://les-chimistes.github.io/symbiose/technique/synoptique.svg)
 
 ## Plan d'implémentation
 ![Planification de l'espace - perspective 2D](2d_plan.png)
@@ -69,24 +74,30 @@
 ![Planification de l'espace - perspective 3D](3d_plan2.webp)
 ![Planification de l'espace - perspective 3D (vue table)](3d_plan3.webp)
 
-## Budget estimé // À_PRÉCISER
+## Budget estimé
 
-| Objet| Description | Prix | URL/Provenance |
+| Objet| Descritpion | Prix | URL/Provenance |
 | ------ | ------ | ------ | ------ |
-| Erlenmeyer (250ml) | Récipient en verre pour station Eau | 15$ | [Amazon](https://www.amazon.ca/dp/B01N5R7SKK) |
-| Accéléromètre MPU6050 | Capteur de mouvement pour détecter l'agitation de l'erlenmeyer | 8$ | [Amazon](https://www.amazon.ca/dp/B08T1WZNT2) |
-| Tissus bleu (1m) | Tissu pour simuler l'eau dans l'erlenmeyer et cacher l'accéléromètre | 10$ | [Fabricville](https://www.fabricville.com/) |
-| Potentiomètres rotatifs (x5) | Knobs pour contrôle du feu et des poudres | 25$ (5$/unité) | [Amazon](https://www.amazon.ca/dp/B07S1JWG5P) |
-| LEDs programmables RGB (bande 1m) | Pour simuler le feu réel dans le brûleur | 20$ | [Amazon](https://www.amazon.ca/dp/B01LSF4Q0A) |
-| Joystick analogique | Contrôleur pour le brassage/tourbillon | 12$ | [Amazon](https://www.amazon.ca/dp/B07CKVD4R5) |
-| M5Stack Atom | Microcontrôleur pour transmission de données des capteurs | 35$ | [RobotShop](https://www.robotshop.com/ca/fr/) |
-| Agitateur magnétique | Vrai agitateur pour effet visuel physique | 40$ | [Amazon](https://www.amazon.ca/dp/B07FKTZC1F) |
-| Bouton central lumineux | Bouton de démarrage de l'expérience | 15$ | [Amazon](https://www.amazon.ca/dp/B07R2S77M9) |
-| Bois MDF / Contreplaqué | Pour construire les boîtiers des stations et la table | 80$ (~20$/panneau) | [Rona](https://www.rona.ca/) |
-| Peinture noire mate | Pour peinturer les structures et le joystick | 35$/950ml | [HomeDepot](https://www.homedepot.ca/produit/rust-oleum-painter-s-touch-peinture-multi-usages-en-noir-mat-946-ml/1000155179) |
-| Pinceaux et outils | Pour assemblage et peinture | 20$ | [HomeDepot](https://www.homedepot.ca/) |
-| Visserie et quincaillerie | Vis, écrous, supports pour assemblage | 25$ | [Rona](https://www.rona.ca/) |
-| Câblage électronique | Fils, connecteurs, breadboards | 30$ | [Amazon](https://www.amazon.ca/) |
-| Réceptacle hermétique | Contenant pour l'eau de l'agitateur magnétique | 10$ | [Dollarama](https://www.dollarama.com/) |
 |  |  |  | |
-| **Total estimé** | | **~380$** | |
+|  |  |  | |
+|Erlenmayer de 500ml|Erlenmayer qui cachera un accéléromètre|19$|[Amazon](https://www.amazon.ca/Labasics-Glass-Narrow-Erlenmeyer-Borosilicate/dp/B07VPVN2LF)|
+|Forets de diamant 6mm|Pour percer l'erlenmayer sans risques|15$|[Amazon](https://www.amazon.ca/DaduoRi-Diamond-Granite-Porcelain-Ceramic/dp/B0C8DL94DH)|
+|Tissus bleu|Tissus bleu pour cacher l'accéléromètre dans l'erlenmayer|~5-10$|Dollarama|
+|Knob de 30mm avec shaft de 6mm|Knob de station feu qui sera fixé sur le angle unit|18$|[Amazon](https://www.amazon.ca/Uxcell-Black-Silver-Rotary-Potentiometer/dp/B00CQLO0B6)|
+|Boutons style arcade de 30mm|Boutons qui seront fixé sur des key units|11$|[Amazon](https://www.amazon.ca/ehbn9-Arcade-Button-Switch-Colors/dp/B09WDRPLDP)|
+|Mini tiges de bois|Tiges qui seront fixés entre les boutons arcade et les key units|~5-10$|Dollarama|
+|  |  |  | |
+|  |  |  | |
+|M5Stack IMU Unit (MPU6886)|Accéléromètre|~10$|[M5Stack shop](https://shop.m5stack.com/products/6-axis-imu-unitmpu6886)|
+|Extensions grove|Pour longues distances|~6$|[M5Stack shop](https://shop.m5stack.com/products/4pin-buckled-grove-cable)|
+|Joystick analogique|Joystick de la station tourbillon|17$|[Amazon](https://www.amazon.ca/Muloo-JH-D202X-R4-Electric-Potentiometer-Controller/dp/B0CWGX5LG3/)|
+|Arduino Leonardo|Pour recevoir les données du joystick en usb|34$|[Canada Robotix](https://www.canadarobotix.com/products/281?srsltid=AfmBOopji84tbsa_d6uDxBYOYMEiKoLQ7wPGqOcSx13pwFcTWci7yfxh)|
+|Câbles dupont femelle-femelle|Connexions entre leonardo et joystick|16$|[Amazon](https://www.amazon.ca/240Pcs-Dupont-Solderless-Breadboard-Arduino/dp/B09M3T6CLH)|
+|  |  |  | |
+|  |  |  | |
+|Contreplaqué ½"|Panneau de bois contreplaqué sur 4 par 8 pieds de 12mm (utilisé pour le caisson et le brûleur)|~80$/2|[Rona](https://www.rona.ca/fr/produit/1-2-po-x-4-pi-x-8-pi-contreplaque-depinette-standard-cp12es-0938003)|
+| Peinture | Peinture pour peinturer le caisson et brûleur artisanal | 35$/950ml | [HomeDepot](https://www.homedepot.ca/produit/rust-oleum-painter-s-touch-peinture-multi-usages-en-noir-mat-946-ml/1000155179) |
+| Pinceau | Pour peinturer le caisson et le brûleur artisanal | ~4$/pinceau   | [HomeDepot](https://www.homedepot.ca/produit/hdg-pinceau-a-peinture-a-copeaux-plats-de-2-pouces-50-8-mm-de-largeur-paquet-de-1-/1000738776) |
+|  |  |  | |
+|  |  |  | |
+| Total | ~360$, avec taxes et livraison environ 450$ |
