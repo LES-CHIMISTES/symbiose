@@ -33,24 +33,17 @@ Cette section, complétée lors de la première semaine, présente les tâches i
 - Construire le brûleur.
 
 ### Semaine 4
-
-Réaliser les enregistrements sonores.
-- sons de natures papillons etc oiseaux qui chantent quand potion curative
-- sons kaboom pour potion explosion
-- sons d'air toxique du genre woawoduwaoshhh pour faire de l'air qui s'infiltre dans la pièce pour potion tox.
-- son d'évaporation (?) pour événement évaporation
-- son de flamme instable (?) pour événement flamme instable
-- son de flamme mourante pour événement flamme faible
-- son de gel, "frosting" pour événement gel
+ Réaliser les enregistrements sonores.
+- son d'évaporation (vapeur) pour l'événement évaporation.
+- son de cristallisation de poudre pour l'événement de cristallisation.
+- son de gel, "frosting" pour l'événement de gel.
 
 ### Semaine 5
 - Créer le son synthétique de la révélation finale.
 
-
-
 ### Semaine 6
 
-- Créer le son synthétique du chaos lors de la potion explosive.
+- Créer le son synthétique lorsque les joueurs réussissent à stabiliser la potion.
 
 ### Semaine 6.5
 
