@@ -32,10 +32,9 @@ Cette section, complétée lors de la première semaine, présente les tâches i
 - Coder les capteurs (le knob et les 3 boutons)
 ### Semaine 5
 - Modéliser le décor derrière la fenêtre (des arbres, plaine, des tours, soleil)      
-- Coder les animations du décor dans unity selon les fins
+- Coder les animations du décor dans unity selon les événements. 
 ### Semaine 6
-- Faire le son synthétique agréable lors de la potion curative
-- Faire le son synthétique lors de la potion magique
+- Intégrer les sons des événements dans unity.
 - Déboguer au besoin
 ### Semaine 6.5
 - Modéliser la main lowpoly qui tient la flasque
