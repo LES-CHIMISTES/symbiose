@@ -63,6 +63,8 @@ Cette section, complétée **quotidiennement** pendant l’exécution du projet,
 
 #### Lundi
 
+![Aujourd'hui j'ai fait la modélisation du bécher et la base du labo (les murs, plafond ect)](preuve_ls2.webp)
+![Avec l'ajout de leurs matériaux](preuve_ls2_2.webp)
 #### Mardi
 
 #### Mercredi
