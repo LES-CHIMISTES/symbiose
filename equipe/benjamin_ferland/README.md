@@ -22,6 +22,7 @@ Cette section, complétée lors de la première semaine, présente les tâches i
 - Mesurer l’espace et les dimensions de notre installation.
 - Trouver les mesures de la table.
 - Déterminer quels types de matériaux sont les plus adaptés à la construction de la table.
+- Faire des tests de sons pour savoir quels objets produisent les meilleurs sons d’eau, de feu, de mixage et de poudres qui se versent.
 
 ### Semaine 2
 
@@ -30,19 +31,20 @@ Cette section, complétée lors de la première semaine, présente les tâches i
 ### Semaine 3
 
 - Acheter les matériaux du brûleur.
-
-### Semaine 4
-
 - Faire l'enregistrements des sons suivants :
 
     - son d'eau versée
     - son de bulles d'eau de la potion
     - son de brûleur qui s'allume (wwaowoaush)
     - son de feu constant/crépitements de brûleur
+    - son de brassage de liquide
+
+### Semaine 4
+
+- Faire l'enregistrements des sons suivants :
     - son de poudres qui se versent (genre sable qui tombe?)
     - son d'agitation pour station tourbillon (wowowosowoosowoosh)
     - ou son de mixer/blender pour station tourbillon
-    - son de brassage de liquide
 
 ### Semaine 5
 
@@ -55,7 +57,7 @@ Cette section, complétée lors de la première semaine, présente les tâches i
 
 ### Semaine 6.5
 
-- Faire l'animations Unity des modèles 3D
+- Trouver des accessoires (sarraus, lunettes de scientifiques, décorations) à ajouter sur le bureau pour renforcer l’immersion de l'interacteur.
 
 ### Semaine 7
 
