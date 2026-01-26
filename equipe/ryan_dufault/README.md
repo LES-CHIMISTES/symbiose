@@ -80,6 +80,8 @@ Cette section, complétée **quotidiennement** pendant l’exécution du projet,
 ### Semaine 2
 
 #### Lundi
+- Liste de choses à acheter pour les TTPs
+![Liste d'objets technique du projet, à donner aux TTPs.](s2_lundi.webp)
 
 #### Mardi
 
