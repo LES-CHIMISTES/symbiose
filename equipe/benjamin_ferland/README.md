@@ -88,6 +88,12 @@ Cette section, complétée **quotidiennement** pendant l’exécution du projet,
 
 #### Lundi
 
+Aujourd'hui, j'ai réalisé des enregistrements tests de sons afin d’évaluer la qualité sonore des...
+![sons du feu ](preuve_S2_lundi_1.webp)
+![des sons des poudres qui se versent ](preuve_S2_lundi_2.webp)
+![et les différents sons du mixage des poudres.](preuve_S2_lundi_3.webp)
+![J'ai tout enregistré ça dans un projet reaper, mais je vais les modifiers plus tard avec pleins d'effets comme le pan, reverb, pitch](preuve_S2_lundi_4.webp)
+
 #### Mardi
 
 #### Mercredi
