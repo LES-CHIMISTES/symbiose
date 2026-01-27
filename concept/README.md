@@ -128,7 +128,7 @@ Inspirations relatives à la scénarisation de la lumière et du son, qui seront
 
 ### Inspirations interactives
 
-[![Equilibrium de zsharpfire](inspiration1.webp)](https://zsharpfire.itch.io/equilibrium)
+[![Equilibrium de zsharpfire](inspiration1.png)](https://zsharpfire.itch.io/equilibrium)
 Equilibrium est un jeu avec la notion d'équilibre semblabe à celle de nos stations qui sont défiées par des événements. Le but est de placer des formes sur une balance le plus longtemps possible sans qu'elle perde l'équilibre. La notion de temps est pareille que la nôtre, le but est de garder l'équilibre de la potion face aux défis et de battre son temps records.
 
 
