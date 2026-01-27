@@ -79,7 +79,11 @@ Cette section, complétée **quotidiennement** pendant l’exécution du projet,
 ### Semaine 2
 
 #### Lundi
-- J'ai décidé de faire la recherche des lieux proprices afin d'acheter les matériels scientifique pour l'expérience.
+- J'ai décidé de faire la recherche des succursales proprices afin d'acheter les matériels scientifique pour l'expérience.
+![Agitateur magnétique](agitateur.png)
+![erlen mayeur](erlen_mayer.png)
+
+
 
 #### Mardi
 
