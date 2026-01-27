@@ -79,7 +79,7 @@ Cette section, complétée **quotidiennement** pendant l’exécution du projet,
 ### Semaine 2
 
 #### Lundi
-- J'ai décidé de faire la recherche des lieux proprices afin d'acheter le matériel scientifique pour l'expérience.
+- J'ai décidé de faire la recherche des lieux proprices afin d'acheter les matériels scientifique pour l'expérience.
 
 #### Mardi
 
