@@ -100,6 +100,9 @@ L'aspect social se manifeste par la communication et l'encouragement constants e
 
 ---
 
+### Planification physique et virtuelle
+
+
 #### Ambiance sonore
 [Inspiration de son réactif lorsqu'un changement quelconque est fait à la potion](eau_bulles.mp3)
 [Inspiration de son réactif lorsque quelqu'un verse de l'eau à la station Eau](eau_verse.mp3)
