@@ -39,7 +39,7 @@ Cette section, complétée lors de la première semaine, présente les tâches i
 - son de gel, "frosting" pour l'événement de gel.
 
 ### Semaine 5
-- Créer le son synthétique de la révélation finale.
+- Créer le son synthétique lorsque la potion est en alerte d'un échec de potion instable. 
 
 ### Semaine 6
 
@@ -79,6 +79,7 @@ Cette section, complétée **quotidiennement** pendant l’exécution du projet,
 ### Semaine 2
 
 #### Lundi
+- J'ai décidé de faire la recherche des lieux proprices afin d'acheter le matériel scientifique pour l'expérience.
 
 #### Mardi
 
