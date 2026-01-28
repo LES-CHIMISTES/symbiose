@@ -103,6 +103,10 @@ Cette section, complétée **quotidiennement** pendant l’exécution du projet,
 
 
 #### Mercredi
+- J'ai dû trouver les sons de référence pour le moodboard sonore sur Pixebay.
+![sons de référence ](mercredi_1.webp)
+
+
 
 #### Jeudi
 
