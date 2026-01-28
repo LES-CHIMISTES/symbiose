@@ -89,12 +89,18 @@ Cette section, complétée **quotidiennement** pendant l’exécution du projet,
 
 #### Lundi
 - J'ai décidé de faire la recherche des succursales proprices afin d'acheter les matériels scientifique pour l'expérience.
-![Agitateur magnétique](agitateur.png)
+
 ![erlen mayeur](erlen_mayer.png)
 
 
 
 #### Mardi
+- J'ai fais une mise à jour de mes tâches à faire pour les prochaines semaines en rajoutant d'autre occupations.
+![modification semaines 1 à 3](modificationssemaines1plan.png)
+![modification semaines 4 à 8](modificationssemaines2plan.png)
+
+
+
 
 #### Mercredi
 
