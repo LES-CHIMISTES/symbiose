@@ -100,6 +100,9 @@ L'aspect social se manifeste par la communication et l'encouragement constants e
 
 ---
 
+### Planification physique et virtuelle
+[![Planification de l'espace physique et virtuel](plan_physvirt.png)]
+
 #### Ambiance sonore
 [Inspiration de son réactif lorsqu'un changement quelconque est fait à la potion](eau_bulles.mp3)
 [Inspiration de son réactif lorsque quelqu'un verse de l'eau à la station Eau](eau_verse.mp3)
@@ -128,7 +131,7 @@ Inspirations relatives à la scénarisation de la lumière et du son, qui seront
 
 ### Inspirations interactives
 
-[![Equilibrium de zsharpfire](inspiration1.webp)](https://zsharpfire.itch.io/equilibrium)
+[![Equilibrium de zsharpfire](inspiration1.png)](https://zsharpfire.itch.io/equilibrium)
 Equilibrium est un jeu avec la notion d'équilibre semblabe à celle de nos stations qui sont défiées par des événements. Le but est de placer des formes sur une balance le plus longtemps possible sans qu'elle perde l'équilibre. La notion de temps est pareille que la nôtre, le but est de garder l'équilibre de la potion face aux défis et de battre son temps records.
 
 

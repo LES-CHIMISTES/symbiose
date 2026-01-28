@@ -18,19 +18,10 @@ Cette section, complétée lors de la première semaine, présente les tâches i
 -->
 
 ### Semaine 1
-
-- Mesurer l’espace et les dimensions de notre installation.
-- Trouver les mesures de la table.
-- Déterminer quels types de matériaux sont les plus adaptés à la construction de la table.
 - Faire des tests de sons pour savoir quels objets produisent les meilleurs sons d’eau, de feu, de mixage et de poudres qui se versent.
 
 ### Semaine 2
 
-- Construire la table.
-
-### Semaine 3
-
-- Acheter les matériaux du brûleur.
 - Faire l'enregistrements des sons suivants :
 
     - son d'eau versée
@@ -38,17 +29,25 @@ Cette section, complétée lors de la première semaine, présente les tâches i
     - son de brûleur qui s'allume (wwaowoaush)
     - son de feu constant/crépitements de brûleur
     - son de brassage de liquide
-
-### Semaine 4
-
-- Faire l'enregistrements des sons suivants :
     - son de poudres qui se versent (genre sable qui tombe?)
     - son d'agitation pour station tourbillon (wowowosowoosowoosh)
     - ou son de mixer/blender pour station tourbillon
 
+### Semaine 3
+
+- Modification des sons avec pleins d'effets comme le pan, reverb, pitch.
+- Exporter les sons pour les envoyer au mixage.
+
+### Semaine 4
+
+- Construire la table.
+- Acheter les matériaux du brûleur.
+- Mesurer l’espace et les dimensions de notre installation.
+- Trouver les mesures de la table.
+- Déterminer quels types de matériaux sont les plus adaptés à la construction de la table.
+
 ### Semaine 5
 
-- Exporter les sons pour les envoyer au mixage.
 - Tournage trailer
 
 ### Semaine 6
@@ -95,6 +94,8 @@ Aujourd'hui, j'ai réalisé des enregistrements tests de sons afin d’évaluer 
 ![J'ai tout enregistré ça dans un projet reaper, mais je vais les modifiers plus tard avec pleins d'effets comme le pan, reverb, pitch](preuve_S2_lundi_4.webp)
 
 #### Mardi
+
+![Aujourd'hui, j'ai modifié le storyboard pour ajouter les textes qui décrit chaque station](preuve_S2_mardi_1.webp)
 
 #### Mercredi
 
