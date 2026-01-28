@@ -20,43 +20,52 @@ Cette section, complétée lors de la première semaine, présente les tâches i
 
 ### Semaine 1
 
-- Trouver les mesures de la boîte du brûleur.
-
-### Semaine 2
-
-- Identifier les types de matériaux nécessaires pour la boîte du brûleur.     
-- Acheter les matériaux pour la table.
-
-
-### Semaine 3
-
-- Construire le brûleur.
-
-### Semaine 4
- Réaliser les enregistrements sonores.
+- Trouver les sons synthétiques
+- Réaliser les enregistrements sonores.
 - son d'évaporation (vapeur) pour l'événement évaporation.
 - son de cristallisation de poudre pour l'événement de cristallisation.
 - son de gel, "frosting" pour l'événement de gel.
+- son synthétique lorsque la potion est en alerte d'un échec de potion instable. 
+- son synthétique lorsque les joueurs réussissent à stabiliser la potion.
+- le son synthétique lorsque le joueur perd.
+
+
+### Semaine 2
+- Mixage et modulation de tous les sons au complet.
+- Faire l'installation de l'expérience.
+- intégrer l'audio sur unity.
+
+### Semaine 3
+
+- Trouver les mesures de la boîte du brûleur.
+- Identifier les types de matériaux nécessaires pour la boîte du brûleur.   
+- Construire le brûleur.  
+- Acheter les matériaux pour la table.
+
+### Semaine 4
+ 
+ - Acheter les objets nécessaires pour le décor physique.
+ - Continuer l'installation de l'expérience.
 
 ### Semaine 5
-- Créer le son synthétique lorsque la potion est en alerte d'un échec de potion instable. 
+- Faire l'intéractivité du script pour le son d'alerte lorsque la potion commence à devinir instable.
+
 
 ### Semaine 6
-
-- Créer le son synthétique lorsque les joueurs réussissent à stabiliser la potion.
+- Faire l'intéractivité des sons synthétiques événementiels.
 
 ### Semaine 6.5
-
-- Créer le son synthétique lorsque le joueur perd.
+- Faire les séquences de caméra pour le trailer durant le tournage.
+- Faire et finir le montage pour le trailer.
 
 ### Semaine 7
 
-- Faire la liste des objets à acheter pour le décor physique.
+- débogage de l'intéractivité.
 
 
 ### Semaine 8
 
-- Acheter les objets nécessaires au décor physique.
+- Faire la présentation oral
 
 
 
