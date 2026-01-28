@@ -25,36 +25,40 @@ Cette section, complétée lors de la première semaine, présente les tâches i
 
 ### Semaine 2
 
-- Réception de données des capteurs
-    - réception de données d'accéléromètre
-    - réception de données du joystick(/sliders x/y pour simuler joystick si pas de joystick prêt pour semaine 2)
+- Réception de données des capteurs (platformIO / arduino)     
+    - réception de données d'accéléromètre      
+    - réception de données de sliders/faders (x/y)      
+- envoie de données sur Unity      
 
 ### Semaine 3
 
-- envoie de données sur Unity     
-- réception de données des capteurs sur Unity     
-- Développement C# (tel capteur enclenche tel animation si tel condition etc..)       
+- réception de données des capteurs sur Unity       
+- développement c# événement gel    
 
 ### Semaine 4
 
 - Cablage en dessous table        
 - Déboguage capteurs si lieu
+- prendre mesures pour boîtier poudres          
 
 ### Semaine 5
 
 - Tournage trailer        
+- développement c# tutoriel progressif
 
 ### Semaine 6
 
-- Montage vidéo trailer       
+- Montage vidéo trailer     
+- Mapper le joystick analogique avec le arduino leopard  
 
 ### Semaine 6.5
 
-- mix des sons enregistrés    
+- Animation unity de l’événement gel
 
 ### Semaine 7
 
 - Update site complet 
+- Mapper lumières selon échec/victoire (sem 5-8)
 
 ### Semaine 8
 
