@@ -68,7 +68,7 @@ Cette section, complétée **quotidiennement** pendant l’exécution du projet,
 #### Mardi
 ![Aujourd'hui j'ai fait la modélisation du bureau avec l'ajout de ses matériaux)](preuve_ms2.webp)
 #### Mercredi
-
+![Aujourd'hui j'ai fait la modélisation de l'erlenmeyeur avec ses matériauxs (même matériaux que le bécher))](preuve_mers2.webp)
 #### Jeudi
 
 #### Vendredi
