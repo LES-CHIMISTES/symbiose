@@ -80,19 +80,19 @@
 | ------ | ------ | ------ | ------ |
 |  |  |  | |
 |  |  |  | |
-|Erlenmayer de 500ml|Erlenmayer qui cachera un accéléromètre|19$|[Amazon](https://www.amazon.ca/Labasics-Glass-Narrow-Erlenmeyer-Borosilicate/dp/B07VPVN2LF)|
-|Forets de diamant 6mm|Pour percer l'erlenmayer sans risques|15$|[Amazon](https://www.amazon.ca/DaduoRi-Diamond-Granite-Porcelain-Ceramic/dp/B0C8DL94DH)|
+|<u>Erlenmayer de 500ml </u>|Erlenmayer qui cachera un accéléromètre|19$|[Amazon](https://www.amazon.ca/Labasics-Glass-Narrow-Erlenmeyer-Borosilicate/dp/B07VPVN2LF)|
+|<u> Forets de diamant 6mm </u>|Pour percer l'erlenmayer sans risques|15$|[Amazon](https://www.amazon.ca/DaduoRi-Diamond-Granite-Porcelain-Ceramic/dp/B0C8DL94DH)|
 |Tissus bleu|Tissus bleu pour cacher l'accéléromètre dans l'erlenmayer|~5-10$|Dollarama|
-|Knob de 30mm avec shaft de 6mm|Knob de station feu qui sera fixé sur le angle unit|18$|[Amazon](https://www.amazon.ca/Uxcell-Black-Silver-Rotary-Potentiometer/dp/B00CQLO0B6)|
-|Boutons style arcade de 30mm|Boutons qui seront fixé sur des key units|11$|[Amazon](https://www.amazon.ca/ehbn9-Arcade-Button-Switch-Colors/dp/B09WDRPLDP)|
+|<u> Knob de 30mm avec shaft de 6mm </u>|Knob de station feu qui sera fixé sur le angle unit|18$|[Amazon](https://www.amazon.ca/Uxcell-Black-Silver-Rotary-Potentiometer/dp/B00CQLO0B6)|
+|<u> Boutons style arcade de 30mm </u>|Boutons qui seront fixé sur des key units|11$|[Amazon](https://www.amazon.ca/ehbn9-Arcade-Button-Switch-Colors/dp/B09WDRPLDP)|
 |Mini tiges de bois|Tiges qui seront fixés entre les boutons arcade et les key units|~5-10$|Dollarama|
 |  |  |  | |
 |  |  |  | |
-|M5Stack IMU Unit (MPU6886)|Accéléromètre|~10$|[M5Stack shop](https://shop.m5stack.com/products/6-axis-imu-unitmpu6886)|
-|Extensions grove|Pour longues distances|~6$|[M5Stack shop](https://shop.m5stack.com/products/4pin-buckled-grove-cable)|
-|Joystick analogique|Joystick de la station tourbillon|17$|[Amazon](https://www.amazon.ca/Muloo-JH-D202X-R4-Electric-Potentiometer-Controller/dp/B0CWGX5LG3/)|
-|Arduino Leonardo|Pour recevoir les données du joystick en usb|34$|[Canada Robotix](https://www.canadarobotix.com/products/281?srsltid=AfmBOopji84tbsa_d6uDxBYOYMEiKoLQ7wPGqOcSx13pwFcTWci7yfxh)|
-|Câbles dupont femelle-femelle|Connexions entre leonardo et joystick|16$|[Amazon](https://www.amazon.ca/240Pcs-Dupont-Solderless-Breadboard-Arduino/dp/B09M3T6CLH)|
+|<u> M5Stack IMU Unit (MPU6886) </u>|Accéléromètre|~10$|[M5Stack shop](https://shop.m5stack.com/products/6-axis-imu-unitmpu6886)|
+|<u> Extensions grove </u>|Pour longues distances|~6$|[M5Stack shop](https://shop.m5stack.com/products/4pin-buckled-grove-cable)|
+|<u> Joystick analogique </u>|Joystick de la station tourbillon|17$|[Amazon](https://www.amazon.ca/Muloo-JH-D202X-R4-Electric-Potentiometer-Controller/dp/B0CWGX5LG3/)|
+|<u> Arduino Leonardo </u>|Pour recevoir les données du joystick en usb|34$|[Canada Robotix](https://www.canadarobotix.com/products/281?srsltid=AfmBOopji84tbsa_d6uDxBYOYMEiKoLQ7wPGqOcSx13pwFcTWci7yfxh)|
+|<u> Câbles dupont femelle-femelle</u>|Connexions entre leonardo et joystick|16$|[Amazon](https://www.amazon.ca/240Pcs-Dupont-Solderless-Breadboard-Arduino/dp/B09M3T6CLH)|
 |  |  |  | |
 |  |  |  | |
 |Contreplaqué ½"|Panneau de bois contreplaqué sur 4 par 8 pieds de 12mm (utilisé pour le caisson et le brûleur)|~80$/2|[Rona](https://www.rona.ca/fr/produit/1-2-po-x-4-pi-x-8-pi-contreplaque-depinette-standard-cp12es-0938003)|
