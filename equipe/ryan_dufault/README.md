@@ -39,7 +39,11 @@ Cette section, complétée lors de la première semaine, présente les tâches i
 
 - Cablage en dessous table        
 - Déboguage capteurs si lieu
-- prendre mesures pour boîtier poudres          
+- Prendre mesures pour boîtier poudres    
+- Dossier de presse sections :       
+    - histoire      
+    - description   
+    - fonctionnalités         
 
 ### Semaine 5
 
