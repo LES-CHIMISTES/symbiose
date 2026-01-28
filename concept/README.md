@@ -108,8 +108,12 @@ L'aspect social se manifeste par la communication et l'encouragement constants e
 [Inspiration de son réactif lorsque quelqu'un verse de l'eau à la station Eau](eau_verse.mp3)
 [Inspiration de son lorsqu'on ouvre le brûleur](feu_allume.mp3)
 [Inspiration de son de feu constant, crépitements, lorsque le brûleur est allumé](feu_constant.mp3)
+[Inspiration de son de théière qui cri](théière_cri.mp3)
 [Inspiration de son d'explosion quand la potion est devenu instable](son_explosion.mp3)
-
+Inspiration de 3 sons qu'on va combiner ensemble pour créer le son de victoire quand la potion est stabilisé
+[son de jeux vidéos pixelisé](jeux_vidéos_pixel.mp3)
+[Son de chorale d'anges](chorale_anges.mp3)
+[Son qui annonce la victoire en disant 'You](voix_victoire.mp3)
 
 <!--
 Images inspirantes
