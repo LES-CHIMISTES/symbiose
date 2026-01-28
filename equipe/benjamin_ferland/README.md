@@ -75,7 +75,7 @@ Cette section, complétée **quotidiennement** pendant l’exécution du projet,
 - Une entrée par jour sur 8 semaines (8 semaines à partir de la semaine 2).
    - Un total d'au moins 40 entrées uniques!
 - Chaque jour :
-    - Documentstion visuelle et/ou sonore du travail effectué
+    - Documentation visuelle et/ou sonore du travail effectué
     - Lien vers les billets GitHub résolus
 - Démarche rigoureuse de validation de la qualité
 - Démonstration d'autonomie.
@@ -98,6 +98,8 @@ Aujourd'hui, j'ai réalisé des enregistrements tests de sons afin d’évaluer 
 ![Aujourd'hui, j'ai modifié le storyboard pour ajouter les textes qui décrit chaque station](preuve_S2_mardi_1.webp)
 
 #### Mercredi
+Aujourd'hui, j'ai modifié le moodboard sonore pour mieux correspondre avec l'esthétique visuelle du lo-poli
+![Le moodboard sonore modifié](preuve_S2_mercredi_1.webp)
 
 #### Jeudi
 
