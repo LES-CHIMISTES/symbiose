@@ -101,7 +101,7 @@ L'aspect social se manifeste par la communication et l'encouragement constants e
 ---
 
 ### Planification physique et virtuelle
-[![Planification de l'espace physique et virtuel](plan_physvirt.png)]
+![Planification de l'espace physique et virtuel](plan_physvirt.png)
 
 #### Ambiance sonore
 [Inspiration de son réactif lorsqu'un changement quelconque est fait à la potion](eau_bulles.mp3)

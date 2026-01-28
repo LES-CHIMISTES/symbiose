@@ -88,6 +88,8 @@ Cette section, complétée **quotidiennement** pendant l’exécution du projet,
 ![Liste d'objets technique du projet, à donner aux TTPs.](s2_lundi.webp)
 
 #### Mardi
+- Planification physique et virtuelle de l'espace
+![Dessins de planification de l'espace physique et virtuel.](s2_mardi.png)
 
 #### Mercredi
 
