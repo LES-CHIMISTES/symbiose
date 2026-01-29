@@ -101,6 +101,9 @@ Aujourd'hui, j'ai réalisé des enregistrements tests de sons afin d’évaluer 
 Aujourd'hui, j'ai modifié le moodboard sonore pour mieux correspondre avec l'esthétique visuelle du lo-poli
 ![Le moodboard sonore modifié](preuve_S2_mercredi_1.webp)
 
+![J'ai aussi faite le début de mixage du son du brûleur qui s'allume.](preuve_S2_mercredi_2.webp)
+[Voici la base du son](preuve_S2_mercredi_3.mp3)
+
 #### Jeudi
 
 #### Vendredi
