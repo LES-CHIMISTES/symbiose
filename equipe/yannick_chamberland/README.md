@@ -27,12 +27,13 @@ Cette section, complétée lors de la première semaine, présente les tâches i
 ### Semaine 3
 - Modéliser la flasque qui contient l'eau     
 - Construction la scène 3D sur Unity (assemblage)
+- Projection vidéo (setup projecteurs, installation physique)
 ### Semaine 4
 - Modéliser la fenêtre        
 - Coder les capteurs (le knob et les 3 boutons)
 ### Semaine 5
 - Modéliser le décor derrière la fenêtre (des arbres, plaine, des tours, soleil)      
-- Coder les animations du décor dans unity selon les événements. 
+- Coder les animations du décor dans unity selon les événements. (animation unity de l’événement crystal) 
 ### Semaine 6
 - Intégrer les sons des événements dans unity.
 - Déboguer au besoin
