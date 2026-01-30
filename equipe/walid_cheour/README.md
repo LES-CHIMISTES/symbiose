@@ -142,6 +142,11 @@ Cette section, complétée **quotidiennement** pendant l’exécution du projet,
 
 #### Vendredi
 
+J'ai créer d'autres sons puis , je les ai mixer en modifiant leurs fréquences. j'ai aussi rajouter des effets sonores.
+![ ](mixing_sonore.webp)
+
+
+
 ### Semaine 3
 
 #### Lundi
