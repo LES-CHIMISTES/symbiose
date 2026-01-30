@@ -41,18 +41,25 @@ Cette section, complétée lors de la première semaine, présente les tâches i
 - Identifier les types de matériaux nécessaires pour la boîte du brûleur.   
 - Construire le brûleur.  
 - Acheter les matériaux pour la table.
+- projection sonore (haut parleurs, installation physique)
 
 ### Semaine 4
  
- - Acheter les objets nécessaires pour le décor physique.
- - Continuer l'installation de l'expérience.
+ -  Acheter les objets nécessaires pour le décor physique.
+ -  Continuer l'installation de l'expérience.
+ -  animation unity de l’événement vortex
+ - dossier de presse sections crédits contact
 
 ### Semaine 5
-- Faire l'intéractivité du script pour le son d'alerte lorsque la potion commence à devinir instable.
+- Faire l'intéractivité du script pour le son d'alerte lorsque la potion commence à  devinir instable.
+- acheter materiaux boîtier poudres (sem 5-6)
+- construction boîtier poudres (sem 5-7)
+- dossier de presse sections bande-annonce, images, à propos de l'équipe
 
 
 ### Semaine 6
 - Faire l'intéractivité des sons synthétiques événementiels.
+- développement c# événement evaporation.
 
 ### Semaine 6.5
 - Faire les séquences de caméra pour le trailer durant le tournage.
