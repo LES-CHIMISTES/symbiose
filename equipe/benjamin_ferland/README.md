@@ -105,6 +105,18 @@ Aujourd'hui, j'ai modifié le moodboard sonore pour mieux correspondre avec l'es
 [Voici la base du son](preuve_S2_mercredi_3.mp3)
 
 #### Jeudi
+Aujourd'hui, j'ai réalisé les enregistrements des différents sons :
+![Le son des bulles d'eau en ébullition. ](preuve_S2_jeudi_1.webp)
+Le son des poudres qui tombent dans un contenant. J’ai faite deux variantes :
+![1ère variante : enregistrement du riz qui tombe dans un contenant.](preuve_S2_jeudi_2.webp)
+![2ème variante : enregistrement de cassonade qui tombe dans un contenant.](preuve_S2_jeudi_3.webp)
+J'ai fait la même chose pour les sons des poudres qui se font brassées :
+![1ère variante : enregistrement du riz qui se fait brassé](preuve_S2_jeudi_4.webp)
+![2ème variante : enregistrement de la cassonade qui se fait brassée.](preuve_S2_jeudi_5.webp)
+
+![Le son d'éclaboussures d'eau ](preuve_S2_jeudi_6.webp)
+![Le son de verre qui se casse](preuve_S2_jeudi_7.webp)
+![Le son d'explosion que je recréé en faisant éclater un ballon.](preuve_S2_jeudi_8.webp)
 
 #### Vendredi
 
