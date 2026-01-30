@@ -27,12 +27,13 @@ Cette section, complétée lors de la première semaine, présente les tâches i
 ### Semaine 3
 - Modéliser la flasque qui contient l'eau     
 - Construction la scène 3D sur Unity (assemblage)
+- Projection vidéo (setup projecteurs, installation physique)
 ### Semaine 4
 - Modéliser la fenêtre        
 - Coder les capteurs (le knob et les 3 boutons)
 ### Semaine 5
 - Modéliser le décor derrière la fenêtre (des arbres, plaine, des tours, soleil)      
-- Coder les animations du décor dans unity selon les événements. 
+- Coder les animations du décor dans unity selon les événements. (animation unity de l’événement crystal) 
 ### Semaine 6
 - Intégrer les sons des événements dans unity.
 - Déboguer au besoin
@@ -66,11 +67,11 @@ Cette section, complétée **quotidiennement** pendant l’exécution du projet,
 ![Aujourd'hui j'ai fait la modélisation du bécher et la base du labo (les murs, plafond ect)](preuve_ls2.webp)
 ![Avec l'ajout de leurs matériaux (pour le bécher les matérieuxs sont temporaire, je vais les modifiers soit dans blender ou unity)](preuve_ls2_2.webp)
 #### Mardi
-![Aujourd'hui j'ai fait la modélisation du bureau avec l'ajout de ses matériaux)](preuve_ms2.webp)
+![Aujourd'hui j'ai fait la modélisation du bureau avec l'ajout de ses matériaux](preuve_ms2.webp)
 #### Mercredi
-
+![Aujourd'hui j'ai fait la modélisation de l'erlenmeyeur avec ses matériauxs (même matériaux que le bécher)](preuve_mers2.webp)
 #### Jeudi
-
+![Aujourd'hui j'ai fait la modélisation du brûleur avec le knob et leurs matériauxs](preuve_js2.webp)
 #### Vendredi
 
 ### Semaine 3

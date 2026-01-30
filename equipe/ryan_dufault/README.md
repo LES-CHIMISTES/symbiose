@@ -96,20 +96,29 @@ Cette section, complétée **quotidiennement** pendant l’exécution du projet,
 ![Dessins de planification de l'espace physique et virtuel.](s2_mardi.png)
 
 #### Mercredi
+- Envoie de données des capteurs via ATOM (sans accel/gyro)
+![Envoie de données via OSC slip depuis le ATOM sur pure data.](s2_mercredi.png)
 
 #### Jeudi
+- Envoie de données des capteurs via ATOMS3 + patch pure data
+![Envoie de données via OSC slip depuis le ATOMS3, pour avoir accès au gyro et accéléromètre. Patch pure data spécifique pour le projet commencé.](s2_jeudi.png)
 
 #### Vendredi
+<!-- Receive sur Unity; Début effets sur scène genre avec un cube -->
 
 ### Semaine 3
 
 #### Lundi
+<!-- Chaque capteurs fait quelque chose sur la scène -->
 
 #### Mardi
+<!-- Événement gel -->
 
 #### Mercredi
+<!-- Notion de fin et d'état initial pour maquette #1 (genre écran fin Échec! écran victoire Victoire!)-->
 
 #### Jeudi
+<!-- débuggage possible, sinon qlc+ dernier touchups pour maquette#1-->
 
 #### Vendredi
 
