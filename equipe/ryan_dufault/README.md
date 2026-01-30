@@ -101,15 +101,18 @@ Cette section, complétée **quotidiennement** pendant l’exécution du projet,
 
 #### Jeudi
 - Envoie de données des capteurs via ATOMS3 + patch pure data
-![Envoie de données via OSC slip depuis le ATOMS3, pour avoir accès au gyro et accéléromètre. Patch pure data spécifique pour le projet commencé.](s2_jeudi.png)
+![Envoie de données via OSC slip depuis le ATOMS3, pour avoir accès au gyro et accéléromètre en plus des autres units. Patch pure data spécifique pour le projet commencé.](s2_jeudi.png)
 
 #### Vendredi
-<!-- Receive sur Unity; Début effets sur scène genre avec un cube -->
+- Recevoir les données OSC sur Unity.
+![Rotation d'un cube selon données XYZ de l'accéléromètre, données OSC représentées visuellement avec textes.](s2_vendredi.gif)
+- Patch Pure Data unique au projet avancé.
+![Patch Pure Data amélioré.](s2_vendredi2.png)
 
 ### Semaine 3
 
 #### Lundi
-<!-- Chaque capteurs fait quelque chose sur la scène -->
+<!-- Chaque capteurs fait quelque chose sur la scène main -->
 
 #### Mardi
 <!-- Événement gel -->
