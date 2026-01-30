@@ -52,8 +52,8 @@ Cette section, complétée lors de la première semaine, présente les tâches i
 
 ### Semaine 5
 - Faire l'intéractivité du script pour le son d'alerte lorsque la potion commence à  devinir instable.
-- acheter materiaux boîtier poudres (sem 5-6)
-- construction boîtier poudres (sem 5-7)
+- acheter materiaux boîtier poudres 
+- construction boîtier poudres 
 - dossier de presse sections bande-annonce, images, à propos de l'équipe
 
 
