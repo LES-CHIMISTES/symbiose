@@ -73,7 +73,7 @@ Cette section, complétée **quotidiennement** pendant l’exécution du projet,
 #### Jeudi
 ![Aujourd'hui j'ai fait la modélisation du brûleur avec le knob et leurs matériauxs](preuve_js2.webp)
 #### Vendredi
-
+![Aujourd'hui j'ai fait la modélisation de la fennêtre avec les matériauxs](preuve_vs2.webp)
 ### Semaine 3
 
 #### Lundi
