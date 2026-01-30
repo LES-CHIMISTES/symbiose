@@ -106,9 +106,39 @@ Cette section, complétée **quotidiennement** pendant l’exécution du projet,
 - J'ai dû trouver les sons de référence pour le moodboard sonore sur Pixebay.
 ![sons de référence ](mercredi_1.webp)
 
+- J'ai commencé à créer les sons pour l'expérience
+![sons de victoire et des voix ](commencement_des_sons_walid.webp)
+
 
 
 #### Jeudi
+
+- J'ai enregistré des sons en live pour pouvoir faire les sons de refroidissement tout au long de la  phase de crystallisation. J'ai utilisé deux fourchettes en métal ainsi que du papier. 
+![outilis utilisés ](papier_fourchette.webp)
+
+ J'ai créer tous les sons qu'ils m'étaient attribués de faire : 
+ - Sons d’affichage de texte 
+
+ - Sons de début de tutoriel 
+
+ - Sons de fin de tutoriel 
+
+ - Sons de course  
+
+ - Sons d’alerte pour afficher le texte lorsqu’il y a un événement.
+
+ - Sons d’évaporation.
+
+ - Sons de refroidissement tout au long de la phase de cristallisation.
+
+ - Sons d’explosion en cas d’échec.
+
+ - Sons de victoire exagérés avec des anges (un mélange entre des chœurs d’anges et un son de victoire de jeu vidéo)
+
+ - Sons pour afficher ton temps et le meilleur temps.
+
+ ![toutes les sons sont fais dans le logiciel ](sons_complet_section_walid.webp)
+
 
 #### Vendredi
 
