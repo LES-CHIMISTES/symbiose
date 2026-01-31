@@ -119,6 +119,16 @@ J'ai fait la même chose pour les sons des poudres qui se font brassées :
 ![Le son d'explosion que je recréé en faisant éclater un ballon.](preuve_S2_jeudi_8.webp)
 
 #### Vendredi
+Aujourd'hui, j'ai réalisé le mixage et la modification des différents sons :
+![Voici le fichier reaper du son du brûleur qui s'allume. ](preuve_S2_vendredi_1.webp)
+[Le son du brûleur qui s'allume. ](preuve_S2_vendredi_1.mp3)
+
+
+![Voici le fichier reaper du son des bulles d'eau de la potion. ](preuve_S2_vendredi_2.webp)
+[Le son des bulles d'eau de la potion. ](preuve_S2_vendredi_2.mp3)
+
+![ Voici le fichier reaper du son de feu constant/crépitements de brûleur.](preuve_S2_vendredi_3.webp)
+[Le son de feu constant/crépitements de brûleur.](preuve_S2_vendredi_3.mp3)
 
 ### Semaine 3
 
