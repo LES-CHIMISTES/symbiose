@@ -77,7 +77,7 @@ Cette section, complétée **quotidiennement** pendant l’exécution du projet,
 ### Semaine 3
 
 #### Lundi
-
+![Aujourd'hui j'ai fait l'exportation de la scène 3D dans unity](preuve_ls3.webp)
 #### Mardi
 
 #### Mercredi
