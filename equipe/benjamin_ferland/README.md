@@ -134,6 +134,8 @@ Aujourd'hui, j'ai réalisé le mixage et la modification des différents sons :
 
 #### Lundi
 
+![Aujourd'hui, j'ai fait une description plus détaillée de la conception sonore et de l'esthétique sonore  et j'ai ajouté deux nouvelles sections à la page « Concept ». La 1er section est « Esthétique sonore » et la 2ème section est « Conception sonore ».](preuve_S3_lundi_1.webp)
+
 #### Mardi
 
 #### Mercredi
