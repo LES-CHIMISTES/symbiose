@@ -112,7 +112,12 @@ Cette section, complétée **quotidiennement** pendant l’exécution du projet,
 ### Semaine 3
 
 #### Lundi
-<!-- Chaque capteurs fait quelque chose sur la scène main -->
+- Capteurs influencent la scène principale. (simple pour maquette #1)
+    - L'accéléromètre remplit l'eau au fur et à mesure (scale)
+    - L'angle allume le feu/l'éteint progressivement (scale)
+    - Les keys changent la couleur du matériau de l'eau (mesh renderer)
+    - Les faders rotationnent le bécher (rotation)
+![Démonstration visuelle des capteurs qui influencent l'environnement de la scène.](s3_lundi.gif)
 
 #### Mardi
 <!-- Événement gel -->
