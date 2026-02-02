@@ -37,6 +37,7 @@ Cette section, complétée lors de la première semaine, présente les tâches i
 
 - Modification des sons avec pleins d'effets comme le pan, reverb, pitch.
 - Exporter les sons pour les envoyer au mixage.
+- Développement c# gestion de temps
 
 ### Semaine 4
 
@@ -49,18 +50,28 @@ Cette section, complétée lors de la première semaine, présente les tâches i
 ### Semaine 5
 
 - Tournage trailer
+- Développement c# événement cryst
+- Développement c# événement vortex
 
 ### Semaine 6
 
 - Faire le montage sonore et vidéo du trailer.
+- Faire le tutoriel d'interface utilisateur
+- Faire l'interface utilisateur
+- presets qlc+ pour lumières (station eau, feu, poudres, tourbillon, échec/victoire)
 
 ### Semaine 6.5
-
+- Faire le tutoriel d'interface utilisateur
+- Faire l'interface utilisateur
+- presets qlc+ pour lumières (station eau, feu, poudres, tourbillon, échec/victoire)
+mapper lumières selon événéments
+mapper lumières selon tutoriel progressif 
 - Trouver des accessoires (sarraus, lunettes de scientifiques, décorations) à ajouter sur le bureau pour renforcer l’immersion de l'interacteur.
 
 ### Semaine 7
 
 - Assembler les objets dans l’espace physique.
+- corriger les bugs de l'expérience.
 
 ### Semaine 8
 
