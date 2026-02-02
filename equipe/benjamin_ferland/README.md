@@ -68,6 +68,7 @@ mapper lumières selon événéments
 mapper lumières selon tutoriel progressif 
 - Trouver des accessoires (sarraus, lunettes de scientifiques, décorations) à ajouter sur le bureau pour renforcer l’immersion de l'interacteur.
 
+
 ### Semaine 7
 
 - Assembler les objets dans l’espace physique.
@@ -146,6 +147,18 @@ Aujourd'hui, j'ai réalisé le mixage et la modification des différents sons :
 #### Lundi
 
 ![Aujourd'hui, j'ai fait une description plus détaillée de la conception sonore et de l'esthétique sonore  et j'ai ajouté deux nouvelles sections à la page « Concept ». La 1er section est « Esthétique sonore » et la 2ème section est « Conception sonore ».](preuve_S3_lundi_1.webp)
+
+J'ai ajouté des tâches de plus dans ma planification qui seront à faire dans les prochaines semaines.
+
+![modification de la semaine 3](preuve_S3_lundi_2.webp)
+
+![modification des tâches de la semaine 5 à 7](preuve_S3_lundi_3.webp)
+
+J'ai réalisé le mixage et la modification de différents sons :
+![Voici le fichier reaper du son de l'explosion de la potion lorsqu'elle n'est pas réussi à être stabilisé. ](preuve_S3_lundi_4.webp)
+[Le son de l'explosion de la potion.](preuve_S3_lundi_5.mp3)
+
+
 
 #### Mardi
 
