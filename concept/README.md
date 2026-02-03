@@ -135,7 +135,7 @@ Au final, nos sons aident l’interacteur à mieux comprendre et apprécier l’
 Inspiration de 3 sons qu'on va combiner ensemble pour créer le son de victoire quand la potion est stabilisé
 [son de jeux vidéos pixelisé](jeux_vidéos_pixel.mp3)
 [Son de chorale d'anges](chorale_anges.mp3)
-[Son qui annonce la victoire en disant 'You](voix_victoire.mp3)
+[Son qui annonce la victoire en disant 'You win'](voix_victoire.mp3)
 
 <!--
 Images inspirantes
