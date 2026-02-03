@@ -7,7 +7,7 @@
 - Carte de son multi-sorties + adaptateur powerCON
  
 #### Vidéo
-- 2 projecteurs Epson PowerLite 990U
+- 1 projecteurs Epson PowerLite 990U
 - 1 câble HDMI
  
 #### Lumière
@@ -21,7 +21,7 @@
  
 #### Réseau
 - 3 câbles ethernet
-- 2 transmetteurs et 2 récepteurs (pour projection)
+- 1 transmetteurs et 1 récepteurs (pour projection)
 
 #### Ordinateurs
 - 1 ordinateur portable (avec cable alimentation)
