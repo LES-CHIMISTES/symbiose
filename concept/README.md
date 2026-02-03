@@ -107,25 +107,22 @@ L'aspect social se manifeste par la communication et l'encouragement constants e
 #### Esthétique sonore
 
 On qualifierais notre esthétique sonore comme
+- exaggérés
 - enjoué
 - scintillant
-- rythmée
 - cartoonesque
 - ludique
-- stylisé
-- optimiste
-- fluide
 
 #### Conception sonore
 
-Notre conception sonore de sert à répliquer la même l’esthétique visuelle et le même style Lo-Poly que l'environnement 3D ce qui permet de rendre l'expérience plus interréssante et cartoonesque.
+Notre conception sonore de sert à répliquer la même l’esthétique visuelle et le même style Low-Poly que l'environnement 3D ce qui permet de rendre l'expérience plus interréssante et cartoonesque.
 Les sons donnent un retour immédiat au joueur, ce qui rend chaque action claire et agréable à faire.
 
-On s’est inspiré de Super Mario en créant des sons courts, percutants et conçus pour récompenser l’interaction.
+On s’est inspiré de Super Mario en créant des sons courts, percutants et conçus pour récompenser l’interaction. On s’est également inspiré d’Animal Crossing, en faisant en sorte que nos sons accompagnent le jeu sans capter trop l’attention, tout en permettant à l’interacteur de se repérer avec les sons.
 
-On s’est également inspiré d’Animal Crossing, en faisant en sorte que nos sons accompagnent le jeu sans capter trop l’attention, tout en permettant à l’interacteur d’établir une routine sonore.
+Au final, nos sons aident l’interacteur à mieux comprendre et apprécier l’expérience. La conception sonore se résume à des sons exaggérés, qui reflètent l'aspect "low-poly"/"cartoon" de l'expérience.
 
-Au final, nos sons aident l’interacteur à mieux comprendre et apprécier l’expérience.
+
 
 
 #### Ambiance sonore
