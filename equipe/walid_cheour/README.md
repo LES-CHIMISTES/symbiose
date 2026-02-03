@@ -167,6 +167,14 @@ mise à jour des tâches à faire .
 
 #### Mardi
 
+J'ai pris les mesures pour le brûleur : 22 cm de largeur , 20cm  largeur ,  5 cm profodeur.
+![ les mesures pour le brûleur](mesures.webp)
+
+J'ai normalisé toutes les sons du projet afin qu'ils soient toutes à des fréquences égales lorsqu'ils seront diffuser sur des hauts parleurs.
+![ exemple de sons qui a été normalisé sur fl studio](normaliser.webp)
+
+
+
 #### Mercredi
 
 #### Jeudi
