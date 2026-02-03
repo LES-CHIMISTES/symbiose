@@ -120,7 +120,11 @@ Cette section, complétée **quotidiennement** pendant l’exécution du projet,
 ![Démonstration visuelle des capteurs qui influencent l'environnement de la scène.](s3_lundi.gif)
 
 #### Mardi
-<!-- Événement gel -->
+- Développement de l'événement gel (seul événement disponible pour la maquette #1)
+    - Démarre 5 secondes après interaction du fader
+    - Barre de gel qui descend lorsque le knob est au max
+    - Pattern rythmique à suivre pour faire descendre la barre (angle à tel value ainsi de suite)
+![Démonstration de l'événement gel.](s3_mardi.gif)
 
 #### Mercredi
 <!-- Notion de fin et d'état initial pour maquette #1 (genre écran fin Échec! écran victoire Victoire!)-->
