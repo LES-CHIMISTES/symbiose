@@ -93,21 +93,21 @@ Cette section, complétée **quotidiennement** pendant l’exécution du projet,
 
 #### Mardi
 - Planification physique et virtuelle de l'espace
-![Dessins de planification de l'espace physique et virtuel.](s2_mardi.png)
+![Dessins de planification de l'espace physique et virtuel.](s2_mardi.webp)
 
 #### Mercredi
 - Envoie de données des capteurs via ATOM (sans accel/gyro)
-![Envoie de données via OSC slip depuis le ATOM sur pure data.](s2_mercredi.png)
+![Envoie de données via OSC slip depuis le ATOM sur pure data.](s2_mercredi.webp)
 
 #### Jeudi
 - Envoie de données des capteurs via ATOMS3 + patch pure data
-![Envoie de données via OSC slip depuis le ATOMS3, pour avoir accès au gyro et accéléromètre en plus des autres units. Patch pure data spécifique pour le projet commencé.](s2_jeudi.png)
+![Envoie de données via OSC slip depuis le ATOMS3, pour avoir accès au gyro et accéléromètre en plus des autres units. Patch pure data spécifique pour le projet commencé.](s2_jeudi.webp)
 
 #### Vendredi
 - Recevoir les données OSC sur Unity.
 ![Rotation d'un cube selon données XYZ de l'accéléromètre, données OSC représentées visuellement avec textes.](s2_vendredi.gif)
 - Patch Pure Data unique au projet avancé.
-![Patch Pure Data amélioré.](s2_vendredi2.png)
+![Patch Pure Data amélioré.](s2_vendredi2.webp)
 
 ### Semaine 3
 
