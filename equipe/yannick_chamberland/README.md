@@ -79,7 +79,7 @@ Cette section, complétée **quotidiennement** pendant l’exécution du projet,
 #### Lundi
 ![Aujourd'hui j'ai fait l'exportation de la scène 3D dans unity](preuve_ls3.webp)
 #### Mardi
-
+![Aujourd'hui j'ai modéliser le background qui se trouve derrière la fennêtre pour pouvoir l'animer dans unity](preuve_ms3.webp)
 #### Mercredi
 
 #### Jeudi
