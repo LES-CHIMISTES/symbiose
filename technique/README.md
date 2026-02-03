@@ -80,8 +80,6 @@
 | ------ | ------ | ------ | ------ |
 |  |  |  | |
 |  |  |  | |
-|<u>Erlenmayer de 500ml </u>|Erlenmayer qui cachera un accéléromètre|19$|[Amazon](https://www.amazon.ca/Labasics-Glass-Narrow-Erlenmeyer-Borosilicate/dp/B07VPVN2LF)|
-|<u> Forets de diamant 6mm </u>|Pour percer l'erlenmayer sans risques|15$|[Amazon](https://www.amazon.ca/DaduoRi-Diamond-Granite-Porcelain-Ceramic/dp/B0C8DL94DH)|
 |Tissus bleu|Tissus bleu pour cacher l'accéléromètre dans l'erlenmayer|~5-10$|Dollarama|
 |<u> Knob de 30mm avec shaft de 6mm </u>|Knob de station feu qui sera fixé sur le angle unit|18$|[Amazon](https://www.amazon.ca/Uxcell-Black-Silver-Rotary-Potentiometer/dp/B00CQLO0B6)|
 |<u> Boutons style arcade de 30mm </u>|Boutons qui seront fixé sur des key units|11$|[Amazon](https://www.amazon.ca/ehbn9-Arcade-Button-Switch-Colors/dp/B09WDRPLDP)|
