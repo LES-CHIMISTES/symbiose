@@ -32,8 +32,8 @@ Cette section, complétée lors de la première semaine, présente les tâches i
 
 ### Semaine 2
 - Mixage et modulation de tous les sons au complet.
-- Faire l'installation de l'expérience.
-- intégrer l'audio sur unity.
+- commencer à préparer les plans d'installation de l'expérience. 
+
 
 ### Semaine 3
 
@@ -42,13 +42,15 @@ Cette section, complétée lors de la première semaine, présente les tâches i
 - Construire le brûleur.  
 - Acheter les matériaux pour la table.
 - projection sonore (haut parleurs, installation physique)
+- intégrer l'audio sur unity.
 
 ### Semaine 4
  
  -  Acheter les objets nécessaires pour le décor physique.
  -  Continuer l'installation de l'expérience.
- -  animation unity de l’événement vortex
- - dossier de presse sections crédits contact
+ -  animation unity de l’événement vortex.
+ - dossier de presse sections crédits contact.
+ - commencer à trouver la logique méthodique  des scritps sonores.
 
 ### Semaine 5
 - Faire l'intéractivité du script pour le son d'alerte lorsque la potion commence à  devinir instable.
@@ -157,6 +159,11 @@ J'ai créer d'autres sons puis , je les ai mixer en modifiant leurs fréquences.
 ### Semaine 3
 
 #### Lundi
+rajout et mixing du sons de la défaite.
+![ sons de defaite lorsque le joueur ne réussit pas le défi](defaite.png)
+
+mise à jour des tâches à faire .
+![ semaine 3 et 4](mise_a_jour_semaine_3_4.webp)
 
 #### Mardi
 
