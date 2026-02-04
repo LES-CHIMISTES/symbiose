@@ -3,7 +3,7 @@
 ## Équipements requis
 #### Audio
 - 2 haut-parleurs actifs de 5"
-- 2 fils XLR 3 conducteurs de 15'
+- 2 fils XLR conducteurs de 15'
 - Carte de son multi-sorties + adaptateur powerCON
  
 #### Vidéo
@@ -12,7 +12,7 @@
  
 #### Lumière
 - 4 lumières LED RGBAW DMX (une par station)
-- 4 fils XLR 3 conducteurs de 20'
+- 4 fils XLR conducteurs de 20'
 - 1 Interface DMX Via XLR
 - LEDs programmables pour le brûleur
 
