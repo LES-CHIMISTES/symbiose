@@ -81,7 +81,7 @@ Cette section, complétée **quotidiennement** pendant l’exécution du projet,
 #### Mardi
 ![Aujourd'hui j'ai modéliser le background qui se trouve derrière la fennêtre pour pouvoir l'animer dans unity](preuve_ms3.webp)
 #### Mercredi
-
+![Aujourd'hui j'ai fait les visuel pour l'évennement du gel](preuve_mers3.webp)
 #### Jeudi
 
 #### Vendredi
