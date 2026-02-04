@@ -165,7 +165,7 @@ J'ai réalisé le mixage et la modification de différents sons :
 
 J'ai réalisé le mixage et la modification de différents sons :
 ![Voici le fichier reaper du son de la poudre qui se verse ](preuve_S3_mardi_2.webp)
-[Le son de l'explosion de la potion.](preuve_S3_mardi_3.mp3)
+[Le son de la poudre qui se verse.](preuve_S3_mardi_3.mp3)
 
 #### Mercredi
 
