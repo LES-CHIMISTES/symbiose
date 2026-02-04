@@ -127,7 +127,9 @@ Cette section, complétée **quotidiennement** pendant l’exécution du projet,
 ![Démonstration de l'événement gel.](s3_mardi.gif)
 
 #### Mercredi
-<!-- Notion de fin et d'état initial pour maquette #1 (genre écran fin Échec! écran victoire Victoire!)-->
+- Développement de notion d'échec et de victoire
+![Écran d'échec](s3_mercredi.png)
+![Écran de victoire](s3_mercredi2.png)
 
 #### Jeudi
 <!-- débuggage possible, sinon qlc+ dernier touchups pour maquette#1-->
