@@ -161,6 +161,11 @@ J'ai réalisé le mixage et la modification de différents sons :
 
 
 #### Mardi
+![Aujourd'hui, j'ai normalisé toutes les sons que j'ai crée pour qu'il soit toute au même volume quand on va les écouter sur les hauts parleurs. ](preuve_S3_mardi_1.webp)
+
+J'ai réalisé le mixage et la modification de différents sons :
+![Voici le fichier reaper du son de la poudre qui se verse ](preuve_S3_mardi_2.webp)
+[Le son de l'explosion de la potion.](preuve_S3_mardi_3.mp3)
 
 #### Mercredi
 
