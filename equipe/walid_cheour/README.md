@@ -177,6 +177,17 @@ J'ai normalisé toutes les sons du projet afin qu'ils soient toutes à des fréq
 
 #### Mercredi
 
+J'ai fais la création  des éléments UI pour l'évènement de gel.
+![ node pour l'évènement de gel ](node.webp)
+
+J'ai commencé à monter l'installation en aidant mon équipe à mettre les hauts-parleurs ainsi que le projecteur  pour la maquette.
+![ projecteur  ](installation_preuve1.jpg)
+![ hauts-parleurs  ](installation_preuve2.jpg)
+
+
+
+
+
 #### Jeudi
 
 #### Vendredi
