@@ -169,6 +169,14 @@ J'ai réalisé le mixage et la modification de différents sons :
 
 #### Mercredi
 
+![Aujourd'hui, j'ai importé les sons dans unity et créer un source audio pour chaque son. ](preuve_S3_mercredi_1.webp)
+
+![J’ai aussi installé le projecteur et l’éclairage. J’ai également fait la gestion des câbles pour l’ensemble des fils. ](preuve_S3_mercredi_2.webp)
+
+J'ai réalisé le mixage et la modification de différents sons :
+![Voici le fichier reaper du son de l'évènement gel. ](preuve_S3_mercredi_3.webp)
+[Le son de l'évènement gel.](preuve_S3_mercredi_4.mp3)
+
 #### Jeudi
 
 #### Vendredi
