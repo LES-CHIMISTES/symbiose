@@ -185,7 +185,6 @@ J'ai réalisé le mixage et la modification de différents sons :
 
 #### Vendredi
 
-
 ### Semaine 4
 
 #### Lundi
