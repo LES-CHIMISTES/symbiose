@@ -85,7 +85,7 @@ Cette section, complétée **quotidiennement** pendant l’exécution du projet,
 #### Jeudi
 ![Aujourd'hui j'ai contribuer à la mise en place de l'installation](preuve_js3.webp)
 #### Vendredi
-
+![Aujourd'hui j'ai modifier et paufiner les matériaux dans unity](preuve_vs3.webp)
 ### Semaine 4
 
 #### Lundi
