@@ -179,7 +179,12 @@ J'ai réalisé le mixage et la modification de différents sons :
 
 #### Jeudi
 
+![Aujourd’hui, j’ai corrigé la connexion de l’éclairage. Je m’étais trompé : j’avais branché le fil sur le DNX OUT alors qu’il fallait le mettre sur le DNX IN. ](preuve_S3_jeudi_1.webp)
+
+![J’ai également fait la gestion des câbles pour l’ensemble des fils de l'éclairage. ](preuve_S3_jeudi_2.webp)
+
 #### Vendredi
+
 
 ### Semaine 4
 
