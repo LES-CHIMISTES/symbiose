@@ -76,13 +76,13 @@
 
 ## Budget estimé
 
-| Objet| Descritpion | Prix | URL/Provenance |
+| Objet| Description | Prix | URL/Provenance |
 | ------ | ------ | ------ | ------ |
 |  |  |  | |
 |  |  |  | |
 |Tissus bleu|Tissus bleu pour cacher l'accéléromètre dans l'erlenmayer|~5-10$|Dollarama|
-|<u> Knob de 30mm avec shaft de 6mm </u>|Knob de station feu qui sera fixé sur le angle unit|18$|[Amazon](https://www.amazon.ca/Uxcell-Black-Silver-Rotary-Potentiometer/dp/B00CQLO0B6)|
-|<u> Boutons style arcade de 30mm </u>|Boutons qui seront fixé sur des key units|11$|[Amazon](https://www.amazon.ca/ehbn9-Arcade-Button-Switch-Colors/dp/B09WDRPLDP)|
+|<u> Knob de 30mm avec shaft de 6mm </u>|Knob de station feu qui sera fixé sur le angle unit|16$|[Amazon](https://www.amazon.ca/-/fr/uxcell%C2%AE-Sourcingmap-rotatifs-plastique-potentiom%C3%A8tre/dp/B07T1LDJ9P/ref=sr_1_2?__mk_fr_CA=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=T83GCN45Y6PW&dib=eyJ2IjoiMSJ9.fNOt8DGuojZwbFY_X5sKNvAOsxFikg_m6tRXReosYHdc8JzHvQ1n3tOLpiZLrpUp8E-WW-KcNSPfzpjxUGCacLfdep1ESgAma7fhLGmm2SxdaryZ4pe4MM4lV7BImIkfxiq8SFbYCyLUtV6UZxWS2KNlDRzhIEQjvsM9DJkuuhsw-WCOFMGD1UDBwwTPIoGkrSfTB79IlFij3GD49cuzb3i75NS-Tlkt8kzzvVbYovrHYQ1ZZv3Ar88mkOyyLDMifT9yRIun_808XNuD6kTFYbWvIDbxfXXlRET4DzpgXuE.Z8mVBZeDK48u7Q6i6v1CW4iBqhp8LNIOI_uRuI75a74&dib_tag=se&keywords=Lot+de+5+boutons+de+potentiom%C3%A8tre+rotatifs+avec+cadran+de+comptage+de+0+%C3%A0+100%2C+de+6+mm+MF-A01+avec+plaque+frontale+de+40+mm+0-100+press+in&qid=1770262515&sprefix=lot+de+5+boutons+de+potentiom%C3%A8tre+rotatifs+avec+cadran+de+comptage+de+0+%C3%A0+100%2C+de+6+mm+mf-a01+avec+plaque+frontale+de+40+mm+0-100+press+in%2Caps%2C80&sr=8-2)|
+|<u> Boutons style arcade de 30mm </u>|Boutons qui seront fixé sur des key units|26$|[Amazon](https://www.amazon.ca/EG-STARTS-Illuminated-Buttons-Operated/dp/B01M7PNCO9/ref=sr_1_12?crid=PM5VOEY0EW4O&dd=pleQKyYbAOrm0zCbnqhEsw%2C%2C&dib=eyJ2IjoiMSJ9.FZPiTZrTYUiDWI002c2QMXuede5BY-mu5A-mxPJKdUU_uR1jEEhlCbFtnSn2N44n326OA_lESvqkWjYzraiB4jbfpdrfarduQLgLsMjfjIYpE3m5oDibn0M5Z1PrecIWr6ozGf7Al3IjqPBqccH70doQmYpDR1Fd12JyjVKF9msb8sSIhDstzQ3IX0GywwfKrM4iEWTr7BTcvGo33z_Zisv2k3OWTVWBIGN91xUgsF_zOynbxkKWiZ8OuE7E93MZKwKFJ3SXrHOthjvifF3g4JNHGGC89vGLYdNjsAjBvyM.JBp_iY-YSQDVaaWbppeVBhVOTK8j-gpFQfuG_oNca5Q&dib_tag=se&keywords=100mm+arcade+buttons&qid=1770409631&refinements=p_90%3A11828088011&rnid=11828086011&sprefix=100mm+arcade+buttons%2Caps%2C534&sr=8-12)|
 |Mini tiges de bois|Tiges qui seront fixés entre les boutons arcade et les key units|~5-10$|Dollarama|
 |  |  |  | |
 |  |  |  | |
@@ -98,4 +98,4 @@
 | Pinceau | Pour peinturer le caisson et le brûleur artisanal | ~4$/pinceau   | [HomeDepot](https://www.homedepot.ca/produit/hdg-pinceau-a-peinture-a-copeaux-plats-de-2-pouces-50-8-mm-de-largeur-paquet-de-1-/1000738776) |
 |  |  |  | |
 |  |  |  | |
-| Total | ~360$, avec taxes et livraison environ 450$ |
+| Total | ~373$, avec taxes et livraison environ 463$ |
