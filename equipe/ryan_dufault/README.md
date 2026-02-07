@@ -132,9 +132,13 @@ Cette section, complétée **quotidiennement** pendant l’exécution du projet,
 ![Écran de victoire](s3_mercredi2.png)
 
 #### Jeudi
-<!-- débuggage possible, sinon qlc+ dernier touchups pour maquette#1-->
+- Début d'envoi OSC sur QLC+, ajustements finals pour la maquette #1.
+![Liste d'ajustement final](s3_jeudi.png)
+![Code C# d'envoi OSC sur QLC+](s3_jeudi2.png)
 
 #### Vendredi
+- Début de feedback visuel pour chaque station.
+![Disposition en 4 colonnes pour donner l'effet ''split-screen'' pour plus d'immersion.](s3_vendredi.png)
 
 ### Semaine 4
 
