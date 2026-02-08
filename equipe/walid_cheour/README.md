@@ -183,14 +183,23 @@ J'ai fais la création  des éléments UI pour l'évènement de gel.
 J'ai commencé à monter l'installation en aidant mon équipe à mettre les hauts-parleurs ainsi que le projecteur  pour la maquette.
 ![ projecteur  ](installation_preuve1.jpg)
 ![ hauts-parleurs  ](installation_preuve2.jpg)
+implantation de tous les  sons sur unity pour pour les recevoirs dans les scripts.
+![ sons misent dans  le logiel unity](sons_unity.webp)
 
 
 
 #### Jeudi
+création du boîtier pour mettre les capteurs/objets arduino au dessus.
+![ boîtier capteurs/objets arduino](boîtier.webp)
 
-
+finalisation de la maquette 1 
+![](maquette.webp)
 
 #### Vendredi
+création des éléments Ui pour un mouvement de roation et des nodes lorsqu'elles sont désactivés sur photoshop.
+![ flèche rotatif](rotation.webp)
+
+![ nodes lorsqu'elles ne sont pas actifs](nodes_desactiv.webp)
 
 ### Semaine 4
 
