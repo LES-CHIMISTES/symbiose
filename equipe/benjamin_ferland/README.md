@@ -185,13 +185,22 @@ J'ai réalisé le mixage et la modification de différents sons :
 
 #### Vendredi
 
-![Aujourd'hui j'ai modifier les liens amazon du Knob et des boutons de style d'arcade. J’ai aussi ajuster le budget estimé à la fin. ](preuve_S3_vendredi_1.webp)
+![Aujourd'hui, j'ai modifier les liens amazon du Knob et des boutons de style d'arcade. J’ai aussi ajuster le budget estimé à la fin. ](preuve_S3_vendredi_1.webp)
 
-![J'ai également acheté le knob de la station feu qui sera fixé sur le angle unit et aussi le bouton de style arcade qui seront fixé sur des key units. ](preuve_S3_vendredi_2.webp)
+![J'ai également acheté le knob de la station feu qui sera fixé sur l'angle unit et aussi les boutons de style arcade qui seront fixé sur des key units. ](preuve_S3_vendredi_2.webp)
 
 ### Semaine 4
 
 #### Lundi
+![Aujourd'hui, j'ai reçu ma commande amazon qui consistait des knobs de l'angle unit et les boutons de style d'arcade. ](preuve_S4_lundi_1.webp)
+
+J'ai aussi trouvé des Instruments VST qui nous permettront de faire des sons plus cartoonesques comme cela : https://gfxsounds.com/sound-effect/video-game-success-victory-win-flute/
+
+![Voici un VST pour une Flûte. ](preuve_S4_lundi_2.webp)
+
+![Voici un VST pour un Accordéon. ](preuve_S4_lundi_3.webp)
+
+![Voici un VST pour une trompette.](preuve_S4_lundi_4.webp)
 
 #### Mardi
 
