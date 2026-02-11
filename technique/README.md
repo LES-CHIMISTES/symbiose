@@ -11,8 +11,8 @@
 - 1 câble HDMI
  
 #### Lumière
-- 4 lumières LED RGBAW DMX (une par station)
-- 4 fils XLR conducteurs de 20'
+- 1 lumières LED RGBAW DMX (une par station)
+- 1 fils XLR conducteurs de 20'
 - 1 Interface DMX Via XLR
 - LEDs programmables pour le brûleur
 
