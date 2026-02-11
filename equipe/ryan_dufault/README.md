@@ -161,6 +161,18 @@ Cette section, complétée **quotidiennement** pendant l’exécution du projet,
     - Le joystick (faders X/Y pour l'instant) doit faire un rotation dans le sens indiqué de la flèche pendant un X nombre de secondes (anti horaire ou horaire).
 ![Démonstration visuelle de l'avancement des manipulations continues](s4_mercredi.gif)
 - Début du tutoriel progressif
+- Début du TouchDesigner pour la 2ème projection (projection ultra wide)
+![Début du TouchDesigner, pas d'interaction pour l'instant](s4_mercredi.png)
+    - Je pense faire en sorte que chaque niveau d'eau atteint (via manip. continue de la station eau) fasse un pulse reset sur le top feedback
+    - Que l'angle de la station feu ajoute de la saturation (ou des harmonics du noise, à voir)
+    - Que les keys changent la couleur du noise
+    - Que le tourbillon change le translate 4D du 2ème noise
+    - L'événement évaporation enlève de la saturation (genre complètement)
+    - L'événement gel "freeze"/slow le translate 4D du 2ème noise (et donne une teinte bleuté clair)
+    - L'événement crystallisation rajoute beaucoup d'harmonics sur les 2 noise (poure donner l'effet de "grain") (je pourrais même rajouter un 3ème noise, à voir)
+    - L'événement vortex pourrait accélérer le translate 4D du 2ème noise (et faire un effet de clignotement sur la projection?, à voir)
+    - Victoire = saturation boosté
+    - Échec = saturation basse
 <!-- Finitions du feedback visuel des manipulations continues + Début du tutoriel progressif -->
 
 #### Jeudi
