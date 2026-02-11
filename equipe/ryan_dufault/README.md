@@ -143,16 +143,26 @@ Cette section, complétée **quotidiennement** pendant l’exécution du projet,
 ### Semaine 4
 
 #### Lundi
+- Clean-up/refactoring du code, supression des bouts de code en lien avec la maquette #1.
 
 #### Mardi
+- Avancement du feedback visuel des manipulations continues des stations.
+    - L'eau doit atteindre un niveau cible et maintenir son niveau pendant 2 secondes. (Ne marche pas pour l'instant; problème de tolérance/seuil)
+    - Le feu doit aussi atteindre une cible et maintenir son intensité pendant 2 secondes.
+    - Le bouton correspondant à la couleur du cercle affiché sur l'écran doit être appuyé dans un délai de 2 secondes. (Je vais rajouter une animation de fade out demain pour plus d'intuitivité)
+    - Le joystick (faders X/Y pour l'instant) doit faire un rotation dans le sens indiqué de la flèche pendant un X nombre de secondes (anti horaire ou horaire). (Pour l'instant le feedback visuel marche mais pas le système derrière, je vais rajouter un clamp entre 1 et 6 secondes pour le temps de rotation à faire avant le changement de sens de la flèche).
+![à rajouter](s4_mardi.png)
 
 #### Mercredi
+<!-- Finitions du feedback visuel des manipulations continues + Début du tutoriel progressif -->
 
 #### Jeudi
+<!-- Tutoriel progressif complété idéalement, acheter les matériaux nécéssaires-->
 
 #### Vendredi
+<!-- Début structure événements aléatoires -->
 
-### Semaine 5
+### Semaine 5 <!-- Semaine concentrée sur les événements aléatoires, semaine 6 idéalement système de temps, semaine 7+ finitions (ui, ux, etc..)-->
 
 #### Lundi
 
