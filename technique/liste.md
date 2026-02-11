@@ -1,12 +1,23 @@
-## Liste
+## Liste de matériel emprunté jusqu'à maintenant
 
-| Objet| Descritpion | Prix | URL/Provenance |
-| ------ | ------ | ------ | ------ |
-|  |  |  | |
-|  |  |  | |
-
-|<u> M5Stack IMU Unit (MPU6886) </u>|Accéléromètre|~10$|[M5Stack shop](https://shop.m5stack.com/products/6-axis-imu-unitmpu6886)|
-|<u> Extensions grove </u>|Pour longues distances|~6$|[M5Stack shop](https://shop.m5stack.com/products/4pin-buckled-grove-cable)|
-
-|  |  |  | |
-|  |  |  | |
+- 3 souris
+- 2 Fader Unit
+- 1 Atom S3
+- Grove Hub
+- Pb Hub
+- 3 Key Unit
+- 1 Angle
+- 1 ATOM
+- 2 haut-parleurs
+- 2 fils XLR de 15'
+- Carte de son multi-sorties (UMC22)
+- 1 projecteurs Epson PowerLite 990U
+- 1 câble HDMI
+- 1 lumière LED RGBAW DMX
+- 1 fil XLR de 20'
+- 1 Interface DMX Via XLR
+- 3 extensions électriques
+- 2 câbles ethernet
+- 1 transmetteur et 1 récepteur (pour projection)
+- 2 Poles matthews (pour haut parleurs)
+- 1 Pole de soutient pour projecteur

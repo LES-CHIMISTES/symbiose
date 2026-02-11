@@ -151,9 +151,16 @@ Cette section, complétée **quotidiennement** pendant l’exécution du projet,
     - Le feu doit aussi atteindre une cible et maintenir son intensité pendant 2 secondes.
     - Le bouton correspondant à la couleur du cercle affiché sur l'écran doit être appuyé dans un délai de 2 secondes. (Je vais rajouter une animation de fade out demain pour plus d'intuitivité)
     - Le joystick (faders X/Y pour l'instant) doit faire un rotation dans le sens indiqué de la flèche pendant un X nombre de secondes (anti horaire ou horaire). (Pour l'instant le feedback visuel marche mais pas le système derrière, je vais rajouter un clamp entre 1 et 6 secondes pour le temps de rotation à faire avant le changement de sens de la flèche).
-![à rajouter](s4_mardi.png)
+![Démonstration visuelle du début des manipulations continues](s4_mardi.gif)
 
 #### Mercredi
+- Finitions du feedback visuel des manipulations continues des stations.
+    - L'eau doit atteindre un niveau cible et maintenir son niveau pendant 3.5 secondes.
+    - Le feu doit aussi atteindre une cible et maintenir son intensité pendant 2 secondes.
+    - Le bouton correspondant à la couleur du cercle affiché sur l'écran doit être appuyé dans un délai de 4 secondes.
+    - Le joystick (faders X/Y pour l'instant) doit faire un rotation dans le sens indiqué de la flèche pendant un X nombre de secondes (anti horaire ou horaire).
+![Démonstration visuelle de l'avancement des manipulations continues](s4_mercredi.gif)
+- Début du tutoriel progressif
 <!-- Finitions du feedback visuel des manipulations continues + Début du tutoriel progressif -->
 
 #### Jeudi
