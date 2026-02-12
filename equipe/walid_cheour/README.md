@@ -198,7 +198,17 @@ création des éléments Ui pour un mouvement de roation et des nodes lorsqu'ell
 
 #### Mardi
 
+Pour la cohérence du projet, j'ai dû refaire des sons.
+![ ](sons_recommencer.webp)
+
+
 #### Mercredi
+ J'ai supervisé les sons enregistrés avec nos voix et j'ai dû les mixer après.
+ ![ tous les voix sont mixées avec fl studio](voix.webp)
+
+
+
+
 
 #### Jeudi
 
