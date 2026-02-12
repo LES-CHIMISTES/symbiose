@@ -204,6 +204,10 @@ J'ai aussi trouvé des Instruments VST qui nous permettront de faire des sons pl
 
 #### Mardi
 
+![Aujourd'hui, j'ai ajouté le knob que j'ai acheté sur l'angle unit. ](preuve_S4_mardi_1.webp)
+
+![J'ai aussi commencer à écrire le texte pour le tutoriel progressif. ](preuve_S4_mardi_2.webp)
+
 #### Mercredi
 
 #### Jeudi

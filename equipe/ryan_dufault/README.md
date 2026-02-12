@@ -143,16 +143,45 @@ Cette section, complétée **quotidiennement** pendant l’exécution du projet,
 ### Semaine 4
 
 #### Lundi
+- Clean-up/refactoring du code, supression des bouts de code en lien avec la maquette #1.
 
 #### Mardi
+- Avancement du feedback visuel des manipulations continues des stations.
+    - L'eau doit atteindre un niveau cible et maintenir son niveau pendant 2 secondes. (Ne marche pas pour l'instant; problème de tolérance/seuil)
+    - Le feu doit aussi atteindre une cible et maintenir son intensité pendant 2 secondes.
+    - Le bouton correspondant à la couleur du cercle affiché sur l'écran doit être appuyé dans un délai de 2 secondes. (Je vais rajouter une animation de fade out demain pour plus d'intuitivité)
+    - Le joystick (faders X/Y pour l'instant) doit faire un rotation dans le sens indiqué de la flèche pendant un X nombre de secondes (anti horaire ou horaire). (Pour l'instant le feedback visuel marche mais pas le système derrière, je vais rajouter un clamp entre 1 et 6 secondes pour le temps de rotation à faire avant le changement de sens de la flèche).
+![Démonstration visuelle du début des manipulations continues](s4_mardi.gif)
 
 #### Mercredi
+- Finitions du feedback visuel des manipulations continues des stations.
+    - L'eau doit atteindre un niveau cible et maintenir son niveau pendant 3.5 secondes.
+    - Le feu doit aussi atteindre une cible et maintenir son intensité pendant 2 secondes.
+    - Le bouton correspondant à la couleur du cercle affiché sur l'écran doit être appuyé dans un délai de 4 secondes.
+    - Le joystick (faders X/Y pour l'instant) doit faire un rotation dans le sens indiqué de la flèche pendant un X nombre de secondes (anti horaire ou horaire).
+![Démonstration visuelle de l'avancement des manipulations continues](s4_mercredi.gif)
+- Début du tutoriel progressif
+- Début du TouchDesigner pour la 2ème projection (projection ultra wide)
+![Début du TouchDesigner, pas d'interaction pour l'instant](s4_mercredi.png)
+    - Je pense faire en sorte que chaque niveau d'eau atteint (via manip. continue de la station eau) fasse un pulse reset sur le top feedback
+    - Que l'angle de la station feu ajoute de la saturation (ou des harmonics du noise, à voir)
+    - Que les keys changent la couleur du noise
+    - Que le tourbillon change le translate 4D du 2ème noise
+    - L'événement évaporation enlève de la saturation (genre complètement)
+    - L'événement gel "freeze"/slow le translate 4D du 2ème noise (et donne une teinte bleuté clair)
+    - L'événement crystallisation rajoute beaucoup d'harmonics sur les 2 noise (poure donner l'effet de "grain") (je pourrais même rajouter un 3ème noise, à voir)
+    - L'événement vortex pourrait accélérer le translate 4D du 2ème noise (et faire un effet de clignotement sur la projection?, à voir)
+    - Victoire = saturation boosté
+    - Échec = saturation basse
+<!-- Finitions du feedback visuel des manipulations continues + Début du tutoriel progressif -->
 
 #### Jeudi
+<!-- Tutoriel progressif complété idéalement, acheter les matériaux nécéssaires-->
 
 #### Vendredi
+<!-- Début structure événements aléatoires -->
 
-### Semaine 5
+### Semaine 5 <!-- Semaine concentrée sur les événements aléatoires, semaine 6 idéalement système de temps, semaine 7+ finitions (ui, ux, etc..)-->
 
 #### Lundi
 
