@@ -116,7 +116,7 @@ On qualifierais notre esthétique sonore comme
 
 #### Conception sonore
 
-Notre conception sonore sert à répliquer la même l’esthétique visuelle et le même style Low-Poly que l'environnement 3D permetant de rendre l'expérience plus cohérente et interactive. La conception des sons s’inspire de l’univers des jeux vidéo rétro en créant des sons courts et percutants. Ils sont conçus pour donner un retour immédiat à l'interacteur.
+Notre conception sonore sert à répliquer la même l’esthétique visuelle et le même style Low-Poly que l'environnement 3D permetant de rendre l'expérience plus cohérente et interactive. La conception des sons s’inspire de l’univers des anciens cartoons rétro en créant des sons courts, percutants en utilisant des instruments comme l'accordéon, la flute et la brass orchestra. Ils sont conçus pour donner un retour immédiat à l'interacteur.
 
 On s'est inspiré de Gran Turismo 7 qui permettent aux sons d’orienter, d'informer et de faire comprendre l'utilisateur de sa situation dans le jeu.
 
@@ -129,9 +129,12 @@ On s'est inspiré de Gran Turismo 7 qui permettent aux sons d’orienter, d'info
 [Inspiration de son de théière qui cri](théière_cri.mp3)
 [Inspiration de son d'explosion quand la potion est devenu instable](son_explosion.mp3)
 Inspiration de 3 sons qu'on va combiner ensemble pour créer le son de victoire quand la potion est stabilisé
-[son de jeux vidéos pixelisé](jeux_vidéos_pixel.mp3)
+son de cartoon rétro :
+
+https://gfxsounds.com/sound-effect/video-game-success-victory-win-flute/
+
 [Son de chorale d'anges](chorale_anges.mp3)
-[Son qui annonce la victoire en disant 'You win'](voix_victoire.mp3)
+[Son d'applaudissements des mains](applaudissements_mains.mp3)
 
 <!--
 Images inspirantes
