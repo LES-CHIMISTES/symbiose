@@ -209,6 +209,15 @@ J'ai aussi trouvé des Instruments VST qui nous permettront de faire des sons pl
 ![J'ai aussi commencer à écrire le texte pour le tutoriel progressif. ](preuve_S4_mardi_2.webp)
 
 #### Mercredi
+![Aujourd'hui, j'ai réalisé les enregistrements des sons d'anges, de bouage et de clappements de main. ](preuve_S4_mercredi_1.webp)
+
+![J’ai aussi installé les 2 hauts-parleurs. ](preuve_S4_mercredi_2.webp)
+
+![J’ai également fait la gestion des câbles pour l’ensemble des fils. ](preuve_S4_mercredi_3.webp)
+
+![J'ai branché le cable du haut-parleur gauche au #34. ](preuve_S4_mercredi_4.webp)
+
+![J'ai branché le cable du haut-parleur droite au #38. ](preuve_S4_mercredi_5.webp)
 
 #### Jeudi
 
