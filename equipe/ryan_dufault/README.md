@@ -179,10 +179,18 @@ Cette section, complétée **quotidiennement** pendant l’exécution du projet,
 <!-- Tutoriel progressif complété idéalement, acheter les matériaux nécéssaires-->
 - J'ai passé la majorité de la journée à debug platformio.
 - Après je suis allé acheter le matériel électronique nécéssaire concernant la station tourbillon du projet (celle avec le joystick).
+![Moi, au magasin ABRA, entrain de décider quelles résistances prendre pour faire la connection entre les potentiomètres de notre joystick analogique avec les units 3.96 M5Stack.](s4_jeudi.jpg)
 
 
 #### Vendredi
-<!-- Début structure événements aléatoires -->
+- J'ai complété le tutoriel progressif
+    - En premier il faut verser de l'eau au niveau indiqué
+    - Ensuite, il faut allumer le feu à l'intensité indiquée
+    - Ensuite, il faut appuyer sur les boutons en fonction de la couleur demandée
+    - Ensuite, il faut "tourner" (faders x/y pour l'instant) dans le sens de la flèche
+    - Ensuite, la phase principale de l'expérience démarre.
+- J'ai fait le début du système de stabilité globale (seulement UI pour l'instant)
+![Démonstration du tutoriel progressif.](s4_vendredi.gif)
 
 
 ### Semaine 5 <!-- Semaine concentrée sur les événements aléatoires, semaine 6 idéalement système de temps, semaine 7+ finitions (ui, ux, etc..)-->
