@@ -221,6 +221,14 @@ J'ai aussi trouvé des Instruments VST qui nous permettront de faire des sons pl
 
 #### Jeudi
 
+![Aujourd'hui, j'ai modifier la description de la conception sonore pour etre plus en lien avec nos sons dans le style des anciens cartoons rétro.](preuve_S4_jeudi_1.webp)
+
+J'ai acheté avec mon équipe, l'équipement pour la construction des 4 stations.
+
+![Les éléments du dollarama](preuve_S4_jeudi_2.webp)
+
+![Les éléments du Abra Electronics ](preuve_S4_jeudi_3.webp)
+
 #### Vendredi
 
 ### Semaine 5
