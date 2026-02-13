@@ -177,9 +177,13 @@ Cette section, complétée **quotidiennement** pendant l’exécution du projet,
 
 #### Jeudi
 <!-- Tutoriel progressif complété idéalement, acheter les matériaux nécéssaires-->
+- J'ai passé la majorité de la journée à debug platformio.
+- Après je suis allé acheter le matériel électronique nécéssaire concernant la station tourbillon du projet (celle avec le joystick).
+
 
 #### Vendredi
 <!-- Début structure événements aléatoires -->
+
 
 ### Semaine 5 <!-- Semaine concentrée sur les événements aléatoires, semaine 6 idéalement système de temps, semaine 7+ finitions (ui, ux, etc..)-->
 
