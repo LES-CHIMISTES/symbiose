@@ -227,7 +227,7 @@ J'ai acheté avec mon équipe, l'équipement pour la construction des 4 stations
 
 ![Les éléments du dollarama](preuve_S4_jeudi_2.webp)
 
-![Les éléments du Abra Electronics ](preuve_S4_jeudi_3.webp)
+![Les éléments du Home Depot ](preuve_S4_jeudi_3.webp)
 
 #### Vendredi
 
