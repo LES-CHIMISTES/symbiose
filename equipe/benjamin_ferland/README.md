@@ -231,6 +231,8 @@ J'ai acheté avec mon équipe, l'équipement pour la construction des 4 stations
 
 #### Vendredi
 
+![Aujourd'hui, j'ai importé les nouvelles versions des sons plus cartoonesques dans unity et j'ai créer un source audio pour le nouveau son : alerte_evenement ](preuve_S4_vendredi_1.webp)
+
 ### Semaine 5
 
 #### Lundi
