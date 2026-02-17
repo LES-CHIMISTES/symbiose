@@ -26,10 +26,10 @@ Symbiose est une installation intéractive démontrant une potion chimique virtu
 
 
 ## Histoire
-L'histoire est que les joueurs sont des chimistes avec le but de stabiliser la potion. Lors du peocessus de stabilisation, les éléments deviennents instable et les joueurs doivents travailler ensemble pour stabiliser la potion.
+L'histoire est que les joueurs sont des chimistes avec le but de stabiliser la potion. Lors du processus de stabilisation, les éléments deviennent instable et les joueurs doivent travailler ensemble pour stabiliser la potion.
 
 ## Fonctionnalités
-Symbiose possède 4 stations, 4 stations 1 joueur par station, chaque sation fait quelque chose pour stabiliser la potion et l'aider à survivre à travers les éléments à travers des évennements. Chaque joueur possède le pouvoir de contrer un certain type d'évennement.
+Symbiose possède 4 stations, 4 stations 1 joueur par station, chaque station fait quelque chose pour stabiliser la potion et l'aider à survivre à travers les éléments à travers des évènements. Chaque joueur possède le pouvoir de contrer un certain type d'évènement.
 
 
 ## Bande-annonce
@@ -56,7 +56,7 @@ Symbiose possède 4 stations, 4 stations 1 joueur par station, chaque sation fai
  -->
 
 ## À propos de l'équipe de création
-Les chimistes sont une équipe passionée, autonome, harmoniaux, qui travaille avec passion, dissipline et enthousiasme.
+Les chimistes sont une équipe passionnée, autonome, harmonieux, qui travaille avec passion, discipline et enthousiasme.
 
 
 ## Crédits
