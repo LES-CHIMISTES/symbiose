@@ -237,6 +237,12 @@ J'ai acheté avec mon équipe, l'équipement pour la construction des 4 stations
 
 #### Lundi
 
+![Aujourd'hui, j'ai fait la construction des boites avec mon équipe. ](preuve_S5_lundi_1.webp)
+
+![J'ai fait avec Ryan la coupe des bois avec la scie ciculaire.](preuve_S5_lundi_2.webp)
+
+![J'ai fait avec Ryan le collage des bois avec la colle chaude.](preuve_S5_lundi_3.webp)
+
 #### Mardi
 
 #### Mercredi
