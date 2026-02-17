@@ -56,7 +56,7 @@ Symbiose possède 4 stations, 4 stations 1 joueur par station, chaque station fa
  -->
 
 ## À propos de l'équipe de création
-Les chimistes sont une équipe passionnée, autonome, harmonieux, qui travaille avec passion, discipline et enthousiasme.
+Les chimistes sont une équipe passionnée, autonome, harmonieux, qui travaille avec passion, discipline et enthousiasme. Nous sommes passionnées de chimie, nous voulous toujours faire des nouvelles faire de nouvelles expériences et de découvrir des nouveaux horizons. Nous voulous dépassé nos limites.
 
 
 ## Crédits
