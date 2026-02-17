@@ -206,19 +206,38 @@ Pour la cohérence du projet, j'ai dû refaire des sons.
  J'ai supervisé les sons enregistrés avec nos voix et j'ai dû les mixer après.
  ![ tous les voix sont mixées avec fl studio](voix.webp)
 
-
-
-
-
 #### Jeudi
+ J'ai commencé à créer le logo de l'oeuvre 
+  ![ création des lettres et du visuel esthétique](logo1.webp)
+
+Je suis partis avec mon équipe acheter les matériaux nécessaires pour construire le brûleur, tourbillon ainsi les poudres. On avait besoin du bois, de la peinture blanche ainsi que le joystic du potentiomètre
+
+ ![ peinture blanche ](peinture.webp)
+
+![ Le bois utilisé pour la construction ](walid.webp)
+
+
+![ Le joystic pour le potentiomètre qui sera utilisé pour le tourbillon ](joystic.webp)
+
 
 #### Vendredi
+
+J'ai continué à faire le logo de l'installation
+![ continuation du logo rajout de détail, lettres, couleurs etc ](logo2.webp)
+
 
 ### Semaine 5
 
 #### Lundi
 
+J'ai peinturé et sablé  les boîtes en bois pour le tourbilon, le brûleur ainsi que les poudres
+![  ](peinture_boîte.webp)
+
 #### Mardi
+
+finalisation du logo 
+![ ](logo_fina.webp)
+
 
 #### Mercredi
 
