@@ -12,7 +12,7 @@ Du 16 au 20 mars 2026.
 Installation interactive
 
 **Site Web du projet :**  
-[tim-montmorency.com/momo_modele-site-projet-etudiant_25-26](https://tim-montmorency.com/momo_modele-site-projet-etudiant_25-26/#/)
+[tim-montmorency.com/momo_modele-site-projet-etudiant_25-26](https://les-chimistes.github.io/symbiose/#/)
 
 **Site Web de l'exposition collective :**  
 [6tim-montmorency.com/2026](https://tim-montmorency.com/2026/#/)
@@ -56,7 +56,7 @@ Symbiose possède 4 stations, 4 stations 1 joueur par station, chaque sation fai
  -->
 
 ## À propos de l'équipe de création
-
+Les chimistes sont une équipe passionée, autonome, harmoniaux, qui travaille avec passion, dissipline et enthousiasme.
 
 
 ## Crédits
