@@ -22,14 +22,14 @@ Gratuit
 
 
 ## Description
-
+Symbiose est une installation intéractive démontrant une potion chimique virtuelle où chaque station contrôle un ingrédient (eau, flamme, poudres, tourbillon) et la potion ne se finalise QUE si l'équilibre est maintenu. Les participants devront faire face à différents événements aléatoire qui perturberont l'équilibre de la potion. 
 
 
 ## Histoire
-
+L'histoire est que les joueurs sont des chimistes avec le but de stabiliser la potion. Lors du peocessus de stabilisation, les éléments deviennents instable et les joueurs doivents travailler ensemble pour stabiliser la potion.
 
 ## Fonctionnalités
-
+Symbiose possède 4 stations, 4 stations 1 joueur par station, chaque sation fait quelque chose pour stabiliser la potion et l'aider à survivre à travers les éléments à travers des évennements. Chaque joueur possède le pouvoir de contrer un certain type d'évennement.
 
 
 ## Bande-annonce
@@ -58,9 +58,16 @@ Gratuit
 ## À propos de l'équipe de création
 
 
-## Crédits
 
+## Crédits
+Asset 3D : Yannick Chamberland      
+Codage : Ryan Dufault       
+Audio et asset 2D : Walid Choeur        
+Audio et installation : Benjamin Ferland
 
 ## Contact
-
+- Yannick Chamberland https://www.linkedin.com/in/yannick-chamberland/        
+- Ryan Dufault https://www.linkedin.com/in/ryandufault/       
+- Benjamin Ferland https://www.linkedin.com/in/benjamin-ferland/      
+- Walid Choeur https://www.instagram.com/w.a.l.eee/?hl=fr 
 
