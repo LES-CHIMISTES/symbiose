@@ -62,7 +62,7 @@ Les chimistes sont une équipe passionnée, autonome, harmonieux, qui travaille 
 ## Crédits
 Asset 3D : Yannick Chamberland      
 Codage : Ryan Dufault       
-Audio et asset 2D : Walid Choeur        
+Audio et asset 2D : Walid Cheour        
 Audio et installation : Benjamin Ferland
 
 ## Contact

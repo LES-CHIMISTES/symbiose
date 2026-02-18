@@ -196,8 +196,17 @@ Cette section, complétée **quotidiennement** pendant l’exécution du projet,
 ### Semaine 5 <!-- Semaine concentrée sur les événements aléatoires, semaine 6 idéalement système de temps, semaine 7+ finitions (ui, ux, etc..)-->
 
 #### Lundi
+- J'ai commencé à mix le son de chorale à partir de nos voix enregistrées.
+![Début de chorale, beaucoup de reverb, de compression et de tuning](s5_lundi.png)
+- J'ai découpé et assemblé des morceaux de bois pour faire des caissons qui serviront de boîtes pour nos stations.
+![Caissons assemblés et peints.](s5_lundi.jpg)
 
 #### Mardi
+- Événement gel terminé
+    - Il faut en premier tourner le knob au complet pour augmenter l'intensité de la chaleur.
+    - Ensuite, selon le temps, un nombre de knob spécifique apparaît.
+    - Il faut tourner le knob en fonction de la cible demandée (tiret rouge) et suivre le pattern.
+    ![Démonstration accélérée de l'événement gel](s5_mardi.gif)
 
 #### Mercredi
 

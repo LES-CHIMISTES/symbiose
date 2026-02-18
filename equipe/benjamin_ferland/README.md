@@ -245,6 +245,14 @@ J'ai acheté avec mon équipe, l'équipement pour la construction des 4 stations
 
 #### Mardi
 
+![Aujourd'hui, j'ai ajouté une 2ème couche de peinture sur la boîte du bruleur. ](preuve_S5_mardi_1.webp)
+
+![Ryan et moi sommes allés acheter une mèche qui permet de faire des trous ronds. ](preuve_S5_mardi_2.webp)
+
+![Avec la mèche, cela nous a permis de percer nos trois trous où vont être installés nos trois boutons d’arcade. ](preuve_S5_mardi_3.webp)
+
+![Voici la boîte avec les trois trous percés.](preuve_S5_mardi_4.webp)
+
 #### Mercredi
 
 #### Jeudi

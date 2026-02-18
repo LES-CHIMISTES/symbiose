@@ -1,7 +1,7 @@
 # Symbiose
 
-<!-- Bannderole / Bande-annonce -->
-![]( https://placehold.co/600x400?text=banderole-bande-annonce)
+<!-- Banderole / Bande-annonce -->
+![](Banderole.webp)
 
 <!-- Intégration d’une vidéo : méthode 1 (vidéo hébergée sur YouTube, pouvant être non répertoriée publiquement)
 -->
