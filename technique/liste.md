@@ -21,3 +21,21 @@
 - 1 transmetteur et 1 récepteur (pour projection)
 - 2 Poles matthews (pour haut parleurs)
 - 1 Pole de soutient pour projecteur
+
+---
+
+## Choses achetées jusqu'à maintenant
+
+
+
+| Objet  | Provenance | Prix total |
+| ------------- |:-------------:|-----------|
+| Knob 30mm / shaft 6mm    |    Amazon  |18.15$|
+| Boutons arcade 60mm      |   Amazon  |29.88$ |
+| Joystick + résistances (ABRA)      | ABRA    |38.81$|
+| objets que le prof avait besoin au abra      | ABRA    |21.74$|
+| plywood 2 par 4 1/4" + peinture      | Home Depot    |27.63$|
+| Colle chaude + tiges de bois + tissus bleu      | Dollorama    |5.75$|
+|
+| | | ||| |
+|Total :| |141,96$|
