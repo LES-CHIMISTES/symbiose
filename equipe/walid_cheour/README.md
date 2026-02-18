@@ -241,6 +241,14 @@ finalisation du logo
 
 #### Mercredi
 
+J'ai remis plussieurs couches de peinture sur le brûleur.
+ ![ ](trou.webp)
+
+
+ J'ai dû sâbler le trou du brûleur pour mettre le joystic du potentiomètre de la mquette 2.
+ ![ ](recouche.webp) 
+
+
 #### Jeudi
 
 #### Vendredi
