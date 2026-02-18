@@ -53,4 +53,3 @@
 |  Lampe Westcott Ice Light 2 1740 Lumens 5500K -  2 X pile Wescott - 1 chargeur pour pile - 1 fil d'alimentation pour lampe - 2 clips pour attacher les gels sur le baton      |  2     |
 |  Cartable de demis gels      |  1     |
 |  Tape caméra      |  3     |
-|  Sac de sables de 15 lbs      |  10     |
