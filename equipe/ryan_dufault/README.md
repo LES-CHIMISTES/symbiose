@@ -202,6 +202,11 @@ Cette section, complétée **quotidiennement** pendant l’exécution du projet,
 ![Caissons assemblés et peints.](s5_lundi.jpg)
 
 #### Mardi
+- Événement gel terminé
+    - Il faut en premier tourner le knob au complet pour augmenter l'intensité de la chaleur.
+    - Ensuite, selon le temps, un nombre de knob spécifique apparaît.
+    - Il faut tourner le knob en fonction de la cible demandée (tiret rouge) et suivre le pattern.
+    ![Démonstration accélérée de l'événement gel](s5_mardi.gif)
 
 #### Mercredi
 
