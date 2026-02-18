@@ -16,7 +16,7 @@
 - 1 lumière LED RGBAW DMX
 - 1 fil XLR de 20'
 - 1 Interface DMX Via XLR
-- 3 extensions électriques
+- 4 extensions électriques
 - 2 câbles ethernet
 - 1 transmetteur et 1 récepteur (pour projection)
 - 2 Poles matthews (pour haut parleurs)
@@ -47,16 +47,10 @@
 | ------------- |:-------------:|
 | Caméra - Sony A6500 - Chargeur - (2) piles - Objectif  Sony E PZ 18-105mm f/4 G OSS Lens (72) - Lecteur de carte et son fil USB - Tissus pour nettoyer la lentille      | 1    |
 | Adaptateur Sony ACPW20 pour série a7, a6500 et a6000      | 1    |
-|  Déclencheur/Récepteur Sony RMTVP1K sans-fil      |  1     |
 |  Ensemble Manfrotto Trépied MT290XTA3 3 Sections en Aluminium avec Tête - 1 sabot pour trépied      |  1     |
 |  Objectif Sony (E) 55-210mm f/3,5-5,6 (49)       |  1     |
 |  Objectif Sony 35mm f/1.8 OSS pour Sony E (49)      |  1     |
-|  Objectif Sony FE 50mm f/2.8 Macro pour Sony FE (55)      |  1     |
 |  Lampe Westcott Ice Light 2 1740 Lumens 5500K -  2 X pile Wescott - 1 chargeur pour pile - 1 fil d'alimentation pour lampe - 2 clips pour attacher les gels sur le baton      |  2     |
-|  Ensemble Litepanels Astra 3X Bi-Color - Boite de diffusion Litepanels pour Astra 1x1 et Hilio D12/T12 - Ensemble ProTama 1x Pile BP-65H V-Mount & 1x Chargeur PT-FVVC - Support Litepanels V-Mount avec Câble P-Tap à 3-pin XLR pour UNI 4 179.90Lampe Astra 1x1 -Sac Litepanels Noir Lampe Astra 1x1       |  3     |
-|  Spotlight ellipsoïdal      |  1     |
-|  Bandoor pour Litepanel      |  3     |
-|  Trépiers éclairage - Manfrotto 1004Bac en Aluminum 4 sections       |  3     |
 |  Cartable de demis gels      |  1     |
 |  Tape caméra      |  3     |
 |  Sac de sables de 15 lbs      |  10     |
