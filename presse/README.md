@@ -43,7 +43,7 @@ Symbiose possède 4 stations, 4 stations 1 joueur par station, chaque station fa
 <!-- Intégration d’une vidéo : méthode 2 (vidéo locale)
  -->
 <!-- 
- ![Découvrez ce qui vous attends dans nôtre bande annouce, vous la retrouverais sur youtube juste ici!](/media/ipsum_020.mp4)
+ ![Découvrez ce qui vous attends dans nôtre bande annouce, vous la retrouverais juste ici!](/media/ipsum_020.mp4)
 -->
 
 ## Images
