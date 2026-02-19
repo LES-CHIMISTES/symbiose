@@ -48,9 +48,10 @@ Symbiose possède 4 stations, 4 stations 1 joueur par station, chaque station fa
 
 ## Images
 
+## Logo
+![Le logo du projet Symbiose](Banderole.webp)
 
 <!-- Autres sections d'un dossier de presse, moins pertinentes pour ce projet
-## Logo & Icône
 ## Prix et reconnaissances
 ## Articles sélectionnés
  -->
