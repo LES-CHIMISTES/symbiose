@@ -255,6 +255,12 @@ J'ai acheté avec mon équipe, l'équipement pour la construction des 4 stations
 
 #### Mercredi
 
+![Aujourd'hui, j'ai fait la liste des équipements pour le tournage de vendredi. ](preuve_S5_mercredi_1.webp)
+https://github.com/LES-CHIMISTES/symbiose/commit/277e1a771335882a801b3666ff84413408fdf252
+
+![J'ai fait des tests de trous que j'ai percés pour la boite du bruleur. ](preuve_S5_mercredi_2.webp)
+
+![ J'ai fait le trou de la boite du joystick.](preuve_S5_mercredi_3.webp)
 #### Jeudi
 
 #### Vendredi
