@@ -209,8 +209,12 @@ Cette section, complétée **quotidiennement** pendant l’exécution du projet,
     ![Démonstration accélérée de l'événement gel](s5_mardi.gif)
 
 #### Mercredi
+- Événement évaporation terminé
+![Démonstration](s5_mercredi.gif)
 
 #### Jeudi
+- J'ai découpé et assemblé des morceaux de bois pour faire des caissons qui serviront de boîtes pour nos stations.
+![Caissons assemblés et peints.](s5_lundi.jpg)
 
 #### Vendredi
 
