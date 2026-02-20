@@ -109,7 +109,7 @@ Cette section, complétée **quotidiennement** pendant l’exécution du projet,
 #### Jeudi
 ![Aujourd'hui j'ai modéliser la main qui va tenir l'erlenmeyeur](preuve_js5.webp)
 #### Vendredi
-
+![Aujourd'hui j'ai contribuer au montage de la bande annonce](preuve_vs5.webp)
 ### Semaine 6
 
 #### Lundi
