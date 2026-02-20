@@ -241,7 +241,7 @@ finalisation du logo
 
 #### Mercredi
 
-J'ai remis plussieurs couches de peinture sur le brûleur.
+J'ai remis plusieurs couches de peinture sur le brûleur.
  ![ ](trou.webp)
 
 
@@ -250,8 +250,14 @@ J'ai remis plussieurs couches de peinture sur le brûleur.
 
 
 #### Jeudi
+Création de la trame sonore musciale pour la bande-anonce de l'oeuvre.
+![ loop musical pour la bande annonce ](musique.webp)
+
 
 #### Vendredi
+Durant la journée, j'ai dû accompagné mon équipe à faire la bande-annonce pour l'oeuvre en donannt le support technique(lumière,camera,trépied etc.) 
+![  ](filmer.webp)
+
 
 ### Semaine 6
 
