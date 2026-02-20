@@ -261,7 +261,14 @@ https://github.com/LES-CHIMISTES/symbiose/commit/277e1a771335882a801b3666ff84413
 ![J'ai fait des tests de trous que j'ai percés pour la boite du bruleur. ](preuve_S5_mercredi_2.webp)
 
 ![ J'ai fait le trou de la boite du joystick.](preuve_S5_mercredi_3.webp)
+
 #### Jeudi
+
+![Aujourd'hui, j'ai fait la moitié de la soudure des fils du joystick. L'autre moitié a été faite par Ryan.](preuve_S5_jeudi_1.webp)
+
+![Aussi, j'ai fait les trous pour installer l’Angle Unit sur la boîte du brûleur.](preuve_S5_jeudi_2.webp)
+
+![J'ai également peint un petit bout de bois qui va permettre de rentrer le joystick à l'intérieur.](preuve_S5_jeudi_3.webp)
 
 #### Vendredi
 
