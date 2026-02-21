@@ -272,6 +272,8 @@ https://github.com/LES-CHIMISTES/symbiose/commit/277e1a771335882a801b3666ff84413
 
 #### Vendredi
 
+![Aujourd'hui, j'ai fait le tournage du trailer avec mon équipe. Je m'occupais de filmer les séquences.](preuve_S5_vendredi_1.webp)
+
 ### Semaine 6
 
 #### Lundi
