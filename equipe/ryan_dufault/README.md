@@ -206,17 +206,24 @@ Cette section, complétée **quotidiennement** pendant l’exécution du projet,
     - Il faut en premier tourner le knob au complet pour augmenter l'intensité de la chaleur.
     - Ensuite, selon le temps, un nombre de knob spécifique apparaît.
     - Il faut tourner le knob en fonction de la cible demandée (tiret rouge) et suivre le pattern.
-    ![Démonstration accélérée de l'événement gel](s5_mardi.gif)
+![Démonstration accélérée de l'événement gel](s5_mardi.gif)
 
 #### Mercredi
 - Événement évaporation terminé
-![Démonstration](s5_mercredi.gif)
+    - Il faut secouer l'erlen meyer (l'accéléromètre) de façon appropriée.
+![Démonstration de l'événement évaporation](s5_mercredi.mp4)
 
 #### Jeudi
-- J'ai découpé et assemblé des morceaux de bois pour faire des caissons qui serviront de boîtes pour nos stations.
-![Caissons assemblés et peints.](s5_lundi.jpg)
+- Événement cristallisation terminé
+    - Il faut appuyer sur le bouton correspondant selon un rythme précis.
+![Démonstration de l'événement cristallisation](s5_jeudi.mp4)
+- J'ai fait la liaison entre l'arduino nano et le joystick analogique. J'ai ensuite réadapté le projet PlatformIO et le projet Unity en conséquence)
+![Liason entre nano et joystick.](s5_jeudi.jpg)
 
 #### Vendredi
+- Événement vortex terminé
+    - Il faut orienter le joystick de sorte à rester dans la zone verte pour calmer la tornade et la potion qui se fait secouer.
+![Démonstration de l'événement vortex](s5_vendredi.mp4)
 
 ### Semaine 6
 

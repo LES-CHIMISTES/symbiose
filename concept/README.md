@@ -303,10 +303,9 @@ Les événements se déclenchent aléatoirement sur une station, avec une fréqu
 |-----------|-------------|
 | **Événement non résolu (30+ sec)** | Jauge de stabilité globale descend rapidement |
 | **Manipulation continue échouée** | Jauge de stabilité globale descend progressivement |
-| **Cascade (2+ événements actifs 15+ sec)** | Jauge de stabilité globale descend très rapidement |
 | **Stabilité globale à 0%** | **GAME OVER** → La potion explose |
 
-**Message d'échec :** "LA POTION EST RUINÉE ! Réessayez."  
+**Message d'échec :** "LA POTION EST RUINÉE !"  
 **Statistiques affichées :** Temps de survie + Nombre d'événements résolus
 
 
@@ -320,7 +319,6 @@ Les événements se déclenchent aléatoirement sur une station, avec une fréqu
 | **Record absolu** | Meilleur temps de survie de tous les temps (ex: 6:47 - 18 événements) |
 | **Classement stations** | Quelle station a causé le plus/moins d'échecs |
 | **Message motivant** | "Impressionnant ! Pouvez-vous battre 6:47 ?" |
-| **Rejouabilité** | Bouton "Réessayer" pour relancer immédiatement |
 
 #### Durées estimées de survie
 
