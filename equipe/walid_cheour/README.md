@@ -36,28 +36,24 @@ Cette section, complétée lors de la première semaine, présente les tâches i
 ### Semaine 3
 
 - Trouver les mesures de la boîte du brûleur.
-- projection sonore (haut parleurs, installation physique)
-- intégrer l'audio sur unity.
+- projection sonore (haut parleurs, installation physique).
 - créer les éléments UI des nodes activés et désactivés + mouvement de rotation.
+- création de la boîte pour contenir tous les objets arduinos dedans de la maquette 1.
+- créer les éléments Ui. Mouvement de rotation des nodes. Nodes lorsqu'elles ne sont pas actifs.
 
 ### Semaine 4
 
-- Acheter les objets nécessaires pour le décor physique.
+- Acheter les matériaux nécessaires pour la construction des boîtes afin de contenir chacun des objets d'arduinos(peinture blanche et du bois,).
 - Continuer l'installation de l'expérience.
-- animation unity de l’événement vortex.
-- dossier de presse sections crédits contact.
-- commencer à trouver la logique méthodique des scritps sonores.
-- Construire le brûleur.
-- Acheter les matériaux pour la table.
-- Identifier les types de matériaux nécessaires pour la boîte du brûleur.
-- Acheter les matériaux pour la table.
+- Le joystic pour le potentiomètre qui sera utilisé pour l'évènement tourbillon.
+- commencer la création du logo de l'oeuvre multimédia.
+- Créer un effet tourbouillon sonore pour l'évènement tourbillon,
 
 ### Semaine 5
-
-- Faire l'intéractivité du script pour le son d'alerte lorsque la potion commence à devinir instable.
-- acheter materiaux boîtier poudres
-- construction boîtier poudres
-- dossier de presse sections bande-annonce, images, à propos de l'équipe
+- sâbler et peinturer les boîtes.
+- Finaliser la création du  logo.
+- créer la trame sonore musical pour la bande-annonce.
+- Commencer la création de la bande annonce de l'oeuvre
 
 ### Semaine 6
 
@@ -195,6 +191,10 @@ création des éléments Ui pour un mouvement de roation et des nodes lorsqu'ell
 ### Semaine 4
 
 #### Lundi
+Création d'effet sonore pour l'évènement tourbillon.
+[Effet tourbillon créer sur fl studio à partir de la modélisation d'un noise avec le vst serum. Rajout de reverbe aussi.Bouger les fréquences telles que les bases ainsi que les hautes.  ](tourbillon.mp3)
+
+
 
 #### Mardi
 
