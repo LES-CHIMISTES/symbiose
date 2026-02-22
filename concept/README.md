@@ -5,12 +5,12 @@
 <!-- Inclure la vidéo du PowerPoint intial -->
 
 <!-- Méthode 1 -->
-<iframe width="560" height="315"
+<!-- <iframe width="560" height="315"
   src="https://www.youtube.com/embed/VOTRE_VIDEO_ID"
   title="YouTube video"
   frameborder="0"
   allowfullscreen>
-</iframe>  
+</iframe> -->
     
 Symbiose est un jeu coopératif de gestion de crise où 4 participants doivent stabiliser une potion instable en résolvant une série d'événements aléatoires. Chaque événement cible une station spécifique, et seul le participant à cette station peut résoudre la crise. Le but est de compléter les 4 événements le plus rapidement possible sans que la potion n'explose.
 

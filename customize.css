@@ -9,6 +9,11 @@
   /* Cover */
   --cover-bg-brightness: 0.75;
 
+  --sidebar-toggle-bg-hover: #3d516a;
+  /* fond au hover */
+  --sidebar-toggle-color-hover: #fff;
+  /* barres au hover */
+
   /* Elements */
   --codeblock-comment: #516e7a;
   --codeblock-function: #f07178;
@@ -79,5 +84,11 @@ iframe[src],
 iframe[src] * {
   color-scheme: light;
 }
+
+.sidebar {
+  background: #1a1e21;
+}
+
+
 
 /*# sourceMappingURL=core-dark.css.map */
