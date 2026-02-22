@@ -22,18 +22,18 @@ Gratuit
 
 
 ## Description
-Symbiose est une installation intéractive démontrant une potion chimique virtuelle où chaque station contrôle un ingrédient (eau, flamme, poudres, tourbillon) et la potion ne se finalise QUE si l'équilibre est maintenu. Les participants devront faire face à différents événements aléatoire qui perturberont l'équilibre de la potion. 
+Symbiose est une installation intéractive démontrant une potion chimique virtuelle où chaque station contrôle un ingrédient (eau, flamme, poudres, tourbillon). Les participants devront faire face à différents événements aléatoire qui perturberont l'équilibre de la potion. Leur but ultime est de faire en sorte que la potion reste stable le plus longtemps possible.
 
 
 ## Histoire
-L'histoire est que les joueurs sont des chimistes avec le but de stabiliser la potion. Lors du processus de stabilisation, les éléments deviennent instable et les joueurs doivent travailler ensemble pour stabiliser la potion.
+Des chimistes essayent tant bien que mal de stabiliser une potion face à divers événements aléatoires. Lors du processus de stabilisation, les éléments deviennent instable et les joueurs doivent travailler ensemble pour stabiliser la potion le plus longtemps possible.
 
 ## Fonctionnalités
-Symbiose possède 4 stations, 4 stations 1 joueur par station, chaque station fait quelque chose pour stabiliser la potion et l'aider à survivre à travers les éléments à travers des évènements. Chaque joueur possède le pouvoir de contrer un certain type d'évènement.
+Symbiose possède quatre stations physiques, avec un joueur par station. Chacune de ces personnes doivent faire une manipulation continue unique à leur station pour maintenir l'équilibre de la potion et la faire survivre à travers de multiples événements. Chaque station possède la capacité de contrer un certain type d'événement.
 
 
 ## Bande-annonce
-
+![Bannière du projet Symbiose](banner.png)
 <!-- Intégration d’une vidéo : méthode 1 (vidéo hébergée sur YouTube, pouvant être non répertoriée publiquement)
 -->
 <!-- 
@@ -48,6 +48,11 @@ Symbiose possède 4 stations, 4 stations 1 joueur par station, chaque station fa
 
 ## Images
 
+![x](img2.png)
+![x](img1.png)
+![x](img3.png)
+![Bannière du projet Symbiose](banner.png)
+
 ## Logo
 ![Le logo du projet Symbiose](Banderole.webp)
 
@@ -57,18 +62,18 @@ Symbiose possède 4 stations, 4 stations 1 joueur par station, chaque station fa
  -->
 
 ## À propos de l'équipe de création
-Les chimistes sont une équipe passionnée, autonome, harmonieux, qui travaille avec passion, discipline et enthousiasme. Nous sommes passionnées de chimie, nous voulous toujours faire des nouvelles faire de nouvelles expériences et de découvrir des nouveaux horizons. Nous voulous dépassé nos limites.
+Nous, "Les Chimistes", sommes une équipe de passionnés. Harmonieux, nous travaillons toujours avec passion et plaisir. Notre objectif principal avec ce projet était de surpasser nos limites individuelles pour mener à terme un projet concret et complet, qui comblerait les compétences de chacun d'entre nous.
 
 
 ## Crédits
-Asset 3D : Yannick Chamberland      
-Codage : Ryan Dufault       
-Audio et asset 2D : Walid Cheour        
-Audio et installation : Benjamin Ferland
+Assets 3D : Yannick Chamberland      
+Développement C# et Touch Designer  : Ryan Dufault       
+Audio et assets 2D : Walid Cheour        
+Audio et installations physiques : Benjamin Ferland 
 
 ## Contact
 - Yannick Chamberland https://www.linkedin.com/in/yannick-chamberland/        
-- Ryan Dufault https://www.linkedin.com/in/ryandufault/       
+- Ryan Dufault https://ryandufault.com/     
 - Benjamin Ferland https://www.linkedin.com/in/benjamin-ferland/      
 - Walid Choeur https://www.instagram.com/w.a.l.eee/?hl=fr 
 
