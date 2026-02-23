@@ -228,6 +228,19 @@ Cette section, complétée **quotidiennement** pendant l’exécution du projet,
 ### Semaine 6
 
 #### Lundi
+- Animation Unity de la main qui verse de l'eau dans le bécher + Post-processing de la scène (saturation, contraste, hdri, etc..)
+![Démonstration de l'animation de la main qui verse de l'eau.](s6_lundi.mp4)
+- Touch Designer du projet complété
+    - À chaque fois que la station eau atteint ça sible, pulse sur le reset du feedback 
+    - Le angle (knob) rajoute des harmonics au noise (donne un effet de "grain", d'intensité)   
+    - Les boutons changent la couleur globale de la projection (appliquent une teinte)  
+    - Le joystick change le feedback de direction   
+    - L'événement évaporation diminue la saturation globale de la projection
+    - L'événement gel ajoute une teinte bleue clair et une vignette blanchâtre
+    - L'événement cristallisation ajoute un dégradé tricolore qui se déplace, en plus d'un overlay de noise (qui est modifiée de sorte à ressembler à des cristaux)
+    - L'événement vortex fait trembler le feedback en plus de rétrécir le scale des noise
+    - L'échec fait clignoter un dégradé rouge
+![Vue globale du projet Touch Designer](s6_lundi.png)
 
 #### Mardi
 
