@@ -33,7 +33,14 @@ Symbiose possède quatre stations physiques, avec un joueur par station. Chacune
 
 
 ## Bande-annonce
-![Bannière du projet Symbiose](banner.png)
+<figure>
+  <div style="aspect-ratio: 16/9;">
+    <iframe width="100%" height="100%" src="https://www.youtube-nocookie.com/embed/yiQbWxr8KfI?disablekb=1&modestbranding=1&playsinline=1&rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture; fullscreen" style="display: block; width: 100%; height: 100%;"></iframe>
+  </div>
+  <figcaption style="text-align: center; font-style: italic;">
+    <a target="_blank" href="https://www.youtube.com/watch?v=yiQbWxr8KfI">Symbiose | Bande-annonce</a>
+  </figcaption>
+</figure>
 <!-- Intégration d’une vidéo : méthode 1 (vidéo hébergée sur YouTube, pouvant être non répertoriée publiquement)
 -->
 <!-- 
@@ -48,9 +55,9 @@ Symbiose possède quatre stations physiques, avec un joueur par station. Chacune
 
 ## Images
 
-![x](img2.png)
+<!-- ![x](img2.png)
 ![x](img1.png)
-![x](img3.png)
+![x](img3.png) -->
 ![Bannière du projet Symbiose](banner.png)
 
 ## Logo
