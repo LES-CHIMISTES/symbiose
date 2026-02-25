@@ -54,10 +54,51 @@
 |  Cartable de demis gels      |  1     |
 |  Tape caméra      |  3     |
 
-## Liste de plan des boîtes
+### Boîte Bouton
 
-| Boîtes  | Spécification | Mesure de la spécification | Emplacement et nombre de spécification|Lien vers produit|
-| ------------- |:-------------:| ------------- |:-------------:|:-------------:| 
-| Bouton  | Des boutons d'arcade relier à des keys unit | 22.46mm par bouton | 3 boutons, 2 bouton au tier 2 tier et un bouton à la moitié et 1 tier |https://www.amazon.ca/EG-STARTS-Illuminated-Buttons-Operated/dp/B01M7PNCO9/ref=sr_1_12?crid=PM5VOEY0EW4O&dd=pleQKyYbAOrm0zCbnqhEsw%2C%2C&dib=eyJ2IjoiMSJ9.FZPiTZrTYUiDWI002c2QMXuede5BY-mu5A-mxPJKdUU_uR1jEEhlCbFtnSn2N44n326OA_lESvqkWjYzraiB4jbfpdrfarduQLgLsMjfjIYpE3m5oDibn0M5Z1PrecIWr6ozGf7Al3IjqPBqccH70doQmYpDR1Fd12JyjVKF9msb8sSIhDstzQ3IX0GywwfKrM4iEWTr7BTcvGo33z_Zisv2k3OWTVWBIGN91xUgsF_zOynbxkKWiZ8OuE7E93MZKwKFJ3SXrHOthjvifF3g4JNHGGC89vGLYdNjsAjBvyM.JBp_iY-YSQDVaaWbppeVBhVOTK8j-gpFQfuG_oNca5Q&dib_tag=se&keywords=100mm+arcade+buttons&qid=1770409631&refinements=p_90%3A11828088011&rnid=11828086011&sprefix=100mm+arcade+buttons%2Caps%2C534&sr=8-12| 
-| Joystick  | Un joystick | 38.5mm | 1 Joystick au centre de la boîte| https://abra-electronics.com/electromechanical/switches/arcade-game-switches/2d-2-axis-joystick-potentiometer-5k-clone.html|
-| Brûleur  | Un angle unit et un allongement puis un knob | 18mm? et le knob est 6mm | 1 allongement et le unit est au devant la boîte| https://www.amazon.ca/-/fr/uxcell%C2%AE-Sourcingmap-rotatifs-plastique-potentiom%C3%A8tre/dp/B07T1LDJ9P/ref=sr_1_2?__mk_fr_CA=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=T83GCN45Y6PW&dib=eyJ2IjoiMSJ9.fNOt8DGuojZwbFY_X5sKNvAOsxFikg_m6tRXReosYHdc8JzHvQ1n3tOLpiZLrpUp8E-WW-KcNSPfzpjxUGCacLfdep1ESgAma7fhLGmm2SxdaryZ4pe4MM4lV7BImIkfxiq8SFbYCyLUtV6UZxWS2KNlDRzhIEQjvsM9DJkuuhsw-WCOFMGD1UDBwwTPIoGkrSfTB79IlFij3GD49cuzb3i75NS-Tlkt8kzzvVbYovrHYQ1ZZv3Ar88mkOyyLDMifT9yRIun_808XNuD6kTFYbWvIDbxfXXlRET4DzpgXuE.Z8mVBZeDK48u7Q6i6v1CW4iBqhp8LNIOI_uRuI75a74&dib_tag=se&keywords=Lot+de+5+boutons+de+potentiom%C3%A8tre+rotatifs+avec+cadran+de+comptage+de+0+%C3%A0+100%2C+de+6+mm+MF-A01+avec+plaque+frontale+de+40+mm+0-100+press+in&qid=1770262515&sprefix=lot+de+5+boutons+de+potentiom%C3%A8tre+rotatifs+avec+cadran+de+comptage+de+0+%C3%A0+100%2C+de+6+mm+mf-a01+avec+plaque+frontale+de+40+mm+0-100+press+in%2Caps%2C80&sr=8-2|
+- **Spécification :**  
+  Boutons d’arcade reliés à des key units  
+
+- **Mesure :**  
+  22.46 mm par bouton  
+
+- **Emplacement et quantité :**  
+  - 3 boutons au total  
+  - 2 boutons au niveau des au tier et 2 tier  
+  - 1 bouton à la moitié et 1 tier  
+
+- **Lien produit :**  
+  https://www.amazon.ca/EG-STARTS-Illuminated-Buttons-Operated/dp/B01M7PNCO9/
+
+
+### Boîte Joystick
+
+- **Spécification :**  
+  1 joystick  
+
+- **Mesure :**  
+  38.5 mm  
+
+- **Emplacement et quantité :**  
+  - 1 joystick  
+  - Positionné au centre de la boîte  
+
+- **Lien produit :**  
+  https://abra-electronics.com/electromechanical/switches/arcade-game-switches/2d-2-axis-joystick-potentiometer-5k-clone.html  
+
+
+### Boîte Brûleur
+
+- **Spécification :**  
+  Angle unit + allongement + knob  
+
+- **Mesures :**  
+  - Angle unit : ~18 mm  
+  - Knob : 6 mm  
+
+- **Emplacement et quantité :**  
+  - 1 allongement  
+  - L’unit est positionné à l’avant de la boîte  
+
+- **Lien produit :**  
+  https://www.amazon.ca/dp/B07T1LDJ9P/
