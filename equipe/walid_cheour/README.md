@@ -255,15 +255,23 @@ Création de la trame sonore musciale pour la bande-anonce de l'oeuvre.
 
 
 #### Vendredi
-Durant la journée, j'ai dû accompagné mon équipe à faire la bande-annonce pour l'oeuvre en donannt le support technique(lumière,camera,trépied etc.) 
+Durant la journée, j'ai dû accompagné mon équipe à faire la bande-annonce pour l'oeuvre en donant le support technique(lumière,camera,trépied etc.) 
 ![  ](filmer.webp)
 
 
 ### Semaine 6
 
 #### Lundi
+Cette journée, je me suis occupé de mettre le logo, changé la couleur du thème, corrigé les fautes de français et faire le favicon de notre site web.
+![ Logo, couleur du thème et favicon implantés dans notre site web ](site.webp)
+
 
 #### Mardi
+Je me suis occupé de finaliser la maquette 2 avec mon équipe en s'assurant que les capteurs arduinos, 
+la gestion des câbles ainsi que les boîtiers( brûleurs,les pourdres ainsi et le  tourbouillon) ont bien été réalisés pour la présentation. J'ai dû acceuillir les élèves de deuxième session pour leur faire essayer l'oeuvre immersive et intéractive.
+![ maquette 2 complet ](maquette2.webp)
+![ essai de la maquette 2 ](maquette2video.mp4)
+
 
 #### Mercredi
 
