@@ -35,25 +35,15 @@
 | Joystick + résistances (ABRA)      | ABRA    |38.81$|
 | objets que le prof avait besoin au abra      | ABRA    |21.74$|
 | plywood 2 par 4 1/4" + peinture      | Home Depot    |27.63$|
-| Colle chaude + tiges de bois + tissus bleu      | Dollorama    |5.75$|
+| Batonnets colle chaude + tiges de bois + tissus bleu      | Dollorama    |5.75$|
+| Pistolet à colle chaude      | Dollorama    |4.60$|
+| Foret plat 1"      | Rona    |6.54$|
+| Carton blanc | Coop | 2.52$ |
 |
 | | | ||| |
-|Total :| |141,96$|
+|Total :| |153,1$|
 
-
-## Liste des équipements pour le tournage de vendredi
-
-| Matériaux  | Quantités |
-| ------------- |:-------------:|
-| Caméra - Sony A6500 - Chargeur - (2) piles - Objectif  Sony E PZ 18-105mm f/4 G OSS Lens (72) - Lecteur de carte et son fil USB - Tissus pour nettoyer la lentille      | 1    |
-| Adaptateur Sony ACPW20 pour série a7, a6500 et a6000      | 1    |
-|  Ensemble Manfrotto Trépied MT290XTA3 3 Sections en Aluminium avec Tête - 1 sabot pour trépied      |  1     |
-|  Objectif Sony (E) 55-210mm f/3,5-5,6 (49)       |  1     |
-|  Objectif Sony 35mm f/1.8 OSS pour Sony E (49)      |  1     |
-|  Lampe Westcott Ice Light 2 1740 Lumens 5500K -  2 X pile Wescott - 1 chargeur pour pile - 1 fil d'alimentation pour lampe - 2 clips pour attacher les gels sur le baton      |  2     |
-|  Cartable de demis gels      |  1     |
-|  Tape caméra      |  3     |
-
+---
 ### Boîte Bouton
 
 - **Spécification :**  
@@ -70,7 +60,7 @@
 - **Lien produit :**  
   https://www.amazon.ca/EG-STARTS-Illuminated-Buttons-Operated/dp/B01M7PNCO9/
 
-
+---
 ### Boîte Joystick
 
 - **Spécification :**  
@@ -86,7 +76,7 @@
 - **Lien produit :**  
   https://abra-electronics.com/electromechanical/switches/arcade-game-switches/2d-2-axis-joystick-potentiometer-5k-clone.html  
 
-
+---
 ### Boîte Brûleur
 
 - **Spécification :**  
