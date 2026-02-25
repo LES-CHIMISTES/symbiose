@@ -280,9 +280,12 @@ https://github.com/LES-CHIMISTES/symbiose/commit/277e1a771335882a801b3666ff84413
 
 ![Aujourd'hui et durant la fin de semaine, j'ai fait le montage vidéo et sonore de la bande-annonce.](preuve_S6_lundi_1.webp)
 
-![ J’ai aussi installé les boîtes sur la table en faisant tous les branchements du joystick et des boutons, et j’ai fixé l’angle sur la boîte du brûleur pour qu’il soit prêt pour la maquette #2.](preuve_S6_lundi_2.webp)
+![J’ai aussi installé les boîtes sur la table en faisant tous les branchements du joystick et des boutons, et j’ai fixé l’angle sur la boîte du brûleur pour qu’il soit prêt pour la maquette #2.](preuve_S6_lundi_2.webp)
 
 #### Mardi
+
+![Aujourd’hui, j’ai accueilli les étudiants qui ont testé notre expérience.](preuve_S6_mardi_1.mp4)
+
 
 #### Mercredi
 
