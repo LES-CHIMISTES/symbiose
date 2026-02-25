@@ -284,7 +284,10 @@ https://github.com/LES-CHIMISTES/symbiose/commit/277e1a771335882a801b3666ff84413
 
 #### Mardi
 
-![Aujourd’hui, j’ai accueilli les étudiants qui ont testé notre expérience.](preuve_S6_mardi_1.mp4)
+![Aujourd’hui, j’ai accueilli les étudiants qui ont testé notre expérience.](preuve_S6_mardi_1.webp)
+
+J'ai aussi filmer une vidéo quand ils jouaient :
+https://youtu.be/hV0wsoN1W9E?si=9w4qtz6lRzoQggtE
 
 
 #### Mercredi
