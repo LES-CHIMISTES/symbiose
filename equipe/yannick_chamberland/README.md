@@ -115,7 +115,7 @@ Cette section, complétée **quotidiennement** pendant l’exécution du projet,
 #### Lundi
 ![Aujourd'hui j'ai modifier des matériaux dans unity (pour l'eau dans l'évènement crytalisation)](preuve_ls6.webp)
 #### Mardi
-
+![Aujourd'hui j'ai participer à la présentation et au testage de la maquette 2](preuve_ms6.webp)
 #### Mercredi
 
 #### Jeudi
