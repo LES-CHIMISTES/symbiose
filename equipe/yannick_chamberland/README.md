@@ -117,7 +117,7 @@ Cette section, complétée **quotidiennement** pendant l’exécution du projet,
 #### Mardi
 ![Aujourd'hui j'ai participer à la présentation et au testage de la maquette 2](preuve_ms6.webp)
 #### Mercredi
-![Aujourd'hui j'ai écrit une liste pour les nouvelles boîtes](preuve_mers6.webp)
+![Aujourd'hui j'ai écrit une liste pour les nouvelles boîtes](preuve_mers6.webp) https://github.com/LES-CHIMISTES/symbiose/commit/6067644a2ff62a042227f42c09e35ecfce32eab1
 #### Jeudi
 
 #### Vendredi
