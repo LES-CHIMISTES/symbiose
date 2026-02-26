@@ -274,8 +274,12 @@ la gestion des câbles ainsi que les boîtiers( brûleurs,les pourdres ainsi et 
 
 
 #### Mercredi
+J'ai fais l'image ui de l'erlenmeyer pour le tutorial de la station eau.
+![ erlenmeyer format UI ](erlenmeyer.png)
 
 #### Jeudi
+J'ai finis les images Ui pour le tutoriel du brûleur dans la station feux.
+![ tutoriel de nodes pour le brûleur format UI  ](tutorielfeux.png)
 
 #### Vendredi
 
