@@ -299,6 +299,14 @@ https://github.com/LES-CHIMISTES/symbiose-582-601MO_unity_arduino/tree/8251085ee
 
 #### Jeudi
 
+![Aujourd'hui, j’ai bougé le projecteur vers la droite pour laisser plus de place à l'équipe des télés.](preuve_S6_jeudi_1.webp)
+
+![J’ai également fait la gestion des câbles pour l’ensemble des fils.](preuve_S6_jeudi_2.webp)
+
+![J’ai aussi déplacer le haut-parleur droite plus proche de notre installation. ](preuve_S6_jeudi_3.webp)
+
+![J’ai également fait la gestion des câbles pour l’ensemble des fils.](preuve_S6_jeudi_4.webp)
+
 #### Vendredi
 
 ### Semaine 6.5
