@@ -265,6 +265,12 @@ Cette section, complétée **quotidiennement** pendant l’exécution du projet,
 
 
 #### Mercredi
+- Débuts de changements selon les notes que j'ai prises hiers
+    - Événement vortex plus réalisable 
+    - Seuil de l'accéléromètre accentué
+    - Début de séquences d'images dans le tutoriel progressif
+    - Textes centrés à la projection lors du tutoriel progressif
+    - Faire clignotter la cible jaune du feedback visuel de la station eau
 
 #### Jeudi
 
