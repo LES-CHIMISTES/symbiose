@@ -119,7 +119,7 @@ Cette section, complétée **quotidiennement** pendant l’exécution du projet,
 #### Mercredi
 ![Aujourd'hui j'ai écrit une liste pour les nouvelles boîtes](preuve_mers6.webp) https://github.com/LES-CHIMISTES/symbiose/commit/6067644a2ff62a042227f42c09e35ecfce32eab1
 #### Jeudi
-
+![Aujourd'hui j'ai modéliser un tube d'essaie pour qu'on puisse mettre la bare de stabilité](preuve_js6.webp) 
 #### Vendredi
 
 ### Semaine 6.5
