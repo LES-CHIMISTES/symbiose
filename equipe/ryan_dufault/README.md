@@ -243,8 +243,34 @@ Cette section, complétée **quotidiennement** pendant l’exécution du projet,
 ![Vue globale du projet Touch Designer](s6_lundi.png)
 
 #### Mardi
+- Prise de notes par rapport à la maquette #2 concernant l'expérience utilisateur du projet :
+    - Événement vortex beaucoup trop dur
+        - Fix : ralentir le cercle globalement, size plus gros au début 
+    - Événement évaporation trop dur (les personnes shakait beaucoup pour peu de réactions à l'écran)
+        - Fix : augmenter le seuil qui détecte les secousses de l'accéléromètre
+    - Tutoriel progressif plutôt confus, les personnes prenaient environ 1 minute à réussir la 1ère étape
+        - Fix : rajouter des séquences d'images qui indiquent l'action qu'il faut faire selon l'étape du tutoriel
+    - Jauge de stabilité trop peu perceptible (presque personne comprenait pourquoi ils faisaient des manipualtions continues)
+        - Fix : faire un mesh 3D dédié à la jauge de stabilité (du genre une balance? thermomètre? à brainstorm avec mr yannick)
+    - Quelques personnes arrêtaient de faire les manipulations continues car ils pensaient qu'il fallait le faire que pendant le tutoriel et les événements
+        - Fix : faire en sorte que le feedback visuel de la station inactgive clignote en rouge lorsque la station est inactive pendant un certain temps
+    - La couleur du mesh de l'eau arrêtait de changer de couleur selon les boutons poudres après le 1er événement (et donc la couleur restait "figé")
+        - Fix : Reset le mesh renderer entier de la potion au lieu de juste la couleur (car on avait des paramètres qui diffèrent autre que la couleur selon)
+    - Les textes du tutoriel étaient trop haut (beaucoup de personnes nous demandaient quoi faire sans avoir vraiment regardé la projection)
+        - Fix : centré au centre de la projection
+    - Station Feu trop simple
+        - Fix : ajouter de la difficulté progressive
+    - Knob visuel station feu donne une impression "d'infini" (qu'on peut tourner à 360°) comme un encoder unit
+        - Fix : Ajouter une indication de "limite" au bas-centre du knob visuel
+
 
 #### Mercredi
+- Débuts de changements selon les notes que j'ai prises hiers
+    - Événement vortex plus réalisable 
+    - Seuil de l'accéléromètre accentué
+    - Début de séquences d'images dans le tutoriel progressif
+    - Textes centrés à la projection lors du tutoriel progressif
+    - Faire clignotter la cible jaune du feedback visuel de la station eau
 
 #### Jeudi
 

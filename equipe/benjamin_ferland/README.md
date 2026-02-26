@@ -289,10 +289,23 @@ https://github.com/LES-CHIMISTES/symbiose/commit/277e1a771335882a801b3666ff84413
 J'ai aussi filmer une vidéo quand ils jouaient :
 https://youtu.be/hV0wsoN1W9E?si=9w4qtz6lRzoQggtE
 
-
 #### Mercredi
 
+Aujourd’hui, j’ai programmé le code Arduino pour que, lorsqu’on tourne le knob, la lumière des LED s’allume en orange : https://youtu.be/XWsoYhezP7g?si=rlGpfea9FrkN3kCz
+
+![J’ai aussi ajouté un léger effet de scintillement (Flicker) afin de mieux reproduire un feu qui brûle.](preuve_S6_mercredi_2.webp)
+
+https://github.com/LES-CHIMISTES/symbiose-582-601MO_unity_arduino/tree/8251085eea99f1baa4ce677d08a8b6a335534b3c
+
 #### Jeudi
+
+![Aujourd'hui, j’ai bougé le projecteur vers la droite pour laisser plus de place à l'équipe des télés.](preuve_S6_jeudi_1.webp)
+
+![J’ai également fait la gestion des câbles pour l’ensemble des fils.](preuve_S6_jeudi_2.webp)
+
+![J’ai aussi déplacer le haut-parleur droite plus proche de notre installation. ](preuve_S6_jeudi_3.webp)
+
+![J’ai également fait la gestion des câbles pour l’ensemble des fils.](preuve_S6_jeudi_4.webp)
 
 #### Vendredi
 

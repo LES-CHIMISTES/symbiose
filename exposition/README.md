@@ -6,13 +6,17 @@ Cette section documente l'exposition publique du projet.
 
 Ce tableau indique les responsables quotidiens de l’exposition, désignés par chaque équipe pour assurer la permanence pendant la semaine.
 
+Horaire
+
+12 à 9h/21h 
+
 | Jour       | Responsable |
 |------------|-------------|
-| Lundi      |    Prénom   |
-| Mardi      |    Prénom   |
-| Mercredi   |    Prénom   |
-| Jeudi      |    Prénom   |
-| Vendredi   |    Prénom   |
+| Lundi      |    Ryan de 12 à 4.5 Benjamin de 4.5 à 9 Ryan qui ouvre l'oeuvre le matin et Ben l'après-midi    |
+| Mardi      |    Ryan, Yannick, Walid, Benjamin de 12 à 9  Yannick qui ouvre l'oeuvre |
+| Mercredi   |    Yannick et Ryan de 12 à 4.5 Walid et Ben 4.5 de 9  Walid qui ouvre l'oeuvre l'après-midi|
+| Jeudi      |    Ryan et walid de 12 à 4.5 Yannick et Benjamin de 4.5 à 9 |
+| Vendredi   |    Ryan, Yannick, Walid, Benjamin de 12 à 9  |
 
 ## Procédure d’ouveture quotidienne
 

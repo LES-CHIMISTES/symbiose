@@ -115,11 +115,11 @@ Cette section, complétée **quotidiennement** pendant l’exécution du projet,
 #### Lundi
 ![Aujourd'hui j'ai modifier des matériaux dans unity (pour l'eau dans l'évènement crytalisation)](preuve_ls6.webp)
 #### Mardi
-
+![Aujourd'hui j'ai participer à la présentation et au testage de la maquette 2](preuve_ms6.webp)
 #### Mercredi
-
+![Aujourd'hui j'ai écrit une liste pour les nouvelles boîtes](preuve_mers6.webp) https://github.com/LES-CHIMISTES/symbiose/commit/6067644a2ff62a042227f42c09e35ecfce32eab1
 #### Jeudi
-
+![Aujourd'hui j'ai modéliser un tube d'essaie pour qu'on puisse mettre la bare de stabilité](preuve_js6.webp) 
 #### Vendredi
 
 ### Semaine 6.5
