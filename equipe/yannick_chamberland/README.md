@@ -121,7 +121,7 @@ Cette section, complétée **quotidiennement** pendant l’exécution du projet,
 #### Jeudi
 ![Aujourd'hui j'ai modéliser un tube d'essaie pour qu'on puisse mettre la bare de stabilité](preuve_js6.webp) 
 #### Vendredi
-
+![Aujourd'hui j'ai assité à la réunion de mon comité pour choisir le design final des cartels](preuve_vs6.webp) 
 ### Semaine 6.5
 
 #### Lundi
