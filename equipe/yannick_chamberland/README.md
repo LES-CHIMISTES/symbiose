@@ -125,7 +125,7 @@ Cette section, complétée **quotidiennement** pendant l’exécution du projet,
 ### Semaine 6.5
 
 #### Lundi
-
+![Aujourd'hui j'ai modéliser le socle du tube d'essaie](preuve_ls65.webp)
 #### Mardi
 
 #### Mercredi
