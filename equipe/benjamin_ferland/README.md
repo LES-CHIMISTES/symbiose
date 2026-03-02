@@ -315,6 +315,8 @@ https://github.com/LES-CHIMISTES/symbiose-582-601MO_unity_arduino/tree/8251085ee
 
 #### Lundi
 
+![Aujourd’hui, j’ai fait un remue-méninges afin de concevoir un décor plus scientifique pour notre expérience. Je veux que l’interacteur ait vraiment l’impression d’être dans un laboratoire scientifique.](preuve_S6.5_lundi_1.webp)
+
 #### Mardi
 
 #### Mercredi
