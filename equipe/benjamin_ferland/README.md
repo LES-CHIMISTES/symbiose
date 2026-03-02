@@ -309,6 +309,8 @@ https://github.com/LES-CHIMISTES/symbiose-582-601MO_unity_arduino/tree/8251085ee
 
 #### Vendredi
 
+![Aujourd'hui, j'ai ajouté dans la description de notre bande annonce sur youtube, les crédits des personnes qui ont fait la vidéo.](preuve_S6_vendredi_1.webp)
+
 ### Semaine 6.5
 
 #### Lundi
