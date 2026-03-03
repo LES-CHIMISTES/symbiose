@@ -211,19 +211,49 @@ Cette section, complétée **quotidiennement** pendant l’exécution du projet,
 #### Mercredi
 - Événement évaporation terminé
     - Il faut secouer l'erlen meyer (l'accéléromètre) de façon appropriée.
-![Démonstration de l'événement évaporation](s5_mercredi.mp4)
+<figure>
+  <div style="aspect-ratio: 16/9;">
+    <video controls style="width: 100%; height: 100%;">
+      <source src="/symbiose/equipe/ryan_dufault/s5_mercredi.mp4" type="video/mp4">
+    </video>
+  </div>
+  <figcaption style="text-align: center; font-style: italic;">
+    Démonstration de l'événement évaporation.
+  </figcaption>
+</figure>
 
 #### Jeudi
 - Événement cristallisation terminé
     - Il faut appuyer sur le bouton correspondant selon un rythme précis.
-![Démonstration de l'événement cristallisation](s5_jeudi.mp4)
+<figure>
+  <div style="aspect-ratio: 16/9;">
+    <video controls style="width: 100%; height: 100%;">
+      <source src="/symbiose/equipe/ryan_dufault/s5_jeudi.mp4" type="video/mp4">
+    </video>
+  </div>
+  <figcaption style="text-align: center; font-style: italic;">
+    Démonstration de l'événement cristallisation.
+  </figcaption>
+</figure>
+
 - J'ai fait la liaison entre l'arduino nano et le joystick analogique. J'ai ensuite réadapté le projet PlatformIO et le projet Unity en conséquence)
 ![Liason entre nano et joystick.](s5_jeudi.jpg)
 
 #### Vendredi
 - Événement vortex terminé
     - Il faut orienter le joystick de sorte à rester dans la zone verte pour calmer la tornade et la potion qui se fait secouer.
-![Démonstration de l'événement vortex](s5_vendredi.mp4)
+
+<figure>
+  <div style="aspect-ratio: 16/9;">
+    <video controls style="width: 100%; height: 100%;">
+      <source src="/symbiose/equipe/ryan_dufault/s5_vendredi.mp4" type="video/mp4">
+    </video>
+  </div>
+  <figcaption style="text-align: center; font-style: italic;">
+    Démonstration de l'événement vortex.
+  </figcaption>
+</figure>
+
 
 ### Semaine 6
 
