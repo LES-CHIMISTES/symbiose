@@ -233,7 +233,7 @@ Cette section, complétée **quotidiennement** pendant l’exécution du projet,
 <figure>
   <div style="aspect-ratio: 16/9;">
     <video controls style="width: 100%; height: 100%;">
-      <source src="equipe/ryan_dufault/s6_lundi.mp4" type="video/mp4">
+      <source src="/symbiose/equipe/ryan_dufault/s6_lundi.mp4" type="video/mp4">
     </video>
   </div>
   <figcaption style="text-align: center; font-style: italic;">
