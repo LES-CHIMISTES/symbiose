@@ -3,10 +3,10 @@
 <!-- Banderole / Bande-annonce -->
 <figure>
   <div style="aspect-ratio: 16/9;">
-    <iframe width="100%" height="100%" src="https://www.youtube-nocookie.com/embed/yiQbWxr8KfI?disablekb=1&modestbranding=1&playsinline=1&rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture; fullscreen" style="display: block; width: 100%; height: 100%;"></iframe>
+    <iframe width="100%" height="100%" src="https://www.youtube-nocookie.com/embed/Bu6LNcKxM34?disablekb=1&modestbranding=1&playsinline=1&rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture; fullscreen" style="display: block; width: 100%; height: 100%;"></iframe>
   </div>
   <figcaption style="text-align: center; font-style: italic;">
-    <a target="_blank" href="https://www.youtube.com/watch?v=yiQbWxr8KfI">Symbiose | Bande-annonce</a>
+    <a target="_blank" href="https://www.youtube.com/watch?v=Bu6LNcKxM34">Symbiose | Bande-annonce</a>
   </figcaption>
 </figure>
 
