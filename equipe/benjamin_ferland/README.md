@@ -319,7 +319,7 @@ https://github.com/LES-CHIMISTES/symbiose-582-601MO_unity_arduino/tree/8251085ee
 
 #### Mardi
 
-![Aujourd’hui, j’ai fait un moodboard plus complet que mon remue-méninges, qui va me permettre par la suite de concevoir un décor plus scientifique pour notre expérience.](preuve_S6.5_mardi_1.webp)
+![Aujourd’hui, j’ai fait un moodboard qui est plus complet que mon remue-méninges, qui va me permettre par la suite de concevoir un décor plus scientifique pour notre expérience.](preuve_S6.5_mardi_1.webp)
 
 #### Mercredi
 
