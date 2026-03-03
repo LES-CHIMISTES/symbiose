@@ -296,38 +296,88 @@ Cette section, complétée **quotidiennement** pendant l’exécution du projet,
     - Quelques personnes arrêtaient de faire les manipulations continues car ils pensaient qu'il fallait le faire que pendant le tutoriel et les événements
         - Fix : faire en sorte que le feedback visuel de la station inactgive clignote en rouge lorsque la station est inactive pendant un certain temps
     - La couleur du mesh de l'eau arrêtait de changer de couleur selon les boutons poudres après le 1er événement (et donc la couleur restait "figé")
-        - Fix : Reset le mesh renderer entier de la potion au lieu de juste la couleur (car on avait des paramètres qui diffèrent autre que la couleur selon)
+        - Fix : Reset le mesh renderer entier de la potion au lieu de juste la couleur (car on avait des paramètres qui diffèrent autre que la couleur)
     - Les textes du tutoriel étaient trop haut (beaucoup de personnes nous demandaient quoi faire sans avoir vraiment regardé la projection)
         - Fix : centré au centre de la projection
     - Station Feu trop simple
         - Fix : ajouter de la difficulté progressive
     - Knob visuel station feu donne une impression "d'infini" (qu'on peut tourner à 360°) comme un encoder unit
         - Fix : Ajouter une indication de "limite" au bas-centre du knob visuel
-
+![Personnes faisant usage de notre expérience.](s6_mardi.png)
 
 #### Mercredi
 - Débuts de changements selon les notes que j'ai prises hiers
-    - Événement vortex plus réalisable 
+    - Événement vortex plus réalisable, avec meilleure UX
+    ![Cercle beaucoup plus lent et plus gros, proportionnel avec difficulté prog.](s6_mercredi11.png)
+
+    ![Amélioration UX : Cercle cible qui clignotte quand dedans pour indiquer qu'il faut rester dedans.](s6_mercredi1.png)
+
+    - La potion change bien de couleur après qu'un événement soit terminé.
+
+    ![Prend le mesh renderer du dernier key appuyer après un événement](s6_mercredi2.png)
+
     - Seuil de l'accéléromètre accentué
-    - Début de séquences d'images dans le tutoriel progressif
+
+    ![Seuil augmenté, donc moins de secousses requises pour remplir la jauge](s6_mercredi3.png)
+
+    - Début de séquences d'images dans le tutoriel progressif ( (2 images par étape, pour faire une sorte de "gif"))
+
+    ![Utilise un array et son index selon l'étape courante du tutoriel, l'animation se gère via une coroutine.](s6_mercredi4.png)
+
+    ![L'emplacement, la taille, etc.. sera adapté (l'UI aussi d'ailleurs)](s6_mercredi44.gif)
+
     - Textes centrés à la projection lors du tutoriel progressif
+
+    ![(Était en haut à gauche avant, les joueurs ne les voyaient jamais)](s6_mercredi55.png)
+
+    ![Amélioration UX : Préfixe numéroté](s6_mercredi5.png)
+
     - Faire clignotter la cible jaune du feedback visuel de la station eau
 
+    ![si eau pas par rapport à cible, faire clignotter son alpha via lerp pour fluidité](s6_mercredi6.png)
+
+    - Début de timer visuel tout au long du jeu
+
+    ![Fait simplement display le temps dynamique qui est affiché à la fin du jeu](s6_mercredi7.png)
+
 #### Jeudi
+- Refonte du plan d'implémentation 3D de notre projet.  
+    On se demandait comment faire en sorte que les joueurs soient côte à côte tout en ayant un espace approprié; Guillaume a eu l'idée d'utiliser des podiums en métal, et donc j'ai refait le plan d'implémentation 3D en conséquence, avec les mesures exactes, etc..
+    ![Vue de côté](s6_jeudi1.webp)
+    ![Vue de derrière](s6_jeudi2.webp)
+    ![Vue Maya du plan d'implémentation](s6_jeudi3.png)
 
 #### Vendredi
+- Refonte de la synoptique et du plan d'implémentation 2D de notre projet.
+![Refonte des units et seulement 1 lumière + addresses](s6_vendredi.svg)
+
+![Refonte du plan d'implémentation 2D avec les podiums](s6_vendredi2.webp)
 
 ### Semaine 6.5
 
+
 #### Lundi
+- Refonte de la colorisation de la bande-annonce du projet.
+![Avant](s7_lundi1.png)
+
+![Après](s7_lundi2.webp)
+
+- Tests de différents codecs pour atténuer la compression YouTube.
+    - Commande ffmpeg utilisé : ffmpeg -i lossless.avi -c:v libx264 -preset slow -crf 18 -profile:v high -pix_fmt yuv420p -movflags +faststart -c:a aac -b:a 320k output.mp4    
+    (+ Upscale sur after effects)
+![Avant](s7_lundi22.png)
+
+![Après](s7_lundi11.png)
 
 #### Mardi
+
 
 #### Mercredi
 
 #### Jeudi
 
-#### Vendredi
+#### Vendredi <!-- commence à penser à commencer le manuel around cette date là, pour être sûr que tout soit couvert -->
+
 
 ### Semaine 7
 
