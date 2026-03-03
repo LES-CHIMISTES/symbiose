@@ -370,7 +370,8 @@ Cette section, complétée **quotidiennement** pendant l’exécution du projet,
 ![Après](s7_lundi11.png)
 
 #### Mardi
-
+- Animation de main qui saupoudre de la poudre selon la couleur du bouton appuyé (plus de flux de particules continu, comme proposé par le prof)
+![Démonstration de l'animation de la main.](s7_mardi.gif)
 
 #### Mercredi
 
