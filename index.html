@@ -116,6 +116,14 @@
                     import('./docsify-wavesurfer-plugin.js').then(module => {
                         module.initWaveSurfer();
                     }).catch(err => console.error('Failed to load WaveSurfer plugin', err));
+
+                    document.querySelectorAll('video source').forEach(function (source) {
+                        var src = source.getAttribute('src');
+                        if (src && src.includes('/symbiose/symbiose/')) {
+                            source.setAttribute('src', src.replace('/symbiose/symbiose/', '/symbiose/'));
+                            source.parentElement.load();
+                        }
+                    });
                 });
             }],
         };
