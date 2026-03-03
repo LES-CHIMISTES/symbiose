@@ -229,7 +229,18 @@ Cette section, complétée **quotidiennement** pendant l’exécution du projet,
 
 #### Lundi
 - Animation Unity de la main qui verse de l'eau dans le bécher + Post-processing de la scène (saturation, contraste, hdri, etc..)
-![Démonstration de l'animation de la main qui verse de l'eau.](/equipe/ryan_dufault/s6_lundi.mp4)
+
+<figure>
+  <div style="aspect-ratio: 16/9;">
+    <video controls style="width: 100%; height: 100%;">
+      <source src="equipe/ryan_dufault/s6_lundi.mp4" type="video/mp4">
+    </video>
+  </div>
+  <figcaption style="text-align: center; font-style: italic;">
+    Démonstration de l'animation de la main qui verse de l'eau.
+  </figcaption>
+</figure>
+
 - Touch Designer du projet complété
     - À chaque fois que la station eau atteint ça sible, pulse sur le reset du feedback 
     - Le angle (knob) rajoute des harmonics au noise (donne un effet de "grain", d'intensité)   
