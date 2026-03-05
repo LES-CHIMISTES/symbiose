@@ -129,9 +129,9 @@ Cette section, complétée **quotidiennement** pendant l’exécution du projet,
 #### Mardi
 ![Aujourd'hui j'ai fait le matériau du socle du tube d'essaie](preuve_ms65.webp)
 #### Mercredi
-
+![Aujourd'hui j'ai fait le matériau du tube d'essaie](preuve_mers65.webp)
 #### Jeudi
-
+![Aujourd'hui j'ai changer le matériau du feu](preuve_js65.webp)
 #### Vendredi
 
 ### Semaine 7
