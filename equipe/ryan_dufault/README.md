@@ -425,6 +425,11 @@ Cette section, complétée **quotidiennement** pendant l’exécution du projet,
 
 #### Jeudi
 
+- Transfert de la jauge de stabilité 2D à un mesh 3D de tube d'essai.
+  - Le liquide dans le tube d'essaie monte/descend selon la stabilité globale
+  - Lorsque la stabilité est critique, le liquide émet une lueur qui clignotte
+![Démonstration accélérée de la jauge de stabilité 3D](s7_jeudi.gif)
+
 #### Vendredi <!-- commence à penser à commencer le manuel around cette date là, pour être sûr que tout soit couvert -->
 
 
