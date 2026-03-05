@@ -323,6 +323,14 @@ https://github.com/LES-CHIMISTES/symbiose-582-601MO_unity_arduino/tree/8251085ee
 
 #### Mercredi
 
+Aujourd’hui, j’ai sélectionné les éléments que je vais prendre dans le moodboard pour créer notre décor scientifique :
+
+![Je vais prendre le porte-manteau et le petit calepin, et je vais ajouter des calculs scientifiques sur les pages des calepins.](preuve_S6.5_mercredi_1.webp)
+
+![J’ai aussi acheté 4 calepins au Dollarama.](preuve_S6.5_mercredi_2.webp)
+
+![Ils vont chacun aller dans une poche d'un sarrau.](preuve_S6.5_mercredi_3.webp)
+
 #### Jeudi
 
 #### Vendredi
