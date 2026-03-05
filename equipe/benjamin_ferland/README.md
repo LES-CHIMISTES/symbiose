@@ -333,6 +333,8 @@ Aujourd’hui, j’ai sélectionné les éléments que je vais prendre dans le m
 
 #### Jeudi
 
+![Aujourd’hui, j’ai fait et imprimer les calculs scientifiques que j'ai ajouté sur les calepins](preuve_S6.5_jeudi_1.webp)
+
 #### Vendredi
 
 ### Semaine 7
