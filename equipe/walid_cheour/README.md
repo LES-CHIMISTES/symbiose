@@ -294,6 +294,11 @@ J'ai décidé de retravailler les sons de victoire et de défaite pour qu'ils pa
 
 
 #### Mardi
+Création de assets 2D de particules dans le thème de notre expérience, particules qui seront utilisés dynamiquement pour l'immersion, lors des événements
+![ goutte d'eau ](pluie.webp)
+![ flocon de neige ](flocon.webp)
+![ vague ](wave.webp)
+
 
 #### Mercredi
 enregistrement du sons de poudre en live et mixage sur fl studio.
@@ -302,7 +307,14 @@ enregistrement du sons de poudre en live et mixage sur fl studio.
 
 #### Jeudi
 
+Ajout de meilleur UI pour l'expérience utilisateur de l'événement cristallisation, ajout de contours plus épais et d'un cercle statique qui sert de repère visuel à quand appuyer sur le bouton.
+![ élément Ui pour l'événement cristallisation   ](evendredi.webp)
+
+
 #### Vendredi
+continuation de la création d'assets 2D de particules dans le thème de notre expérience.
+![ tourbillon ](tourbillon.webp)
+![ losange ](losange.webp)
 
 ### Semaine 7
 
