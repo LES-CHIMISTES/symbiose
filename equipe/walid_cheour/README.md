@@ -278,18 +278,27 @@ J'ai fais l'image ui de l'erlenmeyer pour le tutorial de la station eau.
 ![ erlenmeyer format UI ](erlenmeyer.png)
 
 #### Jeudi
-J'ai finis les images Ui pour le tutoriel du brûleur dans la station feux.
-![ tutoriel de nodes pour le brûleur format UI  ](tutorielfeux.png)
+Commencement des images Ui tutoriel pour le brûleur de la station feux
+![ première node ui   ](nodetutorial1.webp)
 
 #### Vendredi
+Finalisation des images Ui pour le tutoriel du brûleur dans la station feux. 
+![ finalisation des nodes avec une flèche rotatif,des marqueurs et une deuxième node  ](tutorielfeux.png)
 
 ### Semaine 6.5
 
 #### Lundi
+J'ai décidé de retravailler les sons de victoire et de défaite pour qu'ils paraissent cartoonesques et plus cohérents pour notre projet.
+[ sons de détaite amélioré](défaite.mp3)
+[ sons de victoire amélioré](winjournaldebord1.mp3)
+
 
 #### Mardi
 
 #### Mercredi
+enregistrement du sons de poudre en live et mixage sur fl studio.
+[ sons de poudre](poudre.mp3)
+
 
 #### Jeudi
 
