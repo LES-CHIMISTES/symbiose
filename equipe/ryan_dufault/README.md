@@ -374,6 +374,54 @@ Cette section, complétée **quotidiennement** pendant l’exécution du projet,
 ![Démonstration de l'animation de la main.](s7_mardi.gif)
 
 #### Mercredi
+- Ajout de clignottement rouge lorsqu'une station est inactive (indicateur visuel, souvent, les interacteurs de la maquette #2 ne faisaient pas leur manipulation continue car ils ne le savaient pas)
+
+<figure>
+  <div style="aspect-ratio: 16/9;">
+    <video controls style="width: 100%; height: 100%;">
+      <source src="/symbiose/equipe/ryan_dufault/s7_mercredi1.mp4" type="video/mp4">
+    </video>
+  </div>
+  <figcaption style="text-align: center; font-style: italic;">
+    Démonstration des "flashs" rouges
+  </figcaption>
+</figure>
+
+- Ajout d'un système de "meilleur score" affiché lors du gameover, utilise les playerprefs built-in dans unity
+![Texte lorsqu'un meilleur score est battu](s7_mercredi2.png)
+
+- Ajout de particules 3D de confettis lors de réussite d'un événement
+
+<figure>
+  <div style="aspect-ratio: 16/9;">
+    <video controls style="width: 100%; height: 100%;">
+      <source src="/symbiose/equipe/ryan_dufault/s7_mercredi3.mp4" type="video/mp4">
+    </video>
+  </div>
+  <figcaption style="text-align: center; font-style: italic;">
+    Démonstration des confettis
+  </figcaption>
+</figure>
+
+- Complétion du game over
+    - Animation de bécher qui explose
+    - Camera shake
+    - Explosion (particules) dans le décor
+
+<figure>
+  <div style="aspect-ratio: 16/9;">
+    <video controls style="width: 100%; height: 100%;">
+      <source src="/symbiose/equipe/ryan_dufault/s7_mercredi4.mp4" type="video/mp4">
+    </video>
+  </div>
+  <figcaption style="text-align: center; font-style: italic;">
+    Démonstration du game over
+  </figcaption>
+</figure>
+
+- Ajout de mini particules qui émergent de la potion, pour plus d'immersion. Celles-ci changent de sprite selon ce qui se passe (événements)
+![Particules lorsque rien ne se passe](s7_mercredi5.png)
+![Par exemple, lors de l'événement gel](s7_mercredi6.png)
 
 #### Jeudi
 
