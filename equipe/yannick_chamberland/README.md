@@ -133,7 +133,7 @@ Cette section, complétée **quotidiennement** pendant l’exécution du projet,
 #### Jeudi
 ![Aujourd'hui j'ai changer le matériau du feu](preuve_js65.webp)
 #### Vendredi
-
+![Aujourd'hui j'ai changer le matériau de l'eau durant le gel](preuve_vs65.webp)
 ### Semaine 7
 
 #### Lundi
