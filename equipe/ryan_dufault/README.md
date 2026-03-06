@@ -431,6 +431,17 @@ Cette section, complétée **quotidiennement** pendant l’exécution du projet,
 ![Démonstration accélérée de la jauge de stabilité 3D](s7_jeudi.gif)
 
 #### Vendredi <!-- commence à penser à commencer le manuel around cette date là, pour être sûr que tout soit couvert -->
+- Transfert du texte de temps 2D à un texte 3D dans un modèle 3D de cadran.
+![Démonstration accélérée de l'indicateur de temps](s7_vendredi.gif)
+- Petites corrections :
+  - La jauge de l'événement gel était inversée
+    - Fix : simplement inverser les valeurs du niveau de froid 
+  - L'animation du game over écrasait les propriétés de rotation du bécher (donc la station tourbillon n'avait plus de feedback visuel dans la scène 3D)
+    - Fix : Activer l'animator de l'animation seulement quand le gameover apparaît
+  - Ajout d'une période de "répit" après chaque événement
+    - Proportionnel à la difficulté progressive (~5 secondes de calme en début de jeu, descend à ~2-3 secondes quand beaucoup de temps écoulé)
+<sub>https://github.com/LES-CHIMISTES/symbiose-582-601MO_unity_arduino/commit/057f1e13e9ab99a1c6d42a30ec52c1e17997854e#diff-bdbb5c0ec6e7306af0dc9f4a16e3d16cfe26f651e8104764f3e11b1b6ae3b24e</sub>
+
 
 
 ### Semaine 7
