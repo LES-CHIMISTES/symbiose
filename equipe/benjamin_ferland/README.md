@@ -337,6 +337,12 @@ Aujourd’hui, j’ai sélectionné les éléments que je vais prendre dans le m
 
 #### Vendredi
 
+Aujourd’hui, j'ai pris des éléments pour le décor scientifique.
+ 
+![Voici le porte-manteau :](preuve_S6.5_vendredi_1.webp)
+ 
+![Voici les 4 sarraus :](preuve_S6.5_vendredi_2.webp)
+
 ### Semaine 7
 
 #### Lundi
