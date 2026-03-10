@@ -39,9 +39,9 @@
 | Pistolet à colle chaude      | Dollorama    |4.60$|
 | Foret plat 1"      | Rona    |6.54$|
 | Carton blanc | Coop | 2.52$ |
-|
+|Carnets Memo/Bloc-Notes|Pour ajouter sur le sarrau pour le décor|2.88$|Dollarama|
 | | | ||| |
-|Total :| |153,1$|
+|Total :| |155,98$|
 
 ---
 ### Boîte Bouton

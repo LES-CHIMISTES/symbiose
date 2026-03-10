@@ -88,7 +88,7 @@
 | Pistolet à colle chaude | Pour coller les faces des stations ensemble | 4.60$   | Dollarama |
 | Batonnets colle chaude + tiges de bois + tissus bleu | Tiges qui seront fixés entre les boutons arcade et les key units, tissus bleu pour erlen meyer (cacher accéléromètre) | 5.75$   | Dollarama |
 |Carton blanc|Pour soutenir le joystick (les vis) lors de la maquette #2|2.52$|Dollarama|
-|
+|Carnets Memo/Bloc-Notes|Pour ajouter sur le sarrau pour le décor|2.88$|Dollarama|
 |  |  |  | |
 |  |  |  | |
-| Total | 155,32$ |
+| Total | 158,20$ |
