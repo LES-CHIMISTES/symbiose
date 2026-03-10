@@ -347,6 +347,12 @@ Aujourd’hui, j'ai pris des éléments pour le décor scientifique.
 
 #### Lundi
 
+Aujourd’hui, j’ai fait deux variations de décor avec tous les éléments pour que tout soit prêt pour l’installer dans le studio.
+
+![Voici la 1re version avec un sarrau sur le porte-manteau.](preuve_S7_lundi_1.webp)
+
+![Voici la 2e version avec quatre sarraus sur le porte-manteau.](preuve_S7_lundi_2.webp)
+
 #### Mardi
 
 #### Mercredi
