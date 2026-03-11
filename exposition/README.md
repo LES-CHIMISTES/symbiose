@@ -12,10 +12,10 @@ Horaire
 
 | Jour       | Responsable |
 |------------|-------------|
-| Lundi      |    Ryan de 12 à 4.5 Benjamin de 4.5 à 9 Ryan qui ouvre l'oeuvre le matin et Ben l'après-midi    |
-| Mardi      |    Ryan, Yannick, Walid, Benjamin de Toute la journée  Benjamin qui ouvre l'oeuvre |
-| Mercredi   |    Yannick et Ryan de 12 à 4.5 Walid et Ben 4.5 de 9 Yannick ouvre l'oeuvre le matin,  Walid qui ouvre l'oeuvre l'après-midi|
-| Jeudi      |    Ryan et Yannick de 12 à 4.5 Walid et Benjamin de 4.5 à 9 |
+| Lundi      |    Ryan de 12 à 4.5 Benjamin de 4.5 à 9 Ryan ouvre l'oeuvre|
+| Mardi      |    Ryan, Yannick, Walid, Benjamin de Toute la journée  Benjamin ouvre l'oeuvre |
+| Mercredi   |    Yannick et Ryan de 12 à 4.5 Walid et Ben 4.5 de 9 Yannick ouvre l'oeuvre|
+| Jeudi      |    Ryan, Yannick et Walid de 12 à 4.5 Walid et Benjamin de 4.5 à 9 Walid ouvre l'oeuvre |
 | Vendredi   |    Ryan, Yannick, Walid, Benjamin Toute la journée  |
 
 ## Procédure d’ouveture quotidienne
