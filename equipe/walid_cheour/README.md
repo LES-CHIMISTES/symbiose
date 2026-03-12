@@ -321,8 +321,25 @@ continuation de la création d'assets 2D de particules dans le thème de notre e
 #### Lundi
 
 #### Mardi
+Commencement de la construction des boîtes.
+![ boîte du brûleur ](boîtenumero1.webp)
+![ boîte de poudre ](boîtenumero2.webp)
+![ boîte d'eau ](boîtenumero3.webp)
+
 
 #### Mercredi
+Aujourd'hui, j'ai percé un trou sur la station d'eau afin de relier le cable aux objets arduino à l'intérieur du boîtier. Ca permettra ainsi de recevoir les messages de Pure data tout en créant un effet de camouflage filaire et d'ergonomie sur la station.
+ ![ trou percé qui permettra de rentrer le fil à l'intérieur de boîtier de la station d'eau ](drill.webp)
+
+  J'ai aussi contribué à monter tous les boîtiers en donnant le support de main d'oeuvre(viser des clous et  défaire des clous.)
+  ![ tous les boîtes sont construites ](touslesboitiers.webp)
+
+
+J'ai fais des trous sur les côtés des boîtes permettant de les fixer sur les supports.
+![ 4 trous pour pouvoir les fixer par dessus ](troubord.webp) 
+
+
+
 
 #### Jeudi
 
