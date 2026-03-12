@@ -355,6 +355,10 @@ Aujourd’hui, j’ai fait deux variations de décor avec tous les éléments po
 
 #### Mardi
 
+![Aujourd’hui, j’ai connecté les 4 fils à la board avec un fil Dupont-Dupont. ](preuve_S7_mardi_1.webp)
+
+![J’ai aussi agrandi la taille des 3 trous pour que les boutons puissent rentrer.](preuve_S7_mardi_2.webp)
+
 #### Mercredi
 
 #### Jeudi
