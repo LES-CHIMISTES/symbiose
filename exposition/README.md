@@ -8,14 +8,14 @@ Ce tableau indique les responsables quotidiens de l’exposition, désignés par
 
 Horaire
 
-12 à 9h/21h 
+12 à 8h/20h 
 
 | Jour       | Responsable |
 |------------|-------------|
-| Lundi      |    Ryan de 12 à 4.5 Benjamin de 4.5 à 9 Ryan ouvre l'oeuvre|
+| Lundi      |    Ryan de 11.5 à 3.5 Benjamin de 3.5 à 8 Ryan ouvre l'oeuvre|
 | Mardi      |    Ryan, Yannick, Walid, Benjamin de Toute la journée  Benjamin ouvre l'oeuvre |
-| Mercredi   |    Yannick et Ryan de 12 à 4.5 Walid et Ben 4.5 de 9 Yannick ouvre l'oeuvre|
-| Jeudi      |    Ryan, Yannick et Walid de 12 à 4.5 Walid et Benjamin de 4.5 à 9 Walid ouvre l'oeuvre |
+| Mercredi   |    Yannick et Ryan de 11.5 à 3.5 Walid et Ben 3.5 de 8 Yannick ouvre l'oeuvre|
+| Jeudi      |    Ryan, Yannick et Walid de 11.5 à 3.5 Walid et Benjamin de 3.5 à 8 Walid ouvre l'oeuvre |
 | Vendredi   |    Ryan, Yannick, Walid, Benjamin Toute la journée  |
 
 ## Procédure d’ouveture quotidienne

@@ -141,9 +141,9 @@ Cette section, complétée **quotidiennement** pendant l’exécution du projet,
 #### Mardi
 ![Aujourd'hui j'ai contribuer à la création de la boîte du brûleur](preuve_ms7.webp)
 #### Mercredi
-
+![Aujourd'hui j'ai contribuer à la création de la boîte des pudres](preuve_mers7.webp)
 #### Jeudi
-
+![Aujourd'hui j'ai contribuer aux test finaux du jeu](preuve_js7.webp)
 #### Vendredi
 
 ### Semaine 8
