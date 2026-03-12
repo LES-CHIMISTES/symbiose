@@ -361,6 +361,10 @@ Aujourd’hui, j’ai fait deux variations de décor avec tous les éléments po
 
 #### Mercredi
 
+![Aujourd’hui, j’ai fait tous les branchements et j’ai enroulé le fil pour qu’il soit moins long, tout en laissant un peu de lousse. J’ai mis de la colle chaude, puis du ruban adhésif par-dessus le tissu bleu pour que l’Erlenmeyer tienne bien et fonctionne correctement.](preuve_S7_mercredi_1.webp)
+
+![J’ai aussi fait le ménage de la table qui était en bordel. ](preuve_S7_mercredi_2.webp)
+
 #### Jeudi
 
 #### Vendredi
