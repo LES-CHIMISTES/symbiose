@@ -447,10 +447,36 @@ Cette section, complétée **quotidiennement** pendant l’exécution du projet,
 ### Semaine 7
 
 #### Lundi
+- Début du guide/manuel de l'oeuvre.
+![Début du guide/manuel de l'oeuvre](s77_lundi.png)
 
 #### Mardi
+- Début d'adaptation du code des stations en ethernet.
+  - Station feu et station tourbillon de fait.
+<figure>
+  <div style="aspect-ratio: 16/9;">
+    <video controls style="width: 100%; height: 100%;">
+      <source src="/symbiose/equipe/ryan_dufault/s77_mardi.mp4" type="video/mp4">
+    </video>
+  </div>
+  <figcaption style="text-align: center; font-style: italic;">
+    Démonstration de réception des données des stations feu et tourbillon par ethernet.
+  </figcaption>
+</figure>
 
 #### Mercredi
+- Adaptation du code des stations restantes en ethernet.
+  - Station eau et station poudres de fait.
+<figure>
+  <div style="aspect-ratio: 16/9;">
+    <video controls style="width: 100%; height: 100%;">
+      <source src="/symbiose/equipe/ryan_dufault/s77_mercredi.mp4" type="video/mp4">
+    </video>
+  </div>
+  <figcaption style="text-align: center; font-style: italic;">
+    Démonstration de réception des données des stations eau et poudres par ethernet.
+  </figcaption>
+</figure>
 
 #### Jeudi
 
