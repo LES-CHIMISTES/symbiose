@@ -375,6 +375,8 @@ Aujourd’hui, j’ai fait deux variations de décor avec tous les éléments po
 
 #### Vendredi
 
+[Aujourd’hui, j’ai décidé de modifier un peu le son d'explosion pour qu'il «pop» plus.](preuve_S7_vendredi_1.mp3)
+
 ### Semaine 8
 
 #### Lundi
