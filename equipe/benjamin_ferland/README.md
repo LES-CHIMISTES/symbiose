@@ -367,6 +367,12 @@ Aujourd’hui, j’ai fait deux variations de décor avec tous les éléments po
 
 #### Jeudi
 
+![Aujourd’hui, j’ai fait l’assemblage des quatre podiums.](preuve_S7_jeudi_1.webp)
+
+![ Après avoir déménagé notre chariot dans la salle des matrices, je me suis occupé de faire tous les branchements pour que nos deux projecteurs fonctionnent.](preuve_S7_jeudi_2.webp)
+
+![Je me suis aussi occupé de faire tous les branchements pour que nos deux haut-parleurs fonctionnent.](preuve_S7_jeudi_3.webp)
+
 #### Vendredi
 
 ### Semaine 8
