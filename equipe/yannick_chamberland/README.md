@@ -127,17 +127,17 @@ Cette section, complétée **quotidiennement** pendant l’exécution du projet,
 #### Lundi
 ![Aujourd'hui j'ai modéliser le socle du tube d'essaie](preuve_ls65.webp)
 #### Mardi
-![Aujourd'hui j'ai fait le matériau du socle du tube d'essaie](preuve_ms65.webp)
+![Aujourd'hui j'ai fait le matériaux du socle du tube d'essaie](preuve_ms65.webp)
 #### Mercredi
-![Aujourd'hui j'ai fait le matériau du tube d'essaie](preuve_mers65.webp)
+![Aujourd'hui j'ai fait le matériaux du tube d'essaie](preuve_mers65.webp)
 #### Jeudi
-![Aujourd'hui j'ai changer le matériau du feu](preuve_js65.webp)
+![Aujourd'hui j'ai changer le matériaux du feu](preuve_js65.webp)
 #### Vendredi
-![Aujourd'hui j'ai changer le matériau de l'eau durant le gel](preuve_vs65.webp)
+![Aujourd'hui j'ai changer le matériaux de l'eau durant le gel](preuve_vs65.webp)
 ### Semaine 7
 
 #### Lundi
-![Aujourd'hui j'ai changer le matériau de l'eau durant l'évaporation (un concept en tout cas)](preuve_ls7.webp)
+![Aujourd'hui j'ai changer le matériaux de l'eau durant l'évaporation (un concept en tout cas)](preuve_ls7.webp)
 #### Mardi
 ![Aujourd'hui j'ai contribuer à la création de la boîte du brûleur](preuve_ms7.webp)
 #### Mercredi
@@ -145,7 +145,7 @@ Cette section, complétée **quotidiennement** pendant l’exécution du projet,
 #### Jeudi
 ![Aujourd'hui j'ai contribuer aux test finaux du jeu](preuve_js7.webp)
 #### Vendredi
-
+![Aujourd'hui j'ai fait un dernier matériaux test](preuve_vs7.webp)
 ### Semaine 8
 
 #### Lundi
