@@ -89,6 +89,25 @@ iframe[src] * {
   background: #1a1e21;
 }
 
+.img-duo {
+  display: flex;
+  gap: 0.5rem;
+}
 
+.img-duo figure {
+  flex: 1;
+  margin: 0;
+}
+
+.img-duo img {
+  width: 100%;
+  aspect-ratio: 1 / 1;
+  object-fit: cover;
+}
+
+.img-duo figcaption {
+  text-align: center;
+  font-style: italic;
+}
 
 /*# sourceMappingURL=core-dark.css.map */

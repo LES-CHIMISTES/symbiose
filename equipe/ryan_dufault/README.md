@@ -464,6 +464,8 @@ Cette section, complétée **quotidiennement** pendant l’exécution du projet,
   </figcaption>
 </figure>
 
+- Refonte du patch pure data, basé sur celui dans la documentation du prof
+
 #### Mercredi
 - Adaptation du code des stations restantes en ethernet.
   - Station eau et station poudres de fait.
@@ -479,8 +481,15 @@ Cette section, complétée **quotidiennement** pendant l’exécution du projet,
 </figure>
 
 #### Jeudi
+- Fix du 2ème projecteur;
+  - On utilise un 2ème ordi (laptop) en plus de notre ordi principal pour utiliser le 2ème projecteur, j'ai donc dû faire en sorte de recevoir les données du jeu de l'ordi 1 sur le 2ème ordi (via udp)
+- Refonte du projection mapping avec les nouveaux ajustements des projecteurs
+- Ajustement de l'UI pour fit dans un display ratio de 16:10 (anciennement 16:9)
+- Finition du patch pure data final
 
 #### Vendredi
+- Guide d'ouverture quotidienne du projet complété.
+![Guide complet, disponible dans la section exposition](s77_vendredi.png)
 
 ### Semaine 8
 
