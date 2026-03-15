@@ -488,7 +488,7 @@ Cette section, complétée **quotidiennement** pendant l’exécution du projet,
 - Finition du patch pure data final
 
 #### Vendredi
-- Guide d'ouverture quotidienne du projet complété.
+- Guide pour l'ouverture quotidienne du projet complété.
 ![Guide complet, disponible dans la section exposition](s77_vendredi.png)
 
 ### Semaine 8

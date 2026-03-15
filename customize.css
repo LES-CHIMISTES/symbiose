@@ -110,4 +110,10 @@ iframe[src] * {
   font-style: italic;
 }
 
+.img-half img {
+  width: 50% !important;
+  display: block;
+  margin: 0 auto;
+}
+
 /*# sourceMappingURL=core-dark.css.map */
