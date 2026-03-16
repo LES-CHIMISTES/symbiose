@@ -320,6 +320,8 @@ continuation de la création d'assets 2D de particules dans le thème de notre e
 
 #### Lundi
 
+Aujourd'hui , j'ai décidé de repréparer les tâches que je dois faire pour cette semaine.
+
 #### Mardi
 Commencement de la construction des boîtes.
 ![ boîte du brûleur ](boîtenumero1.webp)
@@ -339,11 +341,14 @@ J'ai fais des trous sur les côtés des boîtes permettant de les fixer sur les 
 ![ 4 trous pour pouvoir les fixer par dessus ](troubord.webp) 
 
 
-
-
 #### Jeudi
+Aujourd'hui, j'ai monté l'installation de l'oeuvre final. J'ai fais le management de câbles. J'ai aussi fixer tous les boîtes sur les trépieds pour ne pas qu'ils tombent. J'ai aussi fais des testes de débogages pour s'assurer qu'il n'y a aucun bogue sur unity. 
+
+![ résultat final de l'oeuvre  ](oeuvrefinal.webp) 
 
 #### Vendredi
+J'ai modifié le sons de tourbouillon pour qu'il sonne plus fort, low-poly et cartoonesque.
+[ sons de tourbillon amélioré ](tourbillon2.mp3)
 
 ### Semaine 8
 
