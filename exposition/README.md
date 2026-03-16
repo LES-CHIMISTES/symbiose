@@ -96,7 +96,7 @@ Voici les étapes, en ordre, pour faire l'ouverture quotidienne du projet :
 - 4. Vérifier sur Pure Data si les données sont maintenant bien reçues
 
 #### 3. Ouvrir le projet Unity
-- 1. Appuyer sur le message "connect" sur pure data
+- 1. Appuyer sur le message **"connect 127.0.0.1 8001"** sur pure data
 
 <div class="img-half">
 
@@ -110,9 +110,9 @@ Voici les étapes, en ordre, pour faire l'ouverture quotidienne du projet :
 - 5. Si les stations marchent, passer à l'étape 4
 - 6. Si les stations **ne marchent pas**, regarder la console Unity pour voir si l'OSC est bien reçu.
 
-#### 4. Ouvrir le projet QLC+
-- 1. Ouvrir le projet Touch Designer (```C:\symbiose-582-601MO_unity_arduino\SYMBIOSE_TD\SYMBIOSE_TD.toe```)
-- 2. Ouvrir le projet QLC+ (```Desktop\qqqq.qwx```)
+#### 4. Ouvrir le projet Touch Designer & QLC+
+- 1. Ouvrir le projet **Touch Designer** (```C:\symbiose-582-601MO_unity_arduino\SYMBIOSE_TD\SYMBIOSE_TD.toe```)
+- 2. Ouvrir le projet **QLC+** (```Desktop\qqqq.qwx```)
 - 3. Aller dans l'onglet virtual console sur QLC+ (dans les onglets en bas)
 - 4. Activer le play mode QLC+
 
@@ -123,9 +123,10 @@ Voici les étapes, en ordre, pour faire l'ouverture quotidienne du projet :
 </div>
 
 - 5. Faire un test sur le jeu (se laisser mourir, voir si la lumière devient rouge)
-- 6. Si ne marche pas, s'assurer que dans le OSC in du touch designer, même port que sur le OSC Transmitter dans Unity.
+- 6. Si ne marche pas, s'assurer que dans le OSC in du touch designer, même port que sur le OSC Transmitter dans Unity **dans le game object OSCLocal** (8006, normalement).
 
 #### 5. Ouvrir le premier projecteur + OBS
+- Si le/les projecteurs ne sont pas déjà ouvert;
 - 1. Se rendre sur le site/ip du premier projecteur (ouvrir un navigateur, ```192.168.1.182```)                             
      Mot de passe + nom sur teams
 - 2. Allumer le projecteur à partir du remote control (le gros bouton pour allumer)
@@ -156,7 +157,7 @@ Voici les étapes, en ordre, pour faire l'ouverture quotidienne du projet :
 - À partir de là, tout est fait pour le premier ordinateur.
 
 #### 6. Se diriger sur le deuxième ordi (laptop), ouvrir le projet Touch Designer et OBS
-
+- Si 2ème projecteur déjà allumé, continuer à l'étape 6.2.
 - 1. Se rendre sur le site/ip du deuxième projecteur (ouvrir un navigateur, ```192.168.1.146```)                             
      Mot de passe + nom sur teams
 - 2. Allumer le projecteur à partir du remote control
@@ -180,7 +181,7 @@ Voici les étapes, en ordre, pour faire l'ouverture quotidienne du projet :
 
 - 4. Ouvrir OBS
     - Aller dans la scène "TD"
-    - Ouvrir la scène dans le projecteur
+    - Ouvrir la scène dans le projecteur (EPSON PJ 1920x1080)
 - 5. S'assurer que ça marche
     - (aller dans le studio, voir si la 2ème projection est bien présente, faire le tutoriel, si par exemple, lorsqu'on atteint la cible de la station eau et que la projection change en conséquence, ça marche)
     - Si ça ne marche pas, aller à l'étape 7.
