@@ -15,7 +15,7 @@ Horaire
 | Lundi      |    Ryan de 11.5 à 3.5 / Benjamin de 3.5 à 8 **Ryan** ouvre l'oeuvre|
 | Mardi      |    Ryan, Yannick, Walid, Benjamin de Toute la journée  **Benjamin** ouvre l'oeuvre |
 | Mercredi   |    Yannick et Ryan de 11.5 à 3.5 / Walid et Ben 3.5 à 8 **Yannick** ouvre l'oeuvre|
-| Jeudi      |    Ryan, Yannick et Walid de 11.5 à 3.5 / Walid et Benjamin de 3.5 à 8 **Walid** ouvre l'oeuvre |
+| Jeudi      |    Yannick et Walid de 11.5 à 3.5 / Ryan et Benjamin de 3.5 à 8 **Walid** ouvre l'oeuvre |
 | Vendredi   |    Ryan, Yannick, Walid, Benjamin Toute la journée  |
 
 ## Procédure d’ouverture quotidienne
