@@ -149,9 +149,9 @@ Cette section, complétée **quotidiennement** pendant l’exécution du projet,
 ### Semaine 8
 
 #### Lundi
-
+Journée de présentation
 #### Mardi
-
+Journée de présentation + vernissage
 #### Mercredi
 
 #### Jeudi
