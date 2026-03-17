@@ -35,7 +35,7 @@ Cette section, complétée lors de la première semaine, présente les tâches i
 
 ### Semaine 3
 
-- Trouver les mesures de la boîte du brûleur.
+- Trouver les mesures des boîtes pour chacune des stations.
 - projection sonore (haut parleurs, installation physique).
 - créer les éléments UI des nodes activés et désactivés + mouvement de rotation.
 - création de la boîte pour contenir tous les objets arduinos dedans de la maquette 1.
@@ -53,21 +53,26 @@ Cette section, complétée lors de la première semaine, présente les tâches i
 - sâbler et peinturer les boîtes.
 - Finaliser la création du  logo.
 - créer la trame sonore musical pour la bande-annonce.
-- Commencer la création de la bande annonce de l'oeuvre
+
 
 ### Semaine 6
 
-- Faire l'intéractivité des sons synthétiques événementiels.
-- développement c# événement evaporation.
-
+- Faire l’élément UI de l’erlenmeyer.
+- Faire les éléments UI des nœuds pour le tutoriel du brûleur de la station feu.
+- S’occuper de l’application d’éléments visuels sur le site web (logo, changement de couleur du thème, favicon, etc.)
+ 
 ### Semaine 6.5
 
-- Faire les séquences de caméra pour le trailer durant le tournage.
-- Faire et finir le montage pour le trailer.
+- Créer des assets 2D de particules pour les événements (goutte d’eau, flocon de neige, vague, tourbillon et losange).
+- Enregistrement de sons de poudre.
+- Créer un élément UI de cercle statique d’alerte pour l’événement de cristallisation.
+
 
 ### Semaine 7
 
-- débogage de l'intéractivité.
+- Construction des boîtes 3D interactives afin d’y intégrer les objets Arduino.
+- Relier les boîtes Arduino ensemble (faire l’installation et la gestion des câbles).
+- Préparer l’installation finale (placer les stands, visser les boîtes par-dessus).
 
 ### Semaine 8
 
@@ -93,89 +98,83 @@ Cette section, complétée **quotidiennement** pendant l’exécution du projet,
 
 #### Lundi
 
-- J'ai décidé de faire la recherche des succursales proprices afin d'acheter les matériels scientifique pour l'expérience.
+- J'ai décidé de faire la recherche des succursales propices afin d'acheter le matériel scientifique pour l'expérience.
 
 ![erlen mayeur](erlen_mayer.png)
 
 #### Mardi
 
-- J'ai fais une mise à jour de mes tâches à faire pour les prochaines semaines en rajoutant d'autre occupations.
+- J'ai fait une mise à jour de mes tâches à faire pour les prochaines semaines en ajoutant d'autres occupations.
   ![modification semaines 1 à 3](modificationssemaines1plan.png)
   ![modification semaines 4 à 8](modificationssemaines2plan.png)
 
 #### Mercredi
 
-- J'ai dû trouver les sons de référence pour le moodboard sonore sur Pixebay.
+- J'ai dû trouver des sons de référence pour le moodboard sonore sur Pixabay.
   ![sons de référence ](mercredi_1.webp)
 
-- J'ai commencé à créer les sons pour l'expérience
+- J'ai commencé à créer des sons pour l'expérience.
   ![sons de victoire et des voix ](commencement_des_sons_walid.webp)
 
 #### Jeudi
 
-- J'ai enregistré des sons en live pour pouvoir faire les sons de refroidissement tout au long de la phase de crystallisation. J'ai utilisé deux fourchettes en métal ainsi que du papier.
+- J'ai enregistré des sons en direct pour pouvoir créer les sons de refroidissement tout au long de la phase de cristallisation. J'ai utilisé deux fourchettes en métal ainsi que du papier.
   ![outilis utilisés ](papier_fourchette.webp)
 
-J'ai créer tous les sons qu'ils m'étaient attribués de faire :
+J'ai créé tous les sons qu'il m'était attribué de faire :
 
 - Sons d’affichage de texte
-
 - Sons de début de tutoriel
-
 - Sons de fin de tutoriel
-
 - Sons de course
-
-- Sons d’alerte pour afficher le texte lorsqu’il y a un événement.
-
-- Sons d’évaporation.
-
-- Sons de refroidissement tout au long de la phase de cristallisation.
-
-- Sons d’explosion en cas d’échec.
-
+- Sons d’alerte pour afficher le texte lorsqu’il y a un événement
+- Sons d’évaporation
+- Sons de refroidissement tout au long de la phase de cristallisation
+- Sons d’explosion en cas d’échec
 - Sons de victoire exagérés avec des anges (un mélange entre des chœurs d’anges et un son de victoire de jeu vidéo)
-
-- Sons pour afficher ton temps et le meilleur temps.
+- Sons pour afficher ton temps et le meilleur temps
 
 ![toutes les sons sont fais dans le logiciel ](sons_complet_section_walid.webp)
 
 #### Vendredi
 
-J'ai créer d'autres sons puis , je les ai mixer en modifiant leurs fréquences. j'ai aussi rajouter des effets sonores.
+J'ai créé d'autres sons, puis je les ai mixés en modifiant leurs fréquences. J'ai aussi rajouté des effets sonores.
+
 ![ ](mixing_sonore.webp)
 
 ### Semaine 3
 
 #### Lundi
 
-rajout et mixing du sons de la défaite.
+rajout et mixe du sons de la défaite.
 ![ sons de defaite lorsque le joueur ne réussit pas le défi](defaite.png)
 
-mise à jour des tâches à faire .
+Mise à jour des tâches à faire.
 ![ semaine 3 et 4](mise_a_jour_semaine_3_4.webp)
 
 #### Mardi
 
-J'ai pris les mesures pour le brûleur : 22 cm de largeur , 20cm largeur , 5 cm profodeur.
-![ les mesures pour le brûleur](mesures.webp)
+J'ai pris les mesures des boîtes pour tous les stations : 22 cm de largeur , 20cm largeur , 5 cm profodeur.
 
-J'ai normalisé toutes les sons du projet afin qu'ils soient toutes à des fréquences égales lorsqu'ils seront diffuser sur des hauts parleurs.
-![ exemple de sons qui a été normalisé sur fl studio](normaliser.webp)
+![ les mesures pour le brûleur, les poudres , la station d'eau ainsi que le tourbillon](mesures.webp)
+
+J'ai normalisé tous les sons du projet afin qu'ils soient tous à des fréquences égales lorsqu'ils seront diffusés sur des haut-parleurs.
+
+![ Exemple de sons qui ont été normalisés sur FL Studio.](normaliser.webp)
 
 #### Mercredi
 
-J'ai fais la création des éléments UI pour l'évènement de gel.
-![ node pour l'évènement de gel ](node.webp)
+J'ai fais la création des éléments UI pour l'événement de gel.
+![ node pour l'événement de gel ](node.webp)
 
-J'ai commencé à monter l'installation en aidant mon équipe à mettre les hauts-parleurs ainsi que le projecteur pour la maquette.
+J'ai commencé à monter l'installation en aidant mon équipe à installer les haut-parleurs ainsi que le projecteur pour la maquette.
 ![ projecteur  ](installation_preuve1.jpg)
 ![ hauts-parleurs  ](installation_preuve2.jpg)
 
 
 #### Jeudi
 
-création du boîtier pour mettre les capteurs/objets arduino au dessus.
+Création du boîtier pour placer les capteurs/objets Arduino au-dessus.
 ![ boîtier capteurs/objets arduino](boîtier.webp)
 
 finalisation de la maquette 1
@@ -183,7 +182,7 @@ finalisation de la maquette 1
 
 #### Vendredi
 
-création des éléments Ui pour un mouvement de roation et des nodes lorsqu'elles sont désactivés sur photoshop.
+Création des éléments UI pour un mouvement de rotation et des nœuds lorsqu'ils sont désactivés. Créer sur le logiciel Photoshop.
 ![ flèche rotatif](rotation.webp)
 
 ![ nodes lorsqu'elles ne sont pas actifs](nodes_desactiv.webp)
@@ -191,57 +190,57 @@ création des éléments Ui pour un mouvement de roation et des nodes lorsqu'ell
 ### Semaine 4
 
 #### Lundi
-Création d'effet sonore pour l'évènement tourbillon.
-[Effet tourbillon créer sur fl studio à partir de la modélisation d'un noise avec le vst serum. Rajout de reverbe aussi.Bouger les fréquences telles que les bases ainsi que les hautes.  ](tourbillon.mp3)
+Création d'effets sonores pour l'événement tourbillon.
+[Effet tourbillon créé sur FL Studio à partir de la modélisation d’un noise avec le VST Serum. Rajout de réverbération également. Modification des fréquences telles que les basses ainsi que les hautes.  ](tourbillon.mp3)
 
 
 
 #### Mardi
 
-Pour la cohérence du projet, j'ai dû refaire des sons.
+Pour assurer la cohérence du projet, j'ai dû refaire certains sons.
 ![ ](sons_recommencer.webp)
 
 
 #### Mercredi
- J'ai supervisé les sons enregistrés avec nos voix et j'ai dû les mixer après.
+ J'ai supervisé l'enregistrement des sons avec nos voix et j'ai dû les mixer ensuite.
  ![ tous les voix sont mixées avec fl studio](voix.webp)
 
 #### Jeudi
  J'ai commencé à créer le logo de l'oeuvre 
-  ![ création des lettres et du visuel esthétique](logo1.webp)
+  ![ création des lettres et du visuel esthétique.](logo1.webp)
 
-Je suis partis avec mon équipe acheter les matériaux nécessaires pour construire le brûleur, tourbillon ainsi les poudres. On avait besoin du bois, de la peinture blanche ainsi que le joystic du potentiomètre
+Je suis parti avec mon équipe acheter les matériaux nécessaires pour construire le brûleur, le tourbillon ainsi que les poudres. Nous avions besoin de bois, de peinture blanche ainsi que du joystick du potentiomètre.
 
- ![ peinture blanche ](peinture.webp)
+ ![ peinture blanche. ](peinture.webp)
 
-![ Le bois utilisé pour la construction ](walid.webp)
+![ Le bois utilisé pour la constructio. ](walid.webp)
 
 
-![ Le joystic pour le potentiomètre qui sera utilisé pour le tourbillon ](joystic.webp)
+![ Le joystick pour le potentiomètre qui sera utilisé pour le tourbillon. ](joystic.webp)
 
 
 #### Vendredi
 
-J'ai continué à faire le logo de l'installation
-![ continuation du logo rajout de détail, lettres, couleurs etc ](logo2.webp)
+J'ai continué à créer le logo de l'installation.
+![Continuation du logo : ajout de détails, lettres, couleurs, etc. ](logo2.webp)
 
 
 ### Semaine 5
 
 #### Lundi
 
-J'ai peinturé et sablé  les boîtes en bois pour le tourbilon, le brûleur ainsi que les poudres
+J'ai peinturé et sablé les boîtes en bois pour le tourbillon, le brûleur ainsi que les poudres.
 ![  ](peinture_boîte.webp)
 
 #### Mardi
 
-finalisation du logo 
+finalisation du logo. 
 ![ ](logo_fina.webp)
 
 
 #### Mercredi
 
-J'ai remis plusieurs couches de peinture sur le brûleur.
+J'ai appliqué plusieurs couches de peinture sur le brûleur.
  ![ ](trou.webp)
 
 
@@ -250,69 +249,68 @@ J'ai remis plusieurs couches de peinture sur le brûleur.
 
 
 #### Jeudi
-Création de la trame sonore musciale pour la bande-anonce de l'oeuvre.
+Création de la trame sonore musicale pour la bande-annonce de l'œuvre.
 ![ loop musical pour la bande annonce ](musique.webp)
 
 
 #### Vendredi
-Durant la journée, j'ai dû accompagné mon équipe à faire la bande-annonce pour l'oeuvre en donant le support technique(lumière,camera,trépied etc.) 
+Durant la journée, j'ai dû accompagner mon équipe pour réaliser la bande-annonce de l'œuvre en donnant le support technique (lumière, caméra, trépied, etc.) 
 ![  ](filmer.webp)
 
 
 ### Semaine 6
 
 #### Lundi
-Cette journée, je me suis occupé de mettre le logo, changé la couleur du thème, corrigé les fautes de français et faire le favicon de notre site web.
-![ Logo, couleur du thème et favicon implantés dans notre site web ](site.webp)
+Cette journée-là, je me suis occupé de mettre le logo, de changer la couleur du thème, de corriger les fautes de français et de faire le favicon de notre site web.
+![ Logo, couleur du thème et favicon implantés sur notre site web](site.webp)
 
 
 #### Mardi
-Je me suis occupé de finaliser la maquette 2 avec mon équipe en s'assurant que les capteurs arduinos, 
-la gestion des câbles ainsi que les boîtiers( brûleurs,les pourdres ainsi et le  tourbouillon) ont bien été réalisés pour la présentation. J'ai dû acceuillir les élèves de deuxième session pour leur faire essayer l'oeuvre immersive et intéractive.
+Je me suis occupé de finaliser la maquette 2 avec mon équipe en nous assurant que les capteurs Arduino, la gestion des câbles ainsi que les boîtiers (brûleur, les poudres ainsi que le tourbillon) ont bien été réalisés pour la présentation. J'ai dû accueillir les élèves de deuxième session pour leur faire essayer l'œuvre immersive et interactive.
+
 ![ maquette 2 complet ](maquette2.webp)
 ![ essai de la maquette 2 ](maquette2video.mp4)
 
 
 #### Mercredi
-J'ai fais l'image ui de l'erlenmeyer pour le tutorial de la station eau.
+J'ai fait l'image UI de l'erlenmeyer pour le tutoriel de la station eau.
 ![ erlenmeyer format UI ](erlenmeyer.png)
 
 #### Jeudi
-Commencement des images Ui tutoriel pour le brûleur de la station feux
-![ première node ui   ](nodetutorial1.webp)
+Commencement des images UI du tutoriel pour le brûleur de la station feu.
+![ première node UI  ](nodetutorial1.webp)
 
 #### Vendredi
-Finalisation des images Ui pour le tutoriel du brûleur dans la station feux. 
-![ finalisation des nodes avec une flèche rotatif,des marqueurs et une deuxième node  ](tutorielfeux.png)
+Finalisation des images UI pour le tutoriel du brûleur dans la station feu.
+![ Finalisation des nœuds avec une flèche rotative, des marqueurs et un deuxième nœud. ](tutorielfeux.png)
 
 ### Semaine 6.5
 
 #### Lundi
-J'ai décidé de retravailler les sons de victoire et de défaite pour qu'ils paraissent cartoonesques et plus cohérents pour notre projet.
-[ sons de détaite amélioré](défaite.mp3)
-[ sons de victoire amélioré](winjournaldebord1.mp3)
+J'ai décidé de retravailler le son de victoire pour qu'il paraisse plus cartoonesque et plus cohérent avec notre projet.
+[ sons de défaite amélioré](défaite.mp3)
 
 
 #### Mardi
-Création de assets 2D de particules dans le thème de notre expérience, particules qui seront utilisés dynamiquement pour l'immersion, lors des événements
+Création d’assets 2D de particules dans le thème de notre expérience, qui seront utilisés dynamiquement pour l’immersion lors des événements.
 ![ goutte d'eau ](pluie.webp)
 ![ flocon de neige ](flocon.webp)
 ![ vague ](wave.webp)
 
 
 #### Mercredi
-enregistrement du sons de poudre en live et mixage sur fl studio.
+Enregistrement du son de poudre en direct et mixage sur FL Studio.
 [ sons de poudre](poudre.mp3)
 
 
 #### Jeudi
 
-Ajout de meilleur UI pour l'expérience utilisateur de l'événement cristallisation, ajout de contours plus épais et d'un cercle statique qui sert de repère visuel à quand appuyer sur le bouton.
+Ajout d’une meilleure UI pour l’expérience utilisateur de l’événement de cristallisation : ajout de contours plus épais et d’un cercle statique servant de repère visuel pour savoir quand appuyer sur le bouton.
 ![ élément Ui pour l'événement cristallisation   ](evendredi.webp)
 
 
 #### Vendredi
-continuation de la création d'assets 2D de particules dans le thème de notre expérience.
+Poursuite de la création d’assets 2D de particules dans le thème de notre expérience.
 ![ tourbillon ](tourbillon.webp)
 ![ losange ](losange.webp)
 
@@ -320,7 +318,7 @@ continuation de la création d'assets 2D de particules dans le thème de notre e
 
 #### Lundi
 
-Aujourd'hui , j'ai décidé de repréparer les tâches que je dois faire pour cette semaine.
+Aujourd'hui, j'ai décidé de préparer de nouveau les tâches que je dois faire cette semaine.
 
 #### Mardi
 Commencement de la construction des boîtes.
@@ -330,29 +328,33 @@ Commencement de la construction des boîtes.
 
 
 #### Mercredi
-Aujourd'hui, j'ai percé un trou sur la station d'eau afin de relier le cable aux objets arduino à l'intérieur du boîtier. Ca permettra ainsi de recevoir les messages de Pure data tout en créant un effet de camouflage filaire et d'ergonomie sur la station.
+Aujourd'hui, j'ai percé un trou dans la station d'eau afin de relier le câble aux objets Arduino à l'intérieur du boîtier. Cela permettra ainsi de recevoir les messages de Pure Data tout en créant un effet de camouflage filaire et d’ergonomie sur la station.
+
  ![ trou percé qui permettra de rentrer le fil à l'intérieur de boîtier de la station d'eau ](drill.webp)
 
-  J'ai aussi contribué à monter tous les boîtiers en donnant le support de main d'oeuvre(viser des clous et  défaire des clous.)
+ J'ai aussi contribué au montage de toutes les boîtes en apportant un support de main-d'œuvre (visser et retirer des clous).
+
   ![ tous les boîtes sont construites ](touslesboitiers.webp)
 
 
-J'ai fais des trous sur les côtés des boîtes permettant de les fixer sur les supports.
-![ 4 trous pour pouvoir les fixer par dessus ](troubord.webp) 
+J'ai fait des trous sur les côtés des boîtes permettant de les fixer sur les supports. »
+![ 4 trous pour pouvoir les fixer par dessus les supports. ](troubord.webp) 
 
 
 #### Jeudi
-Aujourd'hui, j'ai monté l'installation de l'oeuvre final. J'ai fais le management de câbles. J'ai aussi fixer tous les boîtes sur les trépieds pour ne pas qu'ils tombent. J'ai aussi fais des testes de débogages pour s'assurer qu'il n'y a aucun bogue sur unity. 
+Aujourd'hui, j'ai monté l'installation de l'œuvre finale. J'ai effectué la gestion des câbles. J'ai également fixé toutes les boîtes sur les trépieds afin d'éviter qu'elles tombent. J'ai aussi réalisé des tests de débogage pour m'assurer qu'il n'y avait aucun bogue sur Unity.
 
 ![ résultat final de l'oeuvre  ](oeuvrefinal.webp) 
 
 #### Vendredi
-J'ai modifié le sons de tourbouillon pour qu'il sonne plus fort, low-poly et cartoonesque.
+J'ai modifié le son du tourbillon pour qu'il sonne plus fort, avec un style low-poly et cartoonesque.
 [ sons de tourbillon amélioré ](tourbillon2.mp3)
 
 ### Semaine 8
 
 #### Lundi
+Aujourd'hui, je me suis assuré que l'exposition fonctionnait bien. J'ai donc décidé de venir aider lors de l'ouverture, au cas où.
+![ Exposition prête à accueillir des interacteurs. ](expolundi.webp) 
 
 #### Mardi
 
