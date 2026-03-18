@@ -385,6 +385,8 @@ Aujourd’hui, j’ai fait deux variations de décor avec tous les éléments po
 
 #### Mardi
 
+![Aujourd’hui, j’ai ouvert l'installation et je suis resté dans le studio pour m’assurer de corriger les bugs s’il y en a.](preuve_S8_mardi_1.webp)
+
 #### Mercredi
 
 #### Jeudi
