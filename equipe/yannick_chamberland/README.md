@@ -79,21 +79,21 @@ Cette section, complétée **quotidiennement** pendant l’exécution du projet,
 #### Lundi
 ![Aujourd'hui j'ai fait l'exportation de la scène 3D dans unity](preuve_ls3.webp)
 #### Mardi
-![Aujourd'hui j'ai modéliser le background qui se trouve derrière la fennêtre pour pouvoir l'animer dans unity](preuve_ms3.webp)
+![Aujourd'hui j'ai modélisé le background qui se trouve derrière la fennêtre pour pouvoir l'animer dans unity](preuve_ms3.webp)
 #### Mercredi
 ![Aujourd'hui j'ai fait les visuel pour l'évennement du gel](preuve_mers3.webp)
 #### Jeudi
-![Aujourd'hui j'ai contribuer à la mise en place de l'installation](preuve_js3.webp)
+![Aujourd'hui j'ai contribué à la mise en place de l'installation](preuve_js3.webp)
 #### Vendredi
-![Aujourd'hui j'ai modifier et paufiner les matériaux dans unity](preuve_vs3.webp)
+![Aujourd'hui j'ai modifié et paufiné les matériaux dans unity](preuve_vs3.webp)
 ### Semaine 4
 
 #### Lundi
-![Aujourd'hui j'ai créer un nouveau matériau dans unity pour l'événement crystalisation](preuve_ls4.webp)
+![Aujourd'hui j'ai créé un nouveau matériau dans unity pour l'événement cristallisation](preuve_ls4.webp)
 #### Mardi
-![Aujourd'hui j'ai modifier le matériaux dans unity et j'ai créer des crystaux et des particules de brûmes pour l'événement crystalisation](preuve_ms4.webp)
+![Aujourd'hui j'ai modifier le matériaux dans unity et j'ai créer des crystaux et des particules de brûmes pour l'événement cristallisation](preuve_ms4.webp)
 #### Mercredi
-![Aujourd'hui j'ai fait le background de l'évennement crystalisation](preuve_mers4.webp)
+![Aujourd'hui j'ai fait le background de l'évennement cristallisation](preuve_mers4.webp)
 #### Jeudi
 ![Aujourd'hui j'ai fait le background de l'évennement évaporation](preuve_js4.webp)
 #### Vendredi
@@ -101,49 +101,49 @@ Cette section, complétée **quotidiennement** pendant l’exécution du projet,
 ### Semaine 5
 
 #### Lundi
-![Aujourd'hui j'ai contribuer à la construction des boîtes pour les stations](preuve_ls5.webp)
+![Aujourd'hui j'ai contribué à la construction des boîtes pour les stations](preuve_ls5.webp)
 #### Mardi
 ![Aujourd'hui j'ai fait le dossier de presse](preuve_ms5.webp) https://github.com/LES-CHIMISTES/symbiose/commit/966e6f4e6f32cbef677e62a088f9b8c1d145a06b
 #### Mercredi
-![Aujourd'hui j'ai modéliser le feu](preuve_mers5.webp)
+![Aujourd'hui j'ai modélisé le feu](preuve_mers5.webp)
 #### Jeudi
-![Aujourd'hui j'ai modéliser la main qui va tenir l'erlenmeyeur](preuve_js5.webp)
+![Aujourd'hui j'ai modélisé la main qui va tenir l'erlenmeyeur](preuve_js5.webp)
 #### Vendredi
-![Aujourd'hui j'ai contribuer au montage de la bande annonce](preuve_vs5.webp)
+![Aujourd'hui j'ai contribué au montage de la bande annonce](preuve_vs5.webp)
 ### Semaine 6
 
 #### Lundi
-![Aujourd'hui j'ai modifier des matériaux dans unity (pour l'eau dans l'évènement crytalisation)](preuve_ls6.webp)
+![Aujourd'hui j'ai modifié des matériaux dans unity (pour l'eau dans l'évènement cristallisation)](preuve_ls6.webp)
 #### Mardi
-![Aujourd'hui j'ai participer à la présentation et au testage de la maquette 2](preuve_ms6.webp)
+![Aujourd'hui j'ai participé à la présentation et au testage de la maquette 2](preuve_ms6.webp)
 #### Mercredi
 ![Aujourd'hui j'ai écrit une liste pour les nouvelles boîtes](preuve_mers6.webp) https://github.com/LES-CHIMISTES/symbiose/commit/6067644a2ff62a042227f42c09e35ecfce32eab1
 #### Jeudi
-![Aujourd'hui j'ai modéliser un tube d'essaie pour qu'on puisse mettre la bare de stabilité](preuve_js6.webp) 
+![Aujourd'hui j'ai modélisé un tube d'essaie pour qu'on puisse mettre la bare de stabilité](preuve_js6.webp) 
 #### Vendredi
 ![Aujourd'hui j'ai assité à la réunion de mon comité pour choisir le design final des cartels](preuve_vs6.webp) 
 ### Semaine 6.5
 
 #### Lundi
-![Aujourd'hui j'ai modéliser le socle du tube d'essaie](preuve_ls65.webp)
+![Aujourd'hui j'ai modélisé le socle du tube d'essaie](preuve_ls65.webp)
 #### Mardi
 ![Aujourd'hui j'ai fait le matériaux du socle du tube d'essaie](preuve_ms65.webp)
 #### Mercredi
 ![Aujourd'hui j'ai fait le matériaux du tube d'essaie](preuve_mers65.webp)
 #### Jeudi
-![Aujourd'hui j'ai changer le matériaux du feu](preuve_js65.webp)
+![Aujourd'hui j'ai changé le matériaux du feu](preuve_js65.webp)
 #### Vendredi
-![Aujourd'hui j'ai changer le matériaux de l'eau durant le gel](preuve_vs65.webp)
+![Aujourd'hui j'ai changé le matériaux de l'eau durant le gel](preuve_vs65.webp)
 ### Semaine 7
 
 #### Lundi
-![Aujourd'hui j'ai changer le matériaux de l'eau durant l'évaporation (un concept en tout cas)](preuve_ls7.webp)
+![Aujourd'hui j'ai changé le matériaux de l'eau durant l'évaporation (un concept en tout cas)](preuve_ls7.webp)
 #### Mardi
-![Aujourd'hui j'ai contribuer à la création de la boîte du brûleur](preuve_ms7.webp)
+![Aujourd'hui j'ai contribué à la création de la boîte du brûleur](preuve_ms7.webp)
 #### Mercredi
-![Aujourd'hui j'ai contribuer à la création de la boîte des pudres](preuve_mers7.webp)
+![Aujourd'hui j'ai contribué à la création de la boîte des pudres](preuve_mers7.webp)
 #### Jeudi
-![Aujourd'hui j'ai contribuer aux test finaux du jeu](preuve_js7.webp)
+![Aujourd'hui j'ai contribué aux test finaux du jeu](preuve_js7.webp)
 #### Vendredi
 ![Aujourd'hui j'ai fait un dernier matériaux test](preuve_vs7.webp)
 ### Semaine 8
