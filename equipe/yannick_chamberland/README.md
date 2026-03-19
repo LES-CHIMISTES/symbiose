@@ -151,10 +151,10 @@ Cette section, complétée **quotidiennement** pendant l’exécution du projet,
 #### Lundi
 Journée de présentation
 #### Mardi
-Journée de présentation + vernissage
+Journée de présentation + vernissage (contrôle de qualité, verifier si l'oeuvre marche.)
 #### Mercredi
-
+Journée de présentation (ouverture de l'oeuvre, contrôle de qualité, verifier si l'oeuvre marche.)
 #### Jeudi
-
+Journée de présentation (contrôle de qualité, verifier si l'oeuvre marche.)
 #### Vendredi
-                                                   
+Journée de démontage.
