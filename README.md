@@ -29,3 +29,14 @@
 <!-- Présentation de ce qu'est ce site et résumé du projet en un paragraphe, toujours à jour-->
 
 Symbiose est une installation intéractive démontrant une potion chimique virtuelle où chaque station contrôle un ingrédient (eau, flamme, poudres, tourbillon). Les participants devront faire face à différents événements aléatoire qui perturberont l'équilibre de la potion. Leur but ultime est de faire en sorte que la potion reste stable le plus longtemps possible.
+
+#### Documentation Vidéo
+
+<figure>
+  <div style="aspect-ratio: 16/9;">
+    <iframe width="100%" height="100%" src="https://www.youtube-nocookie.com/embed/LQGGkSN_Lnc?disablekb=1&modestbranding=1&playsinline=1&rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture; fullscreen" style="display: block; width: 100%; height: 100%;"></iframe>
+  </div>
+  <figcaption style="text-align: center; font-style: italic;">
+    <a target="_blank" href="https://www.youtube.com/watch?v=LQGGkSN_Lnc">Symbiose | Documentation Finale</a>
+  </figcaption>
+</figure>

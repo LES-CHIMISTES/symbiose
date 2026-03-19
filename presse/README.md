@@ -56,9 +56,12 @@ Symbiose possède quatre stations physiques, avec un joueur par station. Chacune
 ## Images
 
 ![](thumb.webp)
-![](thumb3.webp)
-![](thumb2.webp)
+![](14.png)
+![](4.png)
+![](5.png)
 ![](banner.png)
+![](6.png)
+![](7.png)
 
 ## Logo
 ![Le logo du projet Symbiose](Banderole.webp)
