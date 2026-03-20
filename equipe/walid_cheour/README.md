@@ -36,7 +36,6 @@ Cette section, complétée lors de la première semaine, présente les tâches i
 ### Semaine 3
 
 - Trouver les mesures des boîtes pour chacune des stations.
-- projection sonore (haut parleurs, installation physique).
 - créer les éléments UI des nodes activés et désactivés + mouvement de rotation.
 - création de la boîte pour contenir tous les objets arduinos dedans de la maquette 1.
 - créer les éléments Ui. Mouvement de rotation des nodes. Nodes lorsqu'elles ne sont pas actifs.
@@ -45,9 +44,9 @@ Cette section, complétée lors de la première semaine, présente les tâches i
 
 - Acheter les matériaux nécessaires pour la construction des boîtes afin de contenir chacun des objets d'arduinos(peinture blanche et du bois,).
 - Continuer l'installation de l'expérience.
-- Le joystic pour le potentiomètre qui sera utilisé pour l'évènement tourbillon.
+- Acheter le joystic pour le potentiomètre qui sera utilisé pour l'évènement tourbillon.
 - commencer la création du logo de l'oeuvre multimédia.
-- Créer un effet tourbouillon sonore pour l'évènement tourbillon,
+- Créer un effet tourbouillon sonore pour l'évènement tourbillon.
 
 ### Semaine 5
 - sâbler et peinturer les boîtes.
@@ -57,7 +56,7 @@ Cette section, complétée lors de la première semaine, présente les tâches i
 
 ### Semaine 6
 
-- Faire l’élément UI de l’erlenmeyer.
+- Faire l’élément UI de l’erlenmeyer pour le tutoriel de la station d'eau.
 - Faire les éléments UI des nœuds pour le tutoriel du brûleur de la station feu.
 - S’occuper de l’application d’éléments visuels sur le site web (logo, changement de couleur du thème, favicon, etc.)
  
@@ -76,7 +75,12 @@ Cette section, complétée lors de la première semaine, présente les tâches i
 
 ### Semaine 8
 
-- Faire la présentation oral
+- Faire la présentation de notre création.
+- Acceuillir les visteurs et guider les intéracteurs à travers l'exposition.
+- Faire la surveillance de l'oeuvre.
+- Assurer l’ouverture et le bon fonctionnement de l’œuvre lors des journées d’accueil et de présentation.
+- Démonter l'oeuvre à la toute fin.
+- Faire la présentation de la vidéo de documentation qui explique le fonctionnement de notre oeuvre.
 
 ## Journal de bord
 
@@ -100,13 +104,14 @@ Cette section, complétée **quotidiennement** pendant l’exécution du projet,
 
 - J'ai décidé de faire la recherche des succursales propices afin d'acheter le matériel scientifique pour l'expérience.
 
-![erlen mayeur](erlen_mayer.png)
+![erlen mayeur](erlenmeyer.webp)
 
 #### Mardi
 
 - J'ai fait une mise à jour de mes tâches à faire pour les prochaines semaines en ajoutant d'autres occupations.
-  ![modification semaines 1 à 3](modificationssemaines1plan.png)
-  ![modification semaines 4 à 8](modificationssemaines2plan.png)
+![semaine 1 à 2 ](miseàjoursemaine1et2.webp)
+![semaine 3 à 4 ](miseàjour3et4.webp)
+
 
 #### Mercredi
 
@@ -119,22 +124,19 @@ Cette section, complétée **quotidiennement** pendant l’exécution du projet,
 #### Jeudi
 
 - J'ai enregistré des sons en direct pour pouvoir créer les sons de refroidissement tout au long de la phase de cristallisation. J'ai utilisé deux fourchettes en métal ainsi que du papier.
-  ![outilis utilisés ](papier_fourchette.webp)
+  ![outis utilisés ](papier_fourchette.webp)
 
-J'ai créé tous les sons qu'il m'était attribué de faire :
+J’ai créé les sons qui m’étaient attribués :
 
-- Sons d’affichage de texte
-- Sons de début de tutoriel
-- Sons de fin de tutoriel
-- Sons de course
-- Sons d’alerte pour afficher le texte lorsqu’il y a un événement
-- Sons d’évaporation
-- Sons de refroidissement tout au long de la phase de cristallisation
-- Sons d’explosion en cas d’échec
-- Sons de victoire exagérés avec des anges (un mélange entre des chœurs d’anges et un son de victoire de jeu vidéo)
-- Sons pour afficher ton temps et le meilleur temps
+- Effets sonores pour l’affichage du texte.  
+- Effets sonores de début de tutoriel.  
+- Effets sonores d’alerte lors des événements.  
+- Effets sonores d’évaporation.  
+- Effets sonores de refroidissement durant la phase de cristallisation. 
+- Effets sonores d’explosion en cas d’échec.  
 
-![toutes les sons sont fais dans le logiciel ](sons_complet_section_walid.webp)
+
+![toutes les sons sont fais dans le logiciel fl studio ](sons_complet_section_walid.webp)
 
 #### Vendredi
 
@@ -149,8 +151,7 @@ J'ai créé d'autres sons, puis je les ai mixés en modifiant leurs fréquences.
 rajout et mixe du sons de la défaite.
 ![ sons de defaite lorsque le joueur ne réussit pas le défi](defaite.png)
 
-Mise à jour des tâches à faire.
-![ semaine 3 et 4](mise_a_jour_semaine_3_4.webp)
+
 
 #### Mardi
 
@@ -213,7 +214,7 @@ Je suis parti avec mon équipe acheter les matériaux nécessaires pour construi
 
  ![ peinture blanche. ](peinture.webp)
 
-![ Le bois utilisé pour la constructio. ](walid.webp)
+![ Le bois utilisé pour la construction. ](walid.webp)
 
 
 ![ Le joystick pour le potentiomètre qui sera utilisé pour le tourbillon. ](joystic.webp)
@@ -244,13 +245,15 @@ J'ai appliqué plusieurs couches de peinture sur le brûleur.
  ![ ](trou.webp)
 
 
- J'ai dû sâbler le trou du brûleur pour mettre le joystic du potentiomètre de la mquette 2.
+ J'ai dû sâbler le trou du brûleur pour mettre le joystic du potentiomètre de la maquette 2.
  ![ ](recouche.webp) 
 
 
 #### Jeudi
-Création de la trame sonore musicale pour la bande-annonce de l'œuvre.
-![ loop musical pour la bande annonce ](musique.webp)
+Création de la trame sonore musicale pour la bande-annonce de l'œuvre et pour la documentation vidéo finale.
+![ loop musical créer sur fl studio à partir du vst flutela3 qui est gratuit et libre de droit. ](demomusical.webp)
+
+[ demonstration de la trame sonore](musique.mp3)
 
 
 #### Vendredi
@@ -318,7 +321,8 @@ Poursuite de la création d’assets 2D de particules dans le thème de notre ex
 
 #### Lundi
 
-Aujourd'hui, j'ai décidé de préparer de nouveau les tâches que je dois faire cette semaine.
+Aujourd'hui, j'ai décidé de préparer de nouveau les tâches que je dois faire pour les prochaines semaines.
+![ semaine 7 et 8 ](semaines7et8.webp)
 
 #### Mardi
 Commencement de la construction des boîtes.
@@ -340,6 +344,9 @@ Aujourd'hui, j'ai percé un trou dans la station d'eau afin de relier le câble 
 J'ai fait des trous sur les côtés des boîtes permettant de les fixer sur les supports. »
 ![ 4 trous pour pouvoir les fixer par dessus les supports. ](troubord.webp) 
 
+Par ailleurs, j’ai pris en charge la gestion du câblage afin d’assurer une installation ordonnée, en veillant à effectuer les branchements dans les prises appropriées.
+![  ](cable.webp)
+
 
 #### Jeudi
 Aujourd'hui, j'ai monté l'installation de l'œuvre finale. J'ai effectué la gestion des câbles. J'ai également fixé toutes les boîtes sur les trépieds afin d'éviter qu'elles tombent. J'ai aussi réalisé des tests de débogage pour m'assurer qu'il n'y avait aucun bogue sur Unity.
@@ -357,9 +364,26 @@ Aujourd'hui, je me suis assuré que l'exposition fonctionnait bien. J'ai donc d�
 ![ Exposition prête à accueillir des interacteurs. ](expolundi.webp) 
 
 #### Mardi
+Durant cette journée, j’ai accueilli les visiteurs et les invités lors de notre exposition. Je les ai guidés dans la découverte de notre projet et ai répondu à leurs questions en fonction de leurs besoins. Je me suis également assuré de récupérer les collations (chips) ainsi que les boissons pour l’ensemble de la classe.
+
+![ journée de présentation pour le public. ](mardivernissage2.mp4) 
+
+
+![ découverte de notre projet. ](vernissagemardi.mp4) 
+
 
 #### Mercredi
 
+Surveillance accrue au bon fonctionnement de l’oeuvre lors de son exposition. Acceuillir les visiteurs et les orienter.
+![ ](exposition.webp)
 #### Jeudi
 
+Ce matin, j’ai procédé à l’ouverture de l’œuvre et assuré sa surveillance.
+![affichage de l'arrière fond avec touchdesigner et obs à partir du portable. ](portable.webp)
+
+![Procéder à l’ouverture du projet dans Unity, à l’activation du projecteur Epson, à l’allumage et à la synchronisation des lumières via QLC+, ainsi qu’au lancement de TouchDesigner. ](ordinateur.webp)
+
+
 #### Vendredi
+
+Lors de la dernière journée, j’ai procédé au démontage conformément aux procédures établies et assuré la présentation de notre vidéo de documentation.
