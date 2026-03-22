@@ -391,7 +391,7 @@ Aujourd’hui, j’ai fait deux variations de décor avec tous les éléments po
 ![Aujourd’hui, j’ai accueilli les interacteurs et je suis resté dans le studio pour m’assurer de corriger les bugs s’il y en avait. Ma famille est venue tester mon exposition, ils ont adoré.](preuve_S8_mercredi_1.webp)
 
 #### Jeudi
-![Aujourd’hui, j’ai accueilli les interacteurs et je suis resté dans le studio pour m’assurer de corriger les bugs s’il y en avait. Mon grand frère est venu tester mon exposition, et il était vraiment impressionné par notre projet.](preuve_S8_jeudi_1.webp)
+![Aujourd’hui, j’ai accueilli les interacteurs et je suis resté dans le studio pour m’assurer de corriger les bugs s’il y en avait. Mon grand frère est venu tester notre exposition. Il était vraiment impressionné par notre projet.](preuve_S8_jeudi_1.webp)
 
 #### Vendredi
-![Aujourd’hui, j’ai effectué le démontage de l’expérience Symbiose avec mon équipe. Plus précisément, j’ai démonté le projecteur et les deux haut-parleurs.](preuve_S8_vendredi_1.webp)                                              
+![Aujourd’hui, j’ai effectué le démontage de l’expérience Symbiose avec mon équipe. Plus précisément, j’ai démonté le projecteur et les deux haut-parleurs.](preuve_S8_vendredi_1.webp)                                   
