@@ -21,12 +21,11 @@ Cette section, complétée lors de la première semaine, présente les tâches i
 
 - Trouver les sons synthétiques
 - Réaliser les enregistrements sonores.
-- son d'évaporation (vapeur) pour l'événement évaporation.
-- son de cristallisation de poudre pour l'événement de cristallisation.
-- son de gel, "frosting" pour l'événement de gel.
-- son synthétique lorsque la potion est en alerte d'un échec de potion instable.
-- son synthétique lorsque les joueurs réussissent à stabiliser la potion.
-- le son synthétique lorsque le joueur perd.
+- Créer le son d'évaporation (vapeur) pour l'événement évaporation.
+- Créer le son de cristallisation de poudre pour l'événement de cristallisation.
+- Créer le son de gel, "frosting" pour l'événement de gel.
+- Créer le son synthétique lorsque la potion est en alerte d'un échec de potion instable.
+- Créer le son synthétique lorsque le joueur perd.
 
 ### Semaine 2
 
@@ -51,13 +50,13 @@ Cette section, complétée lors de la première semaine, présente les tâches i
 ### Semaine 5
 - sâbler et peinturer les boîtes.
 - Finaliser la création du  logo.
-- créer la trame sonore musical pour la bande-annonce.
+- créer la trame sonore musical pour la bande-annonce ainsi que pour la vidéo de la documentation finale.
 
 
 ### Semaine 6
 
 - Faire l’élément UI de l’erlenmeyer pour le tutoriel de la station d'eau.
-- Faire les éléments UI des nœuds pour le tutoriel du brûleur de la station feu.
+- Faire les éléments UI des nodes pour le tutoriel du brûleur de la station feu.
 - S’occuper de l’application d’éléments visuels sur le site web (logo, changement de couleur du thème, favicon, etc.)
  
 ### Semaine 6.5
@@ -65,6 +64,7 @@ Cette section, complétée lors de la première semaine, présente les tâches i
 - Créer des assets 2D de particules pour les événements (goutte d’eau, flocon de neige, vague, tourbillon et losange).
 - Enregistrement de sons de poudre.
 - Créer un élément UI de cercle statique d’alerte pour l’événement de cristallisation.
+- Préparer et prévoire  les modèles 3D des boîtes pour chacune des stations.
 
 
 ### Semaine 7
@@ -119,14 +119,14 @@ Cette section, complétée **quotidiennement** pendant l’exécution du projet,
   ![sons de référence ](mercredi_1.webp)
 
 - J'ai commencé à créer des sons pour l'expérience.
-  ![sons de victoire et des voix ](commencement_des_sons_walid.webp)
+  ![ voix ](commencement_des_sons_walid.webp)
 
 #### Jeudi
 
 - J'ai enregistré des sons en direct pour pouvoir créer les sons de refroidissement tout au long de la phase de cristallisation. J'ai utilisé deux fourchettes en métal ainsi que du papier.
   ![outis utilisés ](papier_fourchette.webp)
 
-J’ai créé les sons qui m’étaient attribués :
+J’ai créé des sons qui m’étaient attribués :
 
 - Effets sonores pour l’affichage du texte.  
 - Effets sonores de début de tutoriel.  
@@ -183,7 +183,7 @@ finalisation de la maquette 1
 
 #### Vendredi
 
-Création des éléments UI pour un mouvement de rotation et des nœuds lorsqu'ils sont désactivés. Créer sur le logiciel Photoshop.
+Création des éléments UI pour un mouvement de rotation et des nodes lorsqu'ils sont désactivés pour la station tourbouillon et feux. Créer sur le logiciel Photoshop.
 ![ flèche rotatif](rotation.webp)
 
 ![ nodes lorsqu'elles ne sont pas actifs](nodes_desactiv.webp)
@@ -199,6 +199,8 @@ Création d'effets sonores pour l'événement tourbillon.
 #### Mardi
 
 Pour assurer la cohérence du projet, j'ai dû refaire certains sons.
+- sons de tutoriel des stations.
+- sons d'alerte d'événement. 
 ![ ](sons_recommencer.webp)
 
 
@@ -217,7 +219,7 @@ Je suis parti avec mon équipe acheter les matériaux nécessaires pour construi
 ![ Le bois utilisé pour la construction. ](walid.webp)
 
 
-![ Le joystick pour le potentiomètre qui sera utilisé pour le tourbillon. ](joystic.webp)
+![ Le joystick pour le potentiomètre qui sera utilisé pour la station  tourbillon. ](joystic.webp)
 
 
 #### Vendredi
@@ -285,12 +287,12 @@ Commencement des images UI du tutoriel pour le brûleur de la station feu.
 
 #### Vendredi
 Finalisation des images UI pour le tutoriel du brûleur dans la station feu.
-![ Finalisation des nœuds avec une flèche rotative, des marqueurs et un deuxième nœud. ](tutorielfeux.png)
+![ Finalisation des nodes avec une flèche rotative, des marqueurs et un deuxième nœud. ](tutorielfeux.png)
 
 ### Semaine 6.5
 
 #### Lundi
-J'ai décidé de retravailler le son de victoire pour qu'il paraisse plus cartoonesque et plus cohérent avec notre projet.
+J'ai décidé de retravailler le son de défaite pour qu'il paraisse plus cartoonesque et plus cohérent avec notre projet.
 [ sons de défaite amélioré](défaite.mp3)
 
 
@@ -347,6 +349,8 @@ J'ai fait des trous sur les côtés des boîtes permettant de les fixer sur les 
 Par ailleurs, j’ai pris en charge la gestion du câblage afin d’assurer une installation ordonnée, en veillant à effectuer les branchements dans les prises appropriées.
 ![  ](cable.webp)
 
+J’ai également effectué le ménage afin de maintenir un environnement d’installation propre.
+![  ](ménage.webp)
 
 #### Jeudi
 Aujourd'hui, j'ai monté l'installation de l'œuvre finale. J'ai effectué la gestion des câbles. J'ai également fixé toutes les boîtes sur les trépieds afin d'éviter qu'elles tombent. J'ai aussi réalisé des tests de débogage pour m'assurer qu'il n'y avait aucun bogue sur Unity.
@@ -387,3 +391,6 @@ Ce matin, j’ai procédé à l’ouverture de l’œuvre et assuré sa surveill
 #### Vendredi
 
 Lors de la dernière journée, j’ai procédé au démontage conformément aux procédures établies et assuré la présentation de notre vidéo de documentation.
+
+![Présentation des vidéos de documentation finale de chaque équipe dans le grand studio de TIM. ](présentation.webp)
+
