@@ -494,12 +494,25 @@ Cette section, complétée **quotidiennement** pendant l’exécution du projet,
 ### Semaine 8
 
 #### Lundi
+- Ouverture de l'oeuvre pour midi, supervision de l'oeuvre jusqu'au relai de mon superbe collège benjamin
 
 #### Mardi
+- Vernissage et supervision de l'oeuvre
 
 #### Mercredi
+- Supervision de l'oeuvre en après-midi
+- Enregistrement de la voix hors champ pour la vidéo de documentation finale de l'oeuvre
 
 #### Jeudi
+- Montage vidéo de la vidéo de documentation finale de l'oeuvre
+
+![Timeline de la vidéo de documentation finale de l'oeuvre](s8_jeudi.png)
+
+- Mix de la voix hors champ de la vidéo de documentation finale de l'oeuvre
+
+![Timeline du mix de la voix hors champ](s8_jeudi2.png)
+
+- Supervision de l'oeuvre en soirée
 
 #### Vendredi
-                                                   
+- Démontage de l'oeuvre
